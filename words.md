@@ -360,8 +360,10 @@ convict
 [[testimony]]
 [[counsel]]
 lawyer
+ layer
 attorney
 crime
+penalty [ˈpenəlti] ,death penalty
 
 //metal geology 1
 metal
@@ -523,6 +525,7 @@ boycott
 withstand
 withdraw
 resist
+oppose
 
 
 //yield
@@ -797,6 +800,8 @@ spirit  [ˈspɪrɪt]
 angry :indignant
 /pain
 affliction
+  friction
+  fiction
 suffering
 anguish 2
 /
@@ -853,7 +858,7 @@ pe'ninsula [pəˈnɪnsjələ]
 island
 strait:: 	[streɪt]
  trial:test  [ˈtraɪəl] 
-  rail railroad 
+  rail railroad | derail
   tail 1
 
 
@@ -939,6 +944,7 @@ goose::stimulate spur boost 			inspire	enrich :plentiflu
 		
 pigeon surgeon
 	  religion
+:dove
 moray 1
 horse hose::pant
 butterflay
