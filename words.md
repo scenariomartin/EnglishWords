@@ -90,28 +90,8 @@ grace
 grand 
 feat		spec'tacular eloquent [ˈeləkwənt]
 
- stain:mud clay
- 			 mad
- strain 3 ::press yield
-constraint
-retain
-detain
- entertain :: 1
-restrict restriction
-  strict :exact 3
-  strike ::hit knock
-  			   knot :shoelace
-   P:struck
-district 2 
-instruct instruction:statute	[ˈstætʃuːt]
-institute			 statue	[ˈstætʃuː]
-					 status	[ˈsteɪtəs]
-					 state:federal
-					 	   fate:destiny
-					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap
-					 	   		delay     trip  trap 
-bind    bind
-        blind
+
+
 
 
 
@@ -119,7 +99,8 @@ moist
 sweat
 soak
 sink	dip:soak 
-		   :descend descent decline
+		   :descend descent 1 decline
+		              scent
 		drop:drip
 spill	
  pill 2
@@ -144,13 +125,7 @@ tug
 tuck
 roll up
 
-//boycott
-boycott
-withstand
-withdraw
-resist
-oppress
-oppressive
+
 
 bone
 fracture
@@ -168,11 +143,13 @@ mouth
 tone tone
 	stone
 	 tune
-sniff
+sniff | blow
 chew:gum::
 shiver 1
 plunge into
 yell
+feed 1
+watch ::
 
 //liver
 liver liver
@@ -188,6 +165,9 @@ knee 1
 muscle	music
 
 
+//furniture
+stereo	[ˈsteriəʊ]
+
 //home
 chamber
 shed :: rid 2
@@ -195,15 +175,18 @@ timber
 cabinet
 wardrobe
 drawer
+staircase 
+
 pillow
 towel	towertemple 
 	template
+heel
 tenant
 //家居
 shelf
 comb
 cradle
-stereo	[ˈsteriəʊ]
+
 //厨
 saucer
 cup
@@ -235,7 +218,7 @@ garden
 //medicine
 medic:
 doctor			medium(media pl.)::middle
-			:doctrine 教条
+			:doctrine 教条 1
 needle
 pill 1
 nurse niece 1
@@ -252,7 +235,9 @@ course
  court
 architecture 1
 architect P
-mathematics 
+mathematics ,mathematical model
+lecture
+ treasure 
 
 
 
@@ -300,7 +285,7 @@ dense	senior
 		seminar:metting
 		nominal
 density
-decent
+decent 1
 scent
 
 //lure
@@ -338,25 +323,32 @@ specialist	expert	professor | layman	amateur
 
 
 ```
+
+combine
+merge
+integrate   [ˈɪntɪɡreɪt]
+:integral ::必需的 :积分
+
 //segment
 segment
 section
 separate 2
+segregate 1
 sector 0
-integral 0
 partition
 
-//scent
+//scent :sniff 1
 scent
 decent
 descent		sink 2
 flavour
-favour
+ favour
+rotten  rotten egg
 spice 2
 pepper 2	
 paper
 purple grape
-puppet
+puppet :timber 1
 
 //court
 court courtyard 1
@@ -384,6 +376,7 @@ iron
 emerald
 silver
 crystal
+gold
 
 revolve
 spin
@@ -411,10 +404,16 @@ clerk
 salary
 wallet ::portfolio
 compensation	competition
+ compel 1 
+ company 
+ compassion
 pension
 save
-
+treasure
+cheap
+expensive
 jewellery je well ery
+investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
 
 
 ```
@@ -446,7 +445,7 @@ label	[ˈleɪbl]
 signature signature [ˈsɪɡnətʃə(r)]
 					  gesture
 					  posture
-sign
+sign    assignment
 signal
 
 rake 0
@@ -472,6 +471,65 @@ petrol	petrol 	 [ˈpetrəl]
 petroleum
 gasoline
 
+//纪律 规定 规矩 规则 法令 法律 教条
+约束-束缚-限制-捆绑 | 反抗 反对 抵制 革命 反动 暴乱 | 投降 屈服 顺从 服从 遵从 遵守, 
+                        背叛 背离                    | 相信 信服 信任 信仰, 说服 动容
+压力-强迫-逼迫-欺压 | 鼓动 激励 激发 促进 推进 推崇 放纵 溺爱
+
+instruct instruction:statute	[ˈstætʃuːt]
+ institute			 statue	[ˈstætʃuː]
+					 status	[ˈsteɪtəs]
+					 state:federal
+					 	   fate:destiny
+					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap  :fabric
+					 	   		delay     trip  trap
+discipline
+doctrine 1
+
+
+ stain:mud clay
+ 			 mad
+ strain 3 ::press yield
+constraint
+retain
+detain
+ entertain ::treat 1 
+restrict restriction
+  strict :exact 3
+  strike ::hit knock
+  			   knot :shoelace
+   P:struck
+ district 2  district
+             instruct 1
+             institute 1	   		             
+bind    bind
+        blind
+
+
+pressure  depress 1
+press   :新闻
+		:按压 1
+oppress
+oppressive
+compel 
+enforce 
+force 
+oblige 1
+impel
+bully 
+
+//boycott
+boycott
+withstand
+withdraw
+resist
+
+
+//yield
+stoop 0
+surrender 
+conform ::coincide
+
 //believe
 convince
 persuade
@@ -481,10 +539,24 @@ warrant 0
 vow swear pledge [pledʒ]
 	 wear	
 guarantee
+
 //betray
 treachery
-treat
+ treat
 betray
+
+
+goose :: 1
+stimulate 
+spur 
+boost
+ boot:springboot
+inspire	
+  spire:dome
+  spiral:DNA
+enrich :plentiflu
+
+
 ```
 
 
@@ -537,10 +609,7 @@ necessary
 infrared detector
 detect
 
-//yield
-stoop 0
-yield 0
-surrender
+
 
 aesthetic [esˈθetɪk]
 athlete
@@ -556,9 +625,7 @@ never
 nerve
 nervous
 restless
-tension trend
-intent
-intention
+tension trend :tendency 1
 
 offer
 provide
@@ -574,10 +641,13 @@ sympathy
 sympathize
 
 spread
-stretch trend
-[[treachery]]
+stretch trend :tendency
+ treachery 1
 extend extended
-expansion
+expansion   :inflation
+intent
+intention
+tension 1
 ```
 
 
@@ -601,8 +671,7 @@ assume
 
 undermine
 destroy
-distribute
-allocate
+distribute :allocate
 disaster
 
 collective conscious
@@ -617,6 +686,7 @@ memorial
 tomb
 
 
+//physics   [ˈfɪzɪks] emphasis 1
 atom    ,neighbouring atom
 molecule	[ˈmɒlɪkjuːl]
 technique
@@ -629,24 +699,26 @@ soluble	dissolution [ˌdɪsəˈluːʃn] dissolve
 permeate
 dilute
 
+//material
+strucure 1  
+
+```
+
+
+
 
 
 ```
-
-
-
-
-
-```
-oblique
-tilt | straight [streɪt]
+oblique     [əˈbliːk]
+ oblige     [əˈblaɪdʒ]
+tilt | straight [streɪt] 1
 	   strain 3
+
 
 district 2	distribute 2
 street	street
 		stress: emphasis pressure
-						 press	:新闻
-						        :按压 1
+						 press	
 metropolitan
 
 ```
@@ -720,26 +792,34 @@ soldier:
 //emotion
 emotion 2
 mood
+spirit  [ˈspɪrɪt]
+ inspire 1
 angry :indignant
-pain
-dejected	dispirit
-pressure:strain 3 oppressive oppress
-
-depress
-  press
-//pain
+/pain
 affliction
 suffering
-pain
-anguish			2
+anguish 2
+/
+dejected
+dispirit
+depress
+  press
+  pressure:strain 3 oppressive oppress
+/
+impulse
+/
+anxious     [ˈæŋkʃəs]
+restless    ,if you just sit and observe, you will find how restless your mind is.
+arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
 
 //pathetic
 pathetic:poor 
 pool
 poverty
 
-cold cruelty
+cold cruelty :callous [ˈkæləs] grim
 	 cruel cruet
+	 
 	 
 	 
 ```
@@ -776,8 +856,7 @@ strait:: 	[streɪt]
   rail railroad 
   tail 1
 
-combine
-merge
+
 
 
 fragile
@@ -785,10 +864,11 @@ vulnerable	[ˈvʌlnərəbl]
 fridge:re.frige.rator
 frigid	chill
 
-//correct
+//correct 
+   direct :straight 1 | tilt
 correct:rectify redress
 	   :accurate accuracy precise	exact 2 exactly exactness
-	   			:specific 2
+	   			:specific 2                 ,exactly coincide
 correction
 
 
@@ -800,15 +880,19 @@ conform
 //demand
 require
 exact
+achieve
+fetch
+get
+require
 ```
 
 
 
 ```
-civic
+civic critic
 civilian
   alliance
-  alloy allocate:distribute 2
+  alloy allocate:distribute 1 assignment 1 
   anonymous
 civilization
 civilize
@@ -817,7 +901,8 @@ citizen | savage:fierce
 		  sausage:ham:hamburger
 		  vinegar
 		  siler 2
-		  
+resident residence
+
 
 
 zebra:stripe
@@ -865,6 +950,8 @@ transcend:beyond
 deem think
 dean:school master
   deed::behavior
+  heel
+  feed
 indeed
 dead
 morally :virtue
@@ -885,11 +972,13 @@ multiply six by nine :6x9
 bare
 bear
 
-mathematical ,mathematical model
+
 
 hive
 bee
 blossom
+bloom
+ blood
 
 marry
 marrital
@@ -900,7 +989,9 @@ audition
 audience
 
 inspect
-investigate
+investigate 
+ investment 1
+observe
 
 prodigious
 big
@@ -926,7 +1017,7 @@ bounce
 rifle 0
 ominous
 crunch 0
-arrogant
+
 tilt
 scatter
 snowflake
@@ -943,14 +1034,13 @@ Process
 
 jazz
 
-blood
-
 fairly::
 
 cigar
 
-discipline
+eve , new year eve
 
+instinct
 ```
 Jerusalem
 Irap
@@ -973,7 +1063,11 @@ bad juju
 flag down a cab
 that doesn't conform to your oppressive gender norms
 at the end of
+i asked my girlfriend to marry me out of impulse.
+prior to this time, i had been working as a painter.
+the crowd thinned and they were able to climb the next staircase without difficulty.
 ```
+
 
 开花
 
@@ -1011,7 +1105,7 @@ crack
 
 //occupation
 occupation	[ˌɒkjuˈpeɪʃn]   occupation
-						    occupy	[ˈɒkjupaɪ]
+						    occupy	[ˈɒkjupaɪ] :possession 1
 vocation	occasion
 profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
@@ -1022,8 +1116,10 @@ thief	[θiːf] :surreptitious	[ˌsʌrəpˈtɪʃəs]
 :steal
 architect
 draftman    ,an architect had five wounds, a draftman seventeen.
+painter
 
-coincide	    [ˌkəʊɪnˈsaɪd]
+
+coincide	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
 by chance
 by coincidence
@@ -1051,12 +1147,12 @@ magistrate	2
 //glimmer
 glimmer | gloom
 light	light
-	   plight
+	   plight 1
 	    
 	    
 nutrition
 nutrient
-nature
+nature  natural ::genius
 neutral	[ˈnjuːtrəl]
 
 
@@ -1069,10 +1165,11 @@ adverb
 frontier
 border
 adjacent
+circumstance    cir cum stance :environment:plight:situation condition  
 
 facility    [fəˈsɪləti]
 installation
-infrastructure
+infrastructure 1    infra + structure
  infrared 1
  
 tomb
@@ -1082,22 +1179,37 @@ cemetery    [ˈsemətri]
  
 //spectrum
 spectrum
-reddish
+reddish     childish
 infrared 1
 
 
 progress
 process
-
-achieve
-fetch
-get
+ possession :occupy 1
 
 
-eve , new year eve
+
+suit    :uniform conform 1
+        :apartment
+fit
+
+//genius [ˈdʒiːniəs]
+talent
+natural
+gift
+
+adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
+                         dish
+decorate
 ```
 
-
+```
+grim
+gloom
+gloomy
+glimmer
+glee :jolly
+```
 
 
 
