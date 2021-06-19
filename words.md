@@ -72,7 +72,7 @@ ob
 ### 句
 
 cups and saucers are made of clay, and are backed in an oven to make them hard.
-
+//
 ### 特殊
 
 ```
@@ -92,9 +92,11 @@ feat		spec'tacular eloquent [ˈeləkwənt]
 
  stain:mud clay
  			 mad
- strain 3 ::
+ strain 3 ::press yield
+constraint
 retain
 detain
+ entertain :: 1
 restrict restriction
   strict :exact 3
   strike ::hit knock
@@ -106,8 +108,11 @@ institute			 statue	[ˈstætʃuː]
 					 status	[ˈsteɪtəs]
 					 state:federal
 					 	   fate:destiny
-					 	   fade:decay strip:stripe:zebra
-					 	   		delay 	
+					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap
+					 	   		delay     trip  trap 
+bind    bind
+        blind
+
 
 
 moist
@@ -166,7 +171,8 @@ tone tone
 sniff
 chew:gum::
 shiver 1
-
+plunge into
+yell
 
 //liver
 liver liver
@@ -238,6 +244,22 @@ surgery 1 surge 1
 ana'tomical	[ˌænəˈtɒmɪkl]
 recovery:recover
 refresh
+treat   ::entertain::entertainment
+
+
+//subject course
+course
+ court
+architecture 1
+architect P
+mathematics 
+
+
+
+//mathematics
+axis     [ˈæksɪs]
+vertical
+ virtue 1
 
 //biology
 biology		biology
@@ -250,19 +272,25 @@ toxin	[ˈtɒksɪn]
 bacterium
 
 
+
 //vehicle
 vehicle 
-vertical
+vertical 1 
 lorry
 tractor
 cab
+
+//weapon
+knife
+grenade [ɡrəˈneɪd]
+
 
 
 canal canal
 			naval
 			lava
 			
-molecule	[ˈmɒlɪkjuːl]
+
 ```
 
 
@@ -333,6 +361,7 @@ puppet
 //court
 court courtyard 1
 sue
+prosecute
 plaintiff plaintiff
 		  plentiful
 convict
@@ -383,6 +412,10 @@ salary
 wallet ::portfolio
 compensation	competition
 pension
+save
+
+jewellery je well ery
+
 
 ```
 
@@ -442,6 +475,7 @@ gasoline
 //believe
 convince
 persuade
+persuasion
 //warrent
 warrant 0
 vow swear pledge [pledʒ]
@@ -583,6 +617,8 @@ memorial
 tomb
 
 
+atom    ,neighbouring atom
+molecule	[ˈmɒlɪkjuːl]
 technique
 mechanics
 
@@ -608,9 +644,9 @@ tilt | straight [streɪt]
 
 district 2	distribute 2
 street	street
-				stress: emphasis pressure
-												 press	:新闻
-												 				:按压
+		stress: emphasis pressure
+						 press	:新闻
+						        :按压 1
 metropolitan
 
 ```
@@ -687,7 +723,7 @@ mood
 angry :indignant
 pain
 dejected	dispirit
-pressure:strain 3 oppressive											  oppress
+pressure:strain 3 oppressive oppress
 
 depress
   press
@@ -713,6 +749,7 @@ cold cruelty
 ```
 efficient 有效率的
 effective	有用的
+affect      影响 :influence
 
 liberty
 liberal
@@ -830,7 +867,7 @@ dean:school master
   deed::behavior
 indeed
 dead
-morally
+morally :virtue
 moray 1
 
 agent	,senior agent
@@ -912,7 +949,7 @@ fairly::
 
 cigar
 
-
+discipline
 
 ```
 Jerusalem
@@ -950,7 +987,7 @@ accumulate
 			pretend
 			feign
 			camouflage
-			distinguish:vague
+			distinguish | vague confuse confusion 
 		anguish pain 2
 	stimulus
 	stimulate
@@ -983,8 +1020,10 @@ soldier
 chef	[ʃef]
 thief	[θiːf] :surreptitious	[ˌsʌrəpˈtɪʃəs]
 :steal
+architect
+draftman    ,an architect had five wounds, a draftman seventeen.
 
-coincide			[ˌkəʊɪnˈsaɪd]
+coincide	    [ˌkəʊɪnˈsaɪd]
 coincidence		[kəʊˈɪnsɪdəns]
 by chance
 by coincidence
@@ -1001,7 +1040,7 @@ visual
 magnet	:magnetic  magnetism ,animal magnetism
 magnify :magnifier [ˈmæɡnɪfaɪə(r)] magnification
 magnitude	,magnitude quake
-					  square ,Time Square
+					  square ,Times Square
 magnificent 1 :magnificence
 magazine
 magic
@@ -1026,6 +1065,37 @@ adverb
 
 ```
 
+```
+frontier
+border
+adjacent
+
+facility    [fəˈsɪləti]
+installation
+infrastructure
+ infrared 1
+ 
+tomb
+cemetery    [ˈsemətri]
+ centimeter
+ 
+ 
+//spectrum
+spectrum
+reddish
+infrared 1
+
+
+progress
+process
+
+achieve
+fetch
+get
+
+
+eve , new year eve
+```
 
 
 
