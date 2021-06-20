@@ -109,6 +109,8 @@ overflow
 leak	leak
 		leap :skip:skim
 		lip
+liquid
+
 
 //ver
 verse
@@ -170,7 +172,7 @@ knee 1
 muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)]
-
+fingertip4
 
 //furniture
 stereo	[ˈsteriəʊ]
@@ -228,18 +230,21 @@ doctor			medium(media pl.)::middle
 			:doctrine 教条 1
 needle
 pill 1
+dose 
+ does
 nurse niece 1
 surgeon 1
 surgery 1 surge 1
-ana'tomical	[ˌænəˈtɒmɪkl]
+ana'tomical	[ˌænəˈtɒmɪkl] :course
 recovery:recover
 refresh
 treat   ::entertain::entertainment
-
+dentist 1
 
 //subject course
 course
  court
+semester
 architecture 1
 architect P
 mathematics ,mathematical model
@@ -267,8 +272,9 @@ bacterium
 
 
 //vehicle
-vehicle 
-vertical 1 
+vehicle
+ vertical 1
+traffic 
 lorry
 tractor
 cab
@@ -305,7 +311,7 @@ dormitory
 apartment
 
 //eruption
-eruption	erosion 关于化学 decay 关于生物
+eruption	erosion 关于化学 decay 关于生物 corrupt 关于官员
 			emotion
 		:volcano lava
 				 lavatory
@@ -319,7 +325,8 @@ entrepreneur
 fellow::
 
 //crust
-crust
+crust crust
+      crush 1
 shell
 shall
 
@@ -388,13 +395,16 @@ brass
 zinc
 calcium
 iron
-emerald
+emerald [ˈemərəld]
 silver
 crystal
 gold
 pearl 1 pear
 ore oar 1
  ,vein of ore
+rock rocky ::stable steady
+
+
 
 revolve
 spin
@@ -442,11 +452,15 @@ cash rush crush :walnut
 
 
 ```
-prevail 0
-//premier
+prevail popular 
+
+
 precede
 previous
-premier 0
+predecessor [ˈpriːdəsesə(r)]
+
+//premier
+premier :prime prior
 prime minister
 president
 deputy
@@ -457,6 +471,7 @@ magistrate	[ˈmædʒɪstreɪt]
 illusion
 image
 imagination
+fancy
 
 banner
 trademark
@@ -499,6 +514,9 @@ gasoline
 压力-强迫-逼迫-欺压 | 鼓动 激励 激发 促进 推进 推崇 放纵 溺爱
 
 instruct instruction:statute	[ˈstætʃuːt]
+constitution construction
+             construct :build
+:statute
  institute			 statue	[ˈstætʃuː]
 					 status	[ˈsteɪtəs]
 					 state:federal
@@ -547,7 +565,7 @@ bully
 boycott
 withstand
 withdraw
-resist
+resist resistance :friction 1
 oppose
 
 
@@ -717,6 +735,8 @@ atom    ,neighbouring atom
 molecule	[ˈmɒlɪkjuːl]
 technique
 mechanics
+watt
+turbine [ˈtɜːbaɪn]
 
 //chemical
 chemical
@@ -725,9 +745,12 @@ soluble	dissolution [ˌdɪsəˈluːʃn] dissolve
 permeate
 dilute
 melt bolt
+liquid 1 solid
+         soil
 
 //material
 strucure 1  
+plastic ,clear plastic
 
 //mechanics
 bolt 1
@@ -769,6 +792,7 @@ erect
 elect
 build
 establish
+construct 1
 
 //think
 comprehend comprehensive:all overall
@@ -851,7 +875,8 @@ pathetic:poor
 pool
 poverty
 
-cold cruelty :callous [ˈkæləs] grim
+cold cruelty :callous [ˈkæləs] grim 
+                               trim
 	 cruel cruet
 	 
 	 
@@ -938,7 +963,7 @@ citizen | savage:fierce
 		  siler 2
 resident residence
 
-
+soil
 juicy [ˈdʒuːsi] ::
 cider
 beer :alcohol 1 [ˈælkəhɒl]
@@ -946,8 +971,8 @@ walnut 1 :crush
 pear peel 
  pearl ,this resort town was to become the pearl of the Black Sea.
 
-
-zebra:stripe
+camel   [ˈkæml]
+zebra:stripe    [ˈzebrə]
 hippocampus
 	campus
 crocodile [ˈkrɒkədaɪl]
@@ -985,11 +1010,13 @@ pigeon surgeon
 moray 1
 horse hose::pant
 butterfly
-
+seal ::
 
 
 	  
-utmost:utter
+utmost :maximize 
+ :utter complete whole
+        complex | simple
 exceeding
  creep
 transcend:beyond
@@ -1045,6 +1072,7 @@ examine
 supervise
 
 prodigious
+fantastic
 big
 ample maple [ˈmeɪpl] 
 plentiful
@@ -1091,12 +1119,15 @@ cigar
 eve , new year eve
 
 instinct
+ institute
 
-
+halt
 
 vaccine
 
+panorama
 
+remain
 ```
 Jerusalem
 Irap
@@ -1124,6 +1155,11 @@ at the end of
 i asked my girlfriend to marry me out of impulse.
 prior to this time, i had been working as a painter.
 the crowd thinned and they were able to climb the next staircase without difficulty.
+inked pad
+no seal no deal.
+place an order
+it cuts rolling resistance by around 30 percentage, compared with its predecessor.
+the soil should be kept moist but well-drained so it does not get too wet.
 ```
 
 
@@ -1169,6 +1205,7 @@ profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
 surgeon 1 :surgery
+dentist
 soldier
 chef	[ʃef]
  :butcher
@@ -1204,6 +1241,9 @@ magazine
 magic
 magical :magician P
 magistrate	2
+
+bribe
+corrupt
 
 
 //glimmer
@@ -1276,6 +1316,22 @@ glee :jolly
 negative | positive position
 
 cipher secret
+
+shore coast
+port
+harbor
+
+trash ::throw
+      :trim
+       grim 
+rubbish
+
+侵犯-攻击-敲打
+invasion    [ɪnˈveɪʒn]
+ ,invasion privacy
+ 
+ 
+ baseball
 ```
 
 
