@@ -49,7 +49,7 @@ strategy	tactics
 
 meadow	grass	
 
-gauge	measure
+gauge	measure ::措施 测量
 
 e
 
@@ -77,7 +77,7 @@ cups and saucers are made of clay, and are backed in an oven to make them hard.
 
 ```
 capture
-captain
+captain 1
 capital
 
 grate
@@ -127,8 +127,11 @@ roll up
 
 
 
-bone
-fracture
+
+
+juvenile    [ˈdʒuːvənaɪl]
+    ,juvenile detention center.
+
 
 //human deed posture
 swallow	swallow
@@ -150,6 +153,8 @@ plunge into
 yell
 feed 1
 watch ::
+gossip ,i've got the juiciest bit of gossip ever.
+
 
 //liver
 liver liver
@@ -163,6 +168,8 @@ organize
 brow eyebrow
 knee 1
 muscle	music
+ masculine
+bone :fracture  [ˈfræktʃə(r)]
 
 
 //furniture
@@ -245,6 +252,7 @@ lecture
 axis     [ˈæksɪs]
 vertical
  virtue 1
+fuzzy 1
 
 //biology
 biology		biology
@@ -297,13 +305,14 @@ dormitory
 apartment
 
 //eruption
-eruption	erosion
+eruption	erosion 关于化学 decay 关于生物
 			emotion
 		:volcano lava
 				 lavatory
 		 alcohol
 evaporate
 release
+emission  mission
 
 enterprise
 entrepreneur
@@ -339,7 +348,7 @@ partition
 
 //scent :sniff 1
 scent
-decent
+decent | vulgar vague
 descent		sink 2
 flavour
  favour
@@ -364,6 +373,10 @@ lawyer
 attorney
 crime
 penalty [ˈpenəlti] ,death penalty
+resort 1 :aid  petition 1 
+            competition
+         :,resort town
+petition 1
 
 //metal geology 1
 metal
@@ -379,6 +392,9 @@ emerald
 silver
 crystal
 gold
+pearl 1 pear
+ore oar 1
+ ,vein of ore
 
 revolve
 spin
@@ -405,7 +421,8 @@ clerk
 //salary
 salary
 wallet ::portfolio
-compensation	competition
+compensation	competition 
+                   petition 1
  compel 1 
  company 
  compassion
@@ -416,7 +433,7 @@ cheap
 expensive
 jewellery je well ery
 investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
-
+cash rush crush :walnut
 
 ```
 
@@ -444,11 +461,13 @@ imagination
 banner
 trademark
 label	[ˈleɪbl]
+
 signature signature [ˈsɪɡnətʃə(r)]
 					  gesture
 					  posture
 sign    assignment
 signal
+
 
 rake 0
 spade 0
@@ -469,7 +488,8 @@ grease ease
 oil
 patriotic 0
 petrol	petrol 	 [ˈpetrəl]
-		patrol   [pəˈtrəʊl]
+		patrol   [pəˈtrəʊl] :parade
+		patron   [ˈpeɪtrən]
 petroleum
 gasoline
 
@@ -485,7 +505,7 @@ instruct instruction:statute	[ˈstætʃuːt]
 					 	   fate:destiny
 					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap  :fabric
 					 	   		delay     trip  trap
-discipline
+discipline :whip ,like a whip on his back.
 doctrine 1
 
 
@@ -493,9 +513,11 @@ doctrine 1
  			 mad
  strain 3 ::press yield
 constraint
-retain
-detain
- entertain ::treat 1 
+retain captain attion:get
+detain :detention
+ entertain ::treat 1
+curb
+restraint ::PN 
 restrict restriction
   strict :exact 3
   strike ::hit knock
@@ -701,9 +723,13 @@ react
 soluble	dissolution [ˌdɪsəˈluːʃn] dissolve
 permeate
 dilute
+melt bolt
 
 //material
 strucure 1  
+
+//mechanics
+bolt 1
 
 ```
 
@@ -798,6 +824,8 @@ mood
 spirit  [ˈspɪrɪt]
  inspire 1
 angry :indignant
+       malignant :devil evil
+hatred [ˈheɪtrɪd] :hate
 /pain
 affliction
   friction
@@ -887,6 +915,7 @@ require
 exact
 achieve
 fetch
+attain
 get
 require
 ```
@@ -909,6 +938,13 @@ citizen | savage:fierce
 resident residence
 
 
+juicy [ˈdʒuːsi] ::
+cider
+beer :alcohol 1 [ˈælkəhɒl]
+walnut 1 :crush
+pear peel 
+ pearl ,this resort town was to become the pearl of the Black Sea.
+
 
 zebra:stripe
 hippocampus
@@ -919,7 +955,7 @@ crocodile [ˈkrɒkədaɪl]
 tortoise	[ˈtɔːtəs]
 deer dear
 cock
-	coke carbon
+	coke carbon :greenhouse gas
 	cook
 	cocaine
 	tail
@@ -927,7 +963,7 @@ cock
 duck tuck
 goose::stimulate spur boost 			inspire	enrich :plentiflu
 					 boot:springboot	  spire:dome
-					 					  spiral:DNA
+	velvet				 					  spiral:DNA
 	silk
 	sick
 	slice
@@ -947,7 +983,10 @@ pigeon surgeon
 :dove
 moray 1
 horse hose::pant
-butterflay
+butterfly
+
+
+
 	  
 utmost:utter
 exceeding
@@ -960,7 +999,10 @@ dean:school master
   feed
 indeed
 dead
-morally :virtue
+
+mortal
+mortality :mortally [ˈmɔːtəli] malignant 1
+morality  morally :virtue
 moray 1
 
 agent	,senior agent
@@ -998,6 +1040,8 @@ inspect
 investigate 
  investment 1
 observe
+examine
+supervise
 
 prodigious
 big
@@ -1030,7 +1074,6 @@ snowflake
 giggle
 memo
 
-crystal
 
 Indicate
 
@@ -1047,9 +1090,17 @@ cigar
 eve , new year eve
 
 instinct
+
+
+
+vaccine
+
+
 ```
 Jerusalem
 Irap
+Athen
+Nigeria
 ```
 
 
@@ -1087,7 +1138,7 @@ accumulate
 			pretend
 			feign
 			camouflage
-			distinguish | vague confuse confusion 
+			distinguish | vague ,fuzzy [ˈfʌzi] confuse confusion 
 		anguish pain 2
 	stimulus
 	stimulate
@@ -1115,14 +1166,18 @@ occupation	[ˌɒkjuˈpeɪʃn]   occupation
 vocation	occasion
 profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
+              ore 1
 surgeon 1 :surgery
 soldier
 chef	[ʃef]
+ :butcher
 thief	[θiːf] :surreptitious	[ˌsʌrəpˈtɪʃəs]
 :steal
 architect
 draftman    ,an architect had five wounds, a draftman seventeen.
-painter
+painter :paint  
+         print 
+         pint
 
 
 coincide	    [ˌkəʊɪnˈsaɪd]  ::conform 1
@@ -1215,6 +1270,11 @@ gloom
 gloomy
 glimmer
 glee :jolly
+
+
+negative | positive position
+
+cipher secret
 ```
 
 
