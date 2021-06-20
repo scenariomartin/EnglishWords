@@ -515,6 +515,7 @@ doctrine 1
 constraint
 retain captain attion:get
 detain :detention
+        intention 1
  entertain ::treat 1
 curb
 restraint ::PN 
