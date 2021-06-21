@@ -117,8 +117,8 @@ verse
 version
 vest
 verdict
-veto
-vein
+veto [ˈviːtəʊ] | vote
+vein ,leaf vein
 verbal
 
 //pull
@@ -128,7 +128,7 @@ tuck
 roll up
 
 
-
+recreation
 
 
 juvenile    [ˈdʒuːvənaɪl]
@@ -156,13 +156,19 @@ yell
 feed 1
 watch ::
 gossip ,i've got the juiciest bit of gossip ever.
+    :recreation
 
+throw
+toss
+pitch ::asphalt  [ˈæsfælt]
+ ,wipe you off the pitch
+wipe
 
 //liver
 liver liver
 	  live
 lung
-stomach	[ˈstʌmək]
+stomach	[ˈstʌmək] :appetite
 intestine
 abdomen	abdominal [æbˈdɒmɪnl]
 organ	[ˈɔːɡən]
@@ -176,6 +182,9 @@ fingertip4
 
 //furniture
 stereo	[ˈsteriəʊ]
+TV  :repertoire  [ˈrepətwɑː(r)]
+fridge 1
+oven
 
 //home
 chamber
@@ -193,6 +202,7 @@ heel
 tenant
 //家居
 shelf
+ shefter :refuge 1
 comb
 cradle
 
@@ -205,7 +215,7 @@ white suger
 	  surgeon 2
 pail
 barrel ::
-oven
+
 bake
 vinegar
 suger
@@ -222,7 +232,8 @@ sock stock
 courtyard 1
 garden
 
-	
+
+//
 	
 //medicine
 medic:
@@ -238,8 +249,9 @@ surgery 1 surge 1
 ana'tomical	[ˌænəˈtɒmɪkl] :course
 recovery:recover
 refresh
-treat   ::entertain::entertainment
+treat   ::entertain::entertainment:recreation 1
 dentist 1
+symptom 1
 
 //subject course
 course
@@ -258,8 +270,16 @@ axis     [ˈæksɪs]
 vertical
  virtue 1
 fuzzy 1
+diameter :radius
+          radio
+remainder
 
-//biology
+//literature
+plot ::
+
+
+
+//biology ecology
 biology		biology
 			biography
 			geography	地理学
@@ -269,7 +289,26 @@ toxin	[ˈtɒksɪn]
  prison jail
 bacterium
 
+//sociology
+census
 
+
+//cultural
+racial [ˈreɪʃl] race ,racial discrimination
+ethnic 
+ ethical :morality 1
+
+
+//geography [dʒiˈɒɡrəfi]
+geographic
+ground land soil
+ ,ground troop
+outsider
+strait :span
+typhoon
+atmosphere
+    sphere
+ozone layer
 
 //vehicle
 vehicle
@@ -278,11 +317,26 @@ traffic
 lorry
 tractor
 cab
+crane
+tram trim
+freight train
+  tight 1
+
+tanker ::
+        :cargo
+        cab
+        cage
+        cave
+   ,a tanker ship washed upon a coast line.
+                         span
+                         sponge
+raft
+
 
 //weapon
 knife
 grenade [ɡrəˈneɪd]
-
+troop
 
 
 canal canal
@@ -296,7 +350,7 @@ canal canal
 
 ```
 dense	senior
-		seminar:metting
+		seminar:metting workshop
 		nominal
 density
 decent 1
@@ -352,11 +406,17 @@ separate 2
 segregate 1
 sector 0
 partition
+split
+divide
 
 //scent :sniff 1
 scent
 decent | vulgar vague
-descent		sink 2
+descent		sink 2 decline ::refuse
+  :recession                 refuge 1
+  possession possess
+             
+  | ascension
 flavour
  favour
 rotten  rotten egg
@@ -370,6 +430,7 @@ puppet :timber 1
 court courtyard 1
 sue
 prosecute
+ parachute  [ˈpærəʃuːt] 
 plaintiff plaintiff
 		  plentiful
 convict
@@ -382,8 +443,12 @@ crime
 penalty [ˈpenəlti] ,death penalty
 resort 1 :aid  petition 1 
             competition
+               appetite :stomach
+               puppet
          :,resort town
 petition 1
+bill
+
 
 //metal geology 1
 metal
@@ -400,7 +465,7 @@ silver
 crystal
 gold
 pearl 1 pear
-ore oar 1
+ore oar 1 oak owe::归功于 era eve own:occupy1
  ,vein of ore
 rock rocky ::stable steady
 
@@ -441,7 +506,7 @@ save
 treasure
 cheap
 expensive
-jewellery je well ery
+jewellery je well ery :jewel
 investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
 cash rush crush :walnut
 
@@ -455,6 +520,13 @@ cash rush crush :walnut
 prevail popular 
 
 
+primary :main | senior 
+primarily :main chief root [praɪˈmerəli]
+primitive  [ˈprɪmətɪv] 
+principal
+major ::专业课 
+ mayor
+
 precede
 previous
 predecessor [ˈpriːdəsesə(r)]
@@ -462,11 +534,12 @@ predecessor [ˈpriːdəsesə(r)]
 //premier
 premier :prime prior
 prime minister
-president
+president presidency
 deputy
-mayor
+mayor 1 
+ major :: 1
 magistrate	[ˈmædʒɪstreɪt]
-
+preside pre'side
 
 illusion
 image
@@ -476,13 +549,14 @@ fancy
 banner
 trademark
 label	[ˈleɪbl]
-
 signature signature [ˈsɪɡnətʃə(r)]
 					  gesture
 					  posture
 sign    assignment
+signify
+ rectify
 signal
-
+symbolic 1 symbol
 
 rake 0
 spade 0
@@ -509,11 +583,11 @@ petroleum
 gasoline
 
 //纪律 规定 规矩 规则 法令 法律 教条
-约束-束缚-限制-捆绑 | 反抗 反对 抵制 革命 反动 暴乱 | 投降 屈服 顺从 服从 遵从 遵守, 
+禁止-约束-束缚-限制-捆绑 (主动) | 反抗 反对 抵制 革命 反动 暴乱 (被动) | 投降 屈服 顺从 服从 遵从 遵守, 
                         背叛 背离                    | 相信 信服 信任 信仰, 说服 动容
 压力-强迫-逼迫-欺压 | 鼓动 激励 激发 促进 推进 推崇 放纵 溺爱
 
-instruct instruction:statute	[ˈstætʃuːt]
+instruct instruction:statute 	[ˈstætʃuːt] bill 1
 constitution construction
              construct :build
 :statute
@@ -522,20 +596,30 @@ constitution construction
 					 state:federal
 					 	   fate:destiny
 					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap  :fabric
-					 	   		delay     trip  trap
+					 	   		delay postpone     trip  trap
 discipline :whip ,like a whip on his back.
+ principal
 doctrine 1
 
+forbid , The Forbidden City
+veto 1
 
- stain:mud clay
- 			 mad
- strain 3 ::press yield
+
+
 constraint
 retain captain attion:get
 detain :detention
         intention 1
  entertain ::treat 1
+ certain ::1
+ stain:mud clay
+ 			 mad
+  strain 3 ::press yield
+  strait 1
+   trait 1
+ 
 curb
+preclude
 restraint ::PN 
 restrict restriction
   strict :exact 3
@@ -566,7 +650,10 @@ boycott
 withstand
 withdraw
 resist resistance :friction 1
+:parade disturbance patrol
 oppose
+retort
+ resort 1
 
 
 //yield
@@ -583,6 +670,15 @@ warrant 0
 vow swear pledge [pledʒ]
 	 wear	
 guarantee
+assurance
+
+certain ::some
+ ,certain line
+
+confirm
+ conform
+affirm :assert
+ affair
 
 //betray
 treachery
@@ -678,11 +774,10 @@ province
 prove
 testify
 [[testimony]]
+cer'tificate diploma
+             diplomat 
 
-symmetric
-symmetry
-sympathy
-sympathize
+
 
 spread
 stretch trend :tendency
@@ -705,7 +800,8 @@ consult
 insult
 result
 
-engage
+engage 
+  gauge 1
 participate in
 participants
 particularly
@@ -725,6 +821,8 @@ collect glean 2
 recollect
 remember
 reminder
+ remain :retain 1
+        :remains remainder 1
 //memorial
 memorial
 tomb
@@ -737,6 +835,7 @@ technique
 mechanics
 watt
 turbine [ˈtɜːbaɪn]
+supersonic
 
 //chemical
 chemical
@@ -747,6 +846,7 @@ dilute
 melt bolt
 liquid 1 solid
          soil
+carbon dioxide
 
 //material
 strucure 1  
@@ -763,17 +863,17 @@ bolt 1
 
 ```
 oblique     [əˈbliːk]
- oblige     [əˈblaɪdʒ]
+ oblige  1  [əˈblaɪdʒ]
 tilt | straight [streɪt] 1
 	   strain 3
-
+tremble
 
 district 2	distribute 2
 street	street
 		stress: emphasis pressure
 						 press	
 metropolitan
-
+booth
 ```
 
 
@@ -832,17 +932,19 @@ dry up
 
 //relationship
 widow 
-niece
+niece 1
+comrade
+
 
 route
 road
 
 due:deserve 2
-	 :expire
+	 :expire :postpone
  
 soldier:
 			:keep insist
-
+情感-性格-品质-为人-行为
 //emotion
 emotion 2
 mood
@@ -857,6 +959,7 @@ affliction
   fiction
 suffering
 anguish 2
+miserable 
 /
 dejected
 dispirit
@@ -870,13 +973,49 @@ anxious     [ˈæŋkʃəs]
 restless    ,if you just sit and observe, you will find how restless your mind is.
 arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
 
-//pathetic
-pathetic:poor 
-pool
-poverty
+/character
+flake ::fish juvenile ,teenage flake and college dropout
+odd
 
+//trait 1
+charity
+wicked
+
+
+//deed 1
+/primary
+stab
+
+/senior
+accuse ,enjoyed by men bound by accusing morality of their deeds.
+ accurate 1
+abuse
+insult
+scorn
+ corn
+ core
+ thorn
+ throne :empire 
+        inspire 1
+         expire 1
+          spire 1
+quarrel ,an ant has no quarrel with a boot.
+ squirrel 1         
+clumsy  [ˈklʌmzi]
+ clump
+ climb
+ crime 1
+
+//pathetic
+pathetic:poor:poverty
+         pool   
+sympathy :sympathize
+ symmetric :symmetry
+ symptom 1
+ sym'bolic
 cold cruelty :callous [ˈkæləs] grim 
                                trim
+                               tram
 	 cruel cruet
 	 
 	 
@@ -891,7 +1030,7 @@ effective	有用的
 affect      影响 :influence
 
 liberty
-liberal
+liberal :verbal :: 1
 literacy	[ˈlɪtərəsi]
 literature	[ˈlɪtrətʃə(r)]
 
@@ -912,7 +1051,7 @@ pe'ninsula [pəˈnɪnsjələ]
 island
 strait:: 	[streɪt]
  trial:test  [ˈtraɪəl] 
-  rail railroad | derail
+  rail railroad | derail detail
   tail 1
 
 
@@ -921,6 +1060,7 @@ strait:: 	[streɪt]
 fragile
 vulnerable	[ˈvʌlnərəbl]
 fridge:re.frige.rator
+ bridge
 frigid	chill
 
 //correct 
@@ -930,9 +1070,10 @@ correct:rectify redress
 	   			:specific 2                 ,exactly coincide
 correction
 
+| erroneous
 
-confirm
-conform
+
+ 
 
 
 
@@ -961,9 +1102,10 @@ citizen | savage:fierce
 		  sausage:ham:hamburger
 		  vinegar
 		  siler 2
-resident residence
+resident residence residency 1
 
 soil
+grape
 juicy [ˈdʒuːsi] ::
 cider
 beer :alcohol 1 [ˈælkəhɒl]
@@ -971,6 +1113,10 @@ walnut 1 :crush
 pear peel 
  pearl ,this resort town was to become the pearl of the Black Sea.
 
+
+hound   :dog
+crow    [krəʊ] :scarecrow
+ crowd
 camel   [ˈkæml]
 zebra:stripe    [ˈzebrə]
 hippocampus
@@ -987,7 +1133,7 @@ cock
 	tail
 	rear
 duck tuck
-goose::stimulate spur boost 			inspire	enrich :plentiflu
+goose::stimulate spur boost 			inspire	enrich :plentiful
 					 boot:springboot	  spire:dome
 	velvet				 					  spiral:DNA
 	silk
@@ -1011,17 +1157,24 @@ moray 1
 horse hose::pant
 butterfly
 seal ::
-
-
+elephant ivory, ivory relief
+                      belief
+                      brief concise
+squirrel 1                  
+fox fax [fæks]
 	  
 utmost :maximize 
  :utter complete whole
         complex | simple
 exceeding
  creep
+thorough :utter
+
+
 transcend:beyond
 deem think
 dean:school master
+    :principal :: 1
   deed::behavior
   heel
   feed
@@ -1030,7 +1183,7 @@ dead
 
 mortal
 mortality :mortally [ˈmɔːtəli] malignant 1
-morality  morally :virtue
+morality  morally :virtue ethical 1
 moray 1
 
 agent	,senior agent
@@ -1049,12 +1202,15 @@ bare
 bear
 
 
-
+swarm
 hive
 bee
 blossom
 bloom
  blood
+flower
+ flour paste::
+
 
 marry
 marrital
@@ -1081,6 +1237,9 @@ grace
 spectacular
 eloquent
 flourish
+immensity ,immensity universe
+prosperity ,new era of prosperity [prɒˈsperəti]
+gorgeous
 ```
 
 
@@ -1099,14 +1258,12 @@ crunch 0
 
 tilt
 scatter
-snowflake
+snowflake  flake 1
 giggle
 memo
 
 
 Indicate
-
-Affair
 
 Process
 
@@ -1125,14 +1282,22 @@ halt
 
 vaccine
 
-panorama
+panorama :summary
 
 remain
+widget
+pitch  ::
+awe-inspiring
+trumped-up
+permit ,residency permit
+background
 ```
-Jerusalem
+Jerusalem [dʒəˈruːsələm]
 Irap
 Athen
 Nigeria
+Pakistan
+Rio
 ```
 
 
@@ -1160,6 +1325,8 @@ no seal no deal.
 place an order
 it cuts rolling resistance by around 30 percentage, compared with its predecessor.
 the soil should be kept moist but well-drained so it does not get too wet.
+folk tale
+for god's sake.
 ```
 
 
@@ -1209,14 +1376,17 @@ dentist
 soldier
 chef	[ʃef]
  :butcher
+chief 1 [tʃiːf] ::primary 1 
 thief	[θiːf] :surreptitious	[ˌsʌrəpˈtɪʃəs]
-:steal
+:steal sneak
 architect
 draftman    ,an architect had five wounds, a draftman seventeen.
 painter :paint  
          print 
          pint
-
+         portrait = port + trait 
+entrepreneur
+employer employment
 
 coincide	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
@@ -1231,6 +1401,7 @@ mishap	晦气
 
 
 visual
+vision ::imagination 1
 
 magnet	:magnetic  magnetism ,animal magnetism
 magnify :magnifier [ˈmæɡnɪfaɪə(r)] magnification
@@ -1250,8 +1421,11 @@ corrupt
 glimmer | gloom
 light	light
 	   plight 1
-	    
-	    
+glamour :lure 1 ,the moonlight cast a glamour over the river.
+spotlit
+flame ,the flames climb higher and higher
+ fame ,hall of fame
+
 nutrition
 nutrient
 nature  natural ::genius
@@ -1273,6 +1447,7 @@ facility    [fəˈsɪləti]
 installation
 infrastructure 1    infra + structure
  infrared 1
+widget  [ˈwɪdʒɪt]
  
 tomb
 cemetery    [ˈsemətri]
@@ -1320,6 +1495,8 @@ cipher secret
 shore coast
 port
 harbor
+gulf golf
+raft  1 [rɑːft]
 
 trash ::throw
       :trim
@@ -1332,6 +1509,18 @@ invasion    [ɪnˈveɪʒn]
  
  
  baseball
+
+dud ::clothes
+    :nonsense
+
+absurd  ,it is absurd to look for a well.
+abuse
+
+resemble similar
+
+propose advise
+prosperity 1
+prospect 1
 ```
 
 
