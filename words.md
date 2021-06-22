@@ -116,11 +116,11 @@ liquid
 //ver
 verse
 version
-vest
+vest :coat
 verdict
 veto [ˈviːtəʊ] | vote
 vein ,leaf vein
-verbal
+verbal 1
 
 //pull
 pull
