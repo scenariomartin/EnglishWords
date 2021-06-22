@@ -44,6 +44,7 @@ strip:stripe  形近义近
 ### 义
 
 strategy	tactics	
+ tragedy [ˈtrædʒədi] | comedy [ˈkɒmədi]
 
 ​					intact
 
@@ -107,7 +108,7 @@ spill
  pillow 2
 overflow
 leak	leak
-		leap :skip:skim
+		leap :skip:skim bound 1
 		lip
 liquid
 
@@ -174,19 +175,26 @@ abdomen	abdominal [æbˈdɒmɪnl]
 organ	[ˈɔːɡən]
 organize
 brow eyebrow
+cheek
+chin
+beard bear beer beef
 knee 1
 muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)]
 fingertip4
 
+
+
+
 //furniture
 stereo	[ˈsteriəʊ]
-TV  :repertoire  [ˈrepətwɑː(r)]
+TV  :repertoire  [ˈrepətwɑː(r)] the'atrical theater [ˈθɪətə(r)]
 fridge 1
 oven
 
 //home
+indoor | outdoor
 chamber
 shed :: rid 2
 timber
@@ -196,6 +204,7 @@ drawer
 staircase 
 
 pillow
+sheet sheep cheek
 towel	towertemple 
 	template
 heel
@@ -214,6 +223,8 @@ white suger
 	  surge
 	  surgeon 2
 pail
+pot 
+ port
 barrel ::
 
 bake
@@ -254,6 +265,8 @@ dentist 1
 symptom 1
 
 //subject course
+subject ::国民
+
 course
  court
 semester
@@ -273,6 +286,8 @@ fuzzy 1
 diameter :radius
           radio
 remainder
+metric
+
 
 //literature
 plot ::
@@ -309,6 +324,8 @@ typhoon
 atmosphere
     sphere
 ozone layer
+vicinity ,I just pointed him in the general vicinity.  [vəˈsɪnəti]
+
 
 //vehicle
 vehicle
@@ -357,8 +374,9 @@ decent 1
 scent
 
 //lure
-obsession
+obsession   [əbˈseʃn]
 lure
+entrance ::
 
 //apartment
 dormitory
@@ -385,7 +403,7 @@ shell
 shall
 
 //special
-specific 2	[spəˈsɪfɪk]
+specific 2	[spəˈsɪfɪk] specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1  
 specialize
 specialist	expert	professor | layman	amateur
 ```
@@ -398,6 +416,8 @@ combine
 merge
 integrate   [ˈɪntɪɡreɪt]
 :integral ::必需的 :积分
+unify 
+ rectify
 
 //segment
 segment
@@ -509,6 +529,7 @@ expensive
 jewellery je well ery :jewel
 investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
 cash rush crush :walnut
+sponsor
 
 ```
 
@@ -534,12 +555,13 @@ predecessor [ˈpriːdəsesə(r)]
 //premier
 premier :prime prior
 prime minister
-president presidency
 deputy
 mayor 1 
  major :: 1
 magistrate	[ˈmædʒɪstreɪt]
 preside pre'side
+president presidency
+
 
 illusion
 image
@@ -631,6 +653,8 @@ restrict restriction
              institute 1	   		             
 bind    bind
         blind
+:p bound::leap 1
+bundle ,a bundle of cable and pipes heading in the same direction.
 
 
 pressure  depress 1
@@ -659,8 +683,7 @@ retort
 //yield
 stoop 0
 surrender 
-conform ::coincide
-
+conform ::coincide consensus ,a genuine leader is not a seeker of consensus.
 //believe
 convince
 persuade
@@ -775,7 +798,7 @@ prove
 testify
 [[testimony]]
 cer'tificate diploma
-             diplomat 
+             diplomat envoy  [ˈenvɔɪ]
 
 
 
@@ -918,8 +941,8 @@ autumn
 winter
 wind
 
-meadow
-widow 2
+meadow   ,my childhood appears to me like a sunny meadow, as it dose to many people.
+ widow 2
 grass
 grassland
 
@@ -930,7 +953,7 @@ desert
 deserve 2
 dry up
 
-//relationship
+//relationship relative ,it's really hard to lose a relative
 widow 
 niece 1
 comrade
@@ -944,7 +967,12 @@ due:deserve 2
  
 soldier:
 			:keep insist
-情感-性格-品质-为人-行为
+人格-情感-感觉-性格-品质-为人-行为
+//
+dignity
+:respect
+conscience
+
 //emotion
 emotion 2
 mood
@@ -973,6 +1001,11 @@ anxious     [ˈæŋkʃəs]
 restless    ,if you just sit and observe, you will find how restless your mind is.
 arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
 
+
+//feel
+ticklish
+
+
 /character
 flake ::fish juvenile ,teenage flake and college dropout
 odd
@@ -980,6 +1013,10 @@ odd
 //trait 1
 charity
 wicked
+flatter
+
+advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
+
 
 
 //deed 1
@@ -1013,9 +1050,11 @@ sympathy :sympathize
  symmetric :symmetry
  symptom 1
  sym'bolic
-cold cruelty :callous [ˈkæləs] grim 
+cold cruelty :callous [ˈkæləs] grim
+                               brim ::fill , net was filled to the brim with fish. 
                                trim
                                tram
+                               
 	 cruel cruet
 	 
 	 
@@ -1038,7 +1077,8 @@ raid	突袭
 maid
 rid	2	get rid of
 
-presentation
+presentation 
+ presence present | absent [æbˈsent]
 exhition
 display
 
@@ -1066,7 +1106,7 @@ frigid	chill
 //correct 
    direct :straight 1 | tilt
 correct:rectify redress
-	   :accurate accuracy precise	exact 2 exactly exactness
+	   :accurate accuracy precise precision	exact 2 exactly exactness
 	   			:specific 2                 ,exactly coincide
 correction
 
@@ -1083,6 +1123,7 @@ exact
 achieve
 fetch
 attain
+grab
 get
 require
 ```
@@ -1103,6 +1144,9 @@ citizen | savage:fierce
 		  vinegar
 		  siler 2
 resident residence residency 1
+
+//edible food
+
 
 soil
 grape
@@ -1220,6 +1264,7 @@ divorce
 audition
 audience
 
+detect
 inspect
 investigate 
  investment 1
@@ -1327,6 +1372,10 @@ it cuts rolling resistance by around 30 percentage, compared with its predecesso
 the soil should be kept moist but well-drained so it does not get too wet.
 folk tale
 for god's sake.
+respecting human dignity means regarding persons not just as means.
+do not count on it.
+
+
 ```
 
 
@@ -1336,8 +1385,8 @@ for god's sake.
 specific	[spəˈsɪfɪk]    specific
 												:specify		
 accumulate
-	simulate
-		imitate
+	simulate simulation
+		imitate imitation
 		disguise
 			pretend
 			feign
@@ -1440,7 +1489,7 @@ adverb
 ```
 frontier
 border
-adjacent
+adjacent vicinity 1
 circumstance    cir cum stance :environment:plight:situation condition  
 
 facility    [fəˈsɪləti]
@@ -1470,7 +1519,10 @@ suit    :uniform conform 1
         :apartment
 fit
 
-//genius [ˈdʒiːniəs]
+//genius [ˈdʒiːniəs] 
+genius
+ genuine  [ˈdʒenjuɪn] :real
+ general
 talent
 natural
 gift
@@ -1521,6 +1573,14 @@ resemble similar
 propose advise
 prosperity 1
 prospect 1
+
+exist existence | extinction
+ exit
+
+expire
+urgent
+
+
 ```
 
 
