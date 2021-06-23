@@ -263,6 +263,10 @@ refresh
 treat   ::entertain::entertainment:recreation 1
 dentist 1
 symptom 1
+clinic
+
+
+
 
 //subject course
 subject ::国民
@@ -302,10 +306,14 @@ biology		biology
 toxin	[ˈtɒksɪn]
 :poison
  prison jail
+        jam jar junk 1
+            jargon
 bacterium
+protein
 
-//sociology
-census
+//sociology [ˌsəʊsiˈɒlədʒi]
+census 
+estate  [ɪˈsteɪt] ,estate transactional law
 
 
 //cultural
@@ -367,7 +375,7 @@ canal canal
 
 ```
 dense	senior
-		seminar:metting workshop
+		seminar [ˈsemɪnɑː(r)] :metting workshop convention conversation 
 		nominal
 density
 decent 1
@@ -381,9 +389,10 @@ entrance ::
 //apartment
 dormitory
 apartment
+ department
 
 //eruption
-eruption	erosion 关于化学 decay 关于生物 corrupt 关于官员
+eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员
 			emotion
 		:volcano lava
 				 lavatory
@@ -416,8 +425,11 @@ combine
 merge
 integrate   [ˈɪntɪɡreɪt]
 :integral ::必需的 :积分
+unity
 unify 
  rectify
+
+
 
 //segment
 segment
@@ -428,6 +440,7 @@ sector 0
 partition
 split
 divide
+isolate
 
 //scent :sniff 1
 scent
@@ -512,6 +525,7 @@ module
 stuff
 staff
 clerk
+personnel
 
 //salary
 salary
@@ -530,6 +544,8 @@ jewellery je well ery :jewel
 investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
 cash rush crush :walnut
 sponsor
+allowance
+
 
 ```
 
@@ -561,7 +577,8 @@ mayor 1
 magistrate	[ˈmædʒɪstreɪt]
 preside pre'side
 president presidency
-
+politician
+department
 
 illusion
 image
@@ -592,14 +609,14 @@ virgin
 
 
 
-prospect
+prospect prospective
 promising
 
 grease ease
 oil
 patriotic 0
 petrol	petrol 	 [ˈpetrəl]
-		patrol   [pəˈtrəʊl] :parade
+		patrol   [pəˈtrəʊl] :parade 1
 		patron   [ˈpeɪtrən]
 petroleum
 gasoline
@@ -674,7 +691,7 @@ boycott
 withstand
 withdraw
 resist resistance :friction 1
-:parade disturbance patrol
+:parade disturbance:agitate patrol
 oppose
 retort
  resort 1
@@ -807,7 +824,8 @@ stretch trend :tendency
  treachery 1
 extend extended
 expansion   :inflation
-intent
+intent  
+  tent 1
 intention
 tension 1
 ```
@@ -885,6 +903,7 @@ bolt 1
 
 
 ```
+lean
 oblique     [əˈbliːk]
  oblige  1  [əˈblaɪdʒ]
 tilt | straight [streɪt] 1
@@ -904,6 +923,7 @@ booth
 ```
 control
 controversy		dispute
+convention      seminar 1
 conventional	
 conversation
 conversion
@@ -1078,14 +1098,19 @@ maid
 rid	2	get rid of
 
 presentation 
- presence present | absent [æbˈsent]
-exhition
+ presence present | absent [æbˈsent] scene
+exhibition exhibit
 display
 
+//astronomy  [əˈstrɒnəmi] 
+astronaut    [ˈæstrənɔːt]
 university
 universe
-cosmos
+satellite    [ˈsætəlaɪt]
+cosmos n
+cosmic adj.
 comet [ˈkɒmɪt]
+
 
 pe'ninsula [pəˈnɪnsjələ]
 island
@@ -1134,7 +1159,7 @@ require
 civic critic
 civilian
   alliance
-  alloy allocate:distribute 1 assignment 1 
+  alloy allocate:distribute 1 assignment 1 deploy 
   anonymous
 civilization
 civilize
@@ -1146,6 +1171,8 @@ citizen | savage:fierce
 resident residence residency 1
 
 //edible food
+dine
+dinner
 
 
 soil
@@ -1164,7 +1191,8 @@ crow    [krəʊ] :scarecrow
 camel   [ˈkæml]
 zebra:stripe    [ˈzebrə]
 hippocampus
-	campus
+	 campus
+	 camp ,camp activity :tent intent 
 crocodile [ˈkrɒkədaɪl]
 	alligator
 	Coconut palm::
@@ -1213,7 +1241,7 @@ utmost :maximize
 exceeding
  creep
 thorough :utter
-
+typically
 
 transcend:beyond
 deem think
@@ -1242,7 +1270,7 @@ agenda
 substract
 multiply six by nine :6x9
 
-bare
+bare naked ,naked eye
 bear
 
 
@@ -1265,7 +1293,9 @@ audition
 audience
 
 detect
-inspect
+probe
+inspect 
+ prospect 1
 investigate 
  investment 1
 observe
@@ -1285,6 +1315,14 @@ flourish
 immensity ,immensity universe
 prosperity ,new era of prosperity [prɒˈsperəti]
 gorgeous
+
+
+maximum
+minimum
+ minister
+miniature
+
+
 ```
 
 
@@ -1336,6 +1374,9 @@ awe-inspiring
 trumped-up
 permit ,residency permit
 background
+migrate
+laser
+
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
@@ -1374,6 +1415,7 @@ folk tale
 for god's sake.
 respecting human dignity means regarding persons not just as means.
 do not count on it.
+the newly-appointed scientists.
 
 
 ```
@@ -1407,6 +1449,7 @@ separate
 accuracy
 
 
+
 rural
 
 seam  seam
@@ -1437,10 +1480,11 @@ painter :paint
 entrepreneur
 employer employment
 
-coincide	    [ˌkəʊɪnˈsaɪd]  ::conform 1
+coincide  :: 1	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
 by chance
 by coincidence
+occasional
 accident
 accidental
 unexpected
@@ -1451,16 +1495,19 @@ mishap	晦气
 
 visual
 vision ::imagination 1
+visible ,the Great Wall is not visible with the naked eye from space.
 
 magnet	:magnetic  magnetism ,animal magnetism
 magnify :magnifier [ˈmæɡnɪfaɪə(r)] magnification
 magnitude	,magnitude quake
 					  square ,Times Square
 magnificent 1 :magnificence
-magazine
+magazine 1
 magic
 magical :magician P
 magistrate	2
+image
+
 
 bribe
 corrupt
@@ -1554,16 +1601,19 @@ trash ::throw
       :trim
        grim 
 rubbish
+junk ,junk mail
 
 侵犯-攻击-敲打
 invasion    [ɪnˈveɪʒn]
  ,invasion privacy
  
- 
- baseball
+//hobby 
+baseball
+bowling
 
 dud ::clothes
     :nonsense
+bud :blossom 1
 
 absurd  ,it is absurd to look for a well.
 abuse
@@ -1580,7 +1630,22 @@ exist existence | extinction
 expire
 urgent
 
+afterward
+outward
+reward
 
+
+leaflet
+poster
+magazine
+journal
+
+explore
+exploit
+explode burst boom
+explosive
+
+franchise privilege
 ```
 
 
