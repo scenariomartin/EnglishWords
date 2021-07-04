@@ -112,6 +112,8 @@ leak	leak
 liquid
 pour ,pour milk
  spur
+pond
+ ponder consider
 
 //ver
 verse universe
@@ -158,6 +160,7 @@ shiver 1
 plunge into
 yell
 feed 1
+frown
 watch ::
 gossip ,i've got the juiciest bit of gossip ever.
     :recreation
@@ -167,6 +170,7 @@ toss
 pitch ::asphalt  [ˈæsfælt]
  ,wipe you off the pitch
 wipe
+
 
 //liver
 liver liver
@@ -291,6 +295,7 @@ axis     [ˈæksɪs]
 vertical
  virtue 1
 fuzzy 1
+sphere ,under no circumstances do they see this sphere. 绝不能让他们找到球体.
 diameter :radius
           radio
 remainder
@@ -330,7 +335,7 @@ estate  [ɪˈsteɪt] ,estate transactional law
 racial [ˈreɪʃl] race ,racial discrimination
 ethnic 
  ethical :morality 1
-
+pure
 
 //geography [dʒiˈɒɡrəfi]
 geographic
@@ -353,7 +358,8 @@ habitat 1
 expedition
 documentary
 
-
+warehouse
+hospital
 
 //vehicle
 vehicle
@@ -367,7 +373,6 @@ tram trim
 freight train
   tight 1
 coach ::instruct
-
 
 tanker ::
         :cargo
@@ -554,9 +559,12 @@ puzzle ::n.拼图
 
 
 //reel
-reel 0
-creep
+reel 0 ::
+ creep
 stumble
+stagger  [ˈstæɡə(r)]
+:dizzy ,headaches and staggering fits of dizziness made me reel like a drunk.
+
 
 mould 0
 module
@@ -590,7 +598,7 @@ sponsor
 allowance
 fortune :: 1
 bet
-
+bond
 
 ```
 
@@ -634,6 +642,8 @@ signify :mean
  rectify
 signal
 symbolic 1 symbol
+badge ,a badge of shame
+logo
 
 rake 0
 spade 0
@@ -644,7 +654,7 @@ scratch
 religion
 missionary
 virgin
-
+catholic   [ˈkæθlɪk]
 
 
 prospect prospective
@@ -755,7 +765,7 @@ vow swear pledge [pledʒ]
 	 wear	
 guarantee
 assurance
-
+识别-查证-查明-确定-确认-肯定-断言-明确-确信-相信
 certain ::some
  ,certain line
 
@@ -763,6 +773,7 @@ confirm :identify  [aɪˈdentɪfaɪ]
  conform
 affirm :assert
  affair :incident
+ascertain [ˌæsəˈteɪn]
 
 //betray
 treachery
@@ -918,12 +929,14 @@ tomb
 
 //physics   [ˈfɪzɪks] emphasis 1 [ˈemfəsɪs]
 atom    ,neighbouring atom
-molecule	[ˈmɒlɪkjuːl]
+molecule	[ˈmɒlɪkjuːl] :particle
 technique
 mechanics
 watt
 turbine [ˈtɜːbaɪn]
 supersonic
+bombard ,we're bombarded with the particles, the very highest energy cosmic rays are rare.
+
 
 //chemical
 chemical
@@ -1040,7 +1053,9 @@ due:deserve 2
  
 soldier:
 			:keep insist
-人格-情感-感觉-性格-品质-为人-行为
+自我-人格-情感-感觉-性格-品质-为人-行为
+//self
+
 //
 dignity
 :respect
@@ -1083,7 +1098,7 @@ scare panic ,you got scared and you hit the panic button. scarecrow
 
 //feel perception  [pəˈsepʃn]
 ticklish
-
+dizzy dizziness
 
 /character
 flake ::fish juvenile ,teenage flake and college dropout
@@ -1094,6 +1109,8 @@ charity
 wicked vicious [ˈvɪʃəs]
 flatter
 
+//为人 对人
+en'thusiasm  [ɪnˈθjuːziæzəm]
 
 advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
 
@@ -1106,6 +1123,7 @@ stab
 /senior
 accuse ,enjoyed by men bound by accusing morality of their deeds.
  accurate 1
+ acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
 abuse
 insult
 scorn
@@ -1171,8 +1189,7 @@ astronaut    [ˈæstrənɔːt]
 university
 universe verse 1
 satellite    [ˈsætəlaɪt]
-cosmos n
-cosmic adj.
+cosmos n cosmic adj.
 comet [ˈkɒmɪt]
 
 
@@ -1251,6 +1268,7 @@ pear peel
  pearl ,this resort town was to become the pearl of the Black Sea.
 marijuana
 
+//vegetation
 
 
 hound   :dog
@@ -1302,7 +1320,7 @@ elephant ivory, ivory relief
                       brief concise
 squirrel 1                  
 fox fax [fæks]
-
+mole :: [məʊl]
 
 
 	  
@@ -1457,11 +1475,12 @@ resonant :共鸣的   [ˈrezənənt]
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
-Athen
+Athens  ['æθənz]
 Nigeria
 Pakistan
 Rio
 Polish
+Italian
 ```
 
 
@@ -1544,6 +1563,7 @@ identity
  identify 1
 bride 1
 bridegroom
+drunk
 
 //politics [ˈpɒlətɪks] institution
   political  [pəˈlɪtɪkl] ,political heritage, political legacy
@@ -1573,6 +1593,7 @@ sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
 surgeon 1 :surgery
 dentist
+police ,made threats against police on social media.
 soldier
 chef	[ʃef]
  :butcher
@@ -1721,6 +1742,8 @@ trash ::throw
        grim 
 rubbish
 junk ,junk mail
+:dispose deal
+
 
 侵犯-攻击-敲打
 invasion    [ɪnˈveɪʒn]
@@ -1759,7 +1782,8 @@ urgent
 afterward
 outward
 reward
-
+toward
+  wardrobe
 
 leaflet
 poster
@@ -1768,7 +1792,7 @@ journal
 
 explore
 exploit
-explode burst boom
+explode burst boom blast
 explosive
 
 franchise privilege
@@ -1791,13 +1815,16 @@ interrupt
 kingdom
 kindergarten
 primary school
-junior school
-senior school
+junior school   juvenile
+senior school   
 university universe
 college colleague
  village :valley
 undergraduate
 postgraduate
+
+criticism critic 1 
+
 ```
 
 
