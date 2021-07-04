@@ -43,12 +43,10 @@ strip:stripe  形近义近
 
 ### 义
 
-strategy	tactics	
- tragedy [ˈtrædʒədi] | comedy [ˈkɒmədi]
 
-​					intact
 
-meadow	grass	
+intact 完好无损的
+ intake	
 
 gauge	measure ::措施 测量
 
@@ -89,7 +87,7 @@ grape
 great
 grace
 grand 
-feat		spec'tacular eloquent [ˈeləkwənt]
+feat	1	spec'tacular eloquent [ˈeləkwənt]
 
 
 
@@ -110,11 +108,13 @@ overflow
 leak	leak
 		leap :skip:skim bound 1
 		lip
+       bleak
 liquid
-
+pour ,pour milk
+ spur
 
 //ver
-verse
+verse universe
 version
 vest :coat
 verdict
@@ -137,11 +137,13 @@ juvenile    [ˈdʒuːvənaɪl]
 
 
 //human deed posture
-swallow	swallow
-		swollen
+swallow	swallow 
+		swollen :swell::good [ˈswəʊlən]
+                 dwelling
 whisper
 gigle
 glare 怒目而视	glean:collect
+                 lean 1 ::瘦肉 rely on
 kick
 knee
 waist:wrist
@@ -150,6 +152,7 @@ tone tone
 	stone
 	 tune
 sniff | blow
+breathe
 chew:gum::
 shiver 1
 plunge into
@@ -183,7 +186,7 @@ muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)]
 fingertip4
-
+tumour cancer
 
 
 
@@ -201,7 +204,8 @@ timber
 cabinet
 wardrobe
 drawer
-staircase 
+staircase
+renovate v. 
 
 pillow
 sheet sheep cheek
@@ -258,12 +262,12 @@ nurse niece 1
 surgeon 1
 surgery 1 surge 1
 ana'tomical	[ˌænəˈtɒmɪkl] :course
-recovery:recover
+recovery:recover  :renovate 1
 refresh
 treat   ::entertain::entertainment:recreation 1
 dentist 1
 symptom 1
-clinic
+clinic hospital
 
 
 
@@ -294,8 +298,13 @@ metric
 
 
 //literature
-plot ::
-
+introduction
+plot ::情节
+     :con'spiracy scheme [skiːm]:plan 
+                  skim
+setting
+climax
+conclusion
 
 
 //biology ecology
@@ -304,10 +313,11 @@ biology		biology
 			geography	地理学
 			geology		地质学
 toxin	[ˈtɒksɪn]
-:poison
- prison jail
+:poison fatal poisnous  [ˈpɔɪzənəs]
+        federal
+ prison jail gaol [dʒeɪl]  detention
         jam jar junk 1
-            jargon
+            jargon ,industry jargon [ˈɪndəstri]
 bacterium
 protein
 
@@ -333,6 +343,16 @@ atmosphere
     sphere
 ozone layer
 vicinity ,I just pointed him in the general vicinity.  [vəˈsɪnəti]
+autumn :fall
+fume
+
+
+
+//nature
+habitat 1
+expedition
+documentary
+
 
 
 //vehicle
@@ -346,6 +366,8 @@ crane
 tram trim
 freight train
   tight 1
+coach ::instruct
+
 
 tanker ::
         :cargo
@@ -361,13 +383,18 @@ raft
 //weapon
 knife
 grenade [ɡrəˈneɪd]
-troop
+troop 
+mine
+
+
 
 
 canal canal
 			naval
 			lava
-			
+		
+
+laundry launch	
 
 ```
 
@@ -390,6 +417,9 @@ entrance ::
 dormitory
 apartment
  department
+dwelling
+habitant
+ habitat
 
 //eruption
 eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员
@@ -408,6 +438,7 @@ fellow::
 //crust
 crust crust
       crush 1
+ crack 1 [krʌst]
 shell
 shall
 
@@ -428,7 +459,10 @@ integrate   [ˈɪntɪɡreɪt]
 unity
 unify 
  rectify
-
+ notify     知会
+ identify  [aɪˈdentɪfaɪ] 1
+ signify
+synthesize
 
 
 //segment
@@ -440,7 +474,7 @@ sector 0
 partition
 split
 divide
-isolate
+isolate quarantine  [ˈkwɒrəntiːn]
 
 //scent :sniff 1
 scent
@@ -479,6 +513,7 @@ resort 1 :aid  petition 1
                appetite :stomach
                puppet
          :,resort town
+ resonant :共鸣的
 petition 1
 bill
 
@@ -501,18 +536,22 @@ pearl 1 pear
 ore oar 1 oak owe::归功于 era eve own:occupy1
  ,vein of ore
 rock rocky ::stable steady
+sulfur
 
 
-
-revolve
+revolve 
+ evolve
 spin
 rotate
 
 //skeptical
 skeptical
-suspect
+suspect convict victim
 suspicion
 suspicious
+puzzle ::n.拼图
+ fuzzy
+
 
 //reel
 reel 0
@@ -526,6 +565,8 @@ stuff
 staff
 clerk
 personnel
+colleague
+faculty [ˈfæklti]
 
 //salary
 salary
@@ -540,11 +581,15 @@ save
 treasure
 cheap
 expensive
+extravagant [ɪkˈstrævəɡənt]
 jewellery je well ery :jewel
-investment 1 , the asian intrastructure investment bank was proposed by China in 2013.
+investment 1 , the asian infrastructure investment bank was proposed by China in 2013.
 cash rush crush :walnut
+change ::,it's a Polish custom to throw change at the bride.
 sponsor
 allowance
+fortune :: 1
+bet
 
 
 ```
@@ -558,6 +603,7 @@ prevail popular
 
 
 primary :main | senior 
+,primary school
 primarily :main chief root [praɪˈmerəli]
 primitive  [ˈprɪmətɪv] 
 principal
@@ -568,17 +614,9 @@ precede
 previous
 predecessor [ˈpriːdəsesə(r)]
 
-//premier
-premier :prime prior
-prime minister
-deputy
-mayor 1 
- major :: 1
-magistrate	[ˈmædʒɪstreɪt]
-preside pre'side
-president presidency
-politician
-department
+
+
+
 
 illusion
 image
@@ -592,7 +630,7 @@ signature signature [ˈsɪɡnətʃə(r)]
 					  gesture
 					  posture
 sign    assignment
-signify
+signify :mean
  rectify
 signal
 symbolic 1 symbol
@@ -614,7 +652,7 @@ promising
 
 grease ease
 oil
-patriotic 0
+patriotic 0 | treason
 petrol	petrol 	 [ˈpetrəl]
 		patrol   [pəˈtrəʊl] :parade 1
 		patron   [ˈpeɪtrən]
@@ -627,31 +665,35 @@ gasoline
 压力-强迫-逼迫-欺压 | 鼓动 激励 激发 促进 推进 推崇 放纵 溺爱
 
 instruct instruction:statute 	[ˈstætʃuːt] bill 1
-constitution construction
+constitution construction 1
              construct :build
 :statute
  institute			 statue	[ˈstætʃuː]
 					 status	[ˈsteɪtəs]
 					 state:federal
+                           fatal 1 ,fatal flaw
 					 	   fate:destiny
 					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap  :fabric
 					 	   		delay postpone     trip  trap
+                                         nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
 discipline :whip ,like a whip on his back.
+            lash ,their vicious words were like "lashes of a whip"    
  principal
 doctrine 1
+regulate regular ,in a regular way
 
 forbid , The Forbidden City
 veto 1
 
 
-
+suppress
 constraint
 retain captain attion:get
 detain :detention
         intention 1
  entertain ::treat 1
  certain ::1
- stain:mud clay
+ stain:mud clay dirty 1
  			 mad
   strain 3 ::press yield
   strait 1
@@ -662,8 +704,9 @@ preclude
 restraint ::PN 
 restrict restriction
   strict :exact 3
-  strike ::hit knock
+  strike ::hit knock airstrike:raid
   			   knot :shoelace
+         :罢工，罢课
    P:struck
  district 2  district
              instruct 1
@@ -691,10 +734,11 @@ boycott
 withstand
 withdraw
 resist resistance :friction 1
-:parade disturbance:agitate patrol
+:parade disturbance:agitate patrol incident 1
 oppose
 retort
  resort 1
+struggle
 
 
 //yield
@@ -715,10 +759,10 @@ assurance
 certain ::some
  ,certain line
 
-confirm
+confirm :identify  [aɪˈdentɪfaɪ] 
  conform
 affirm :assert
- affair
+ affair :incident
 
 //betray
 treachery
@@ -734,7 +778,7 @@ boost
 inspire	
   spire:dome
   spiral:DNA
-enrich :plentiflu
+enrich :plentiflul
 
 
 ```
@@ -841,11 +885,13 @@ consult
 insult
 result
 
+enroll
 engage 
   gauge 1
 participate in
 participants
 particularly
+
 
 presume
 assume
@@ -854,6 +900,7 @@ undermine
 destroy
 distribute :allocate
 disaster
+destructive de+structive 1
 
 collective conscious
 collective conscience
@@ -869,7 +916,7 @@ memorial
 tomb
 
 
-//physics   [ˈfɪzɪks] emphasis 1
+//physics   [ˈfɪzɪks] emphasis 1 [ˈemfəsɪs]
 atom    ,neighbouring atom
 molecule	[ˈmɒlɪkjuːl]
 technique
@@ -888,10 +935,13 @@ melt bolt
 liquid 1 solid
          soil
 carbon dioxide
+synthesize [ˈsɪnθəsaɪz]
+acidic  [əˈsɪdɪk]
 
 //material
 strucure 1  
 plastic ,clear plastic
+weld
 
 //mechanics
 bolt 1
@@ -924,7 +974,7 @@ booth
 control
 controversy		dispute
 convention      seminar 1
-conventional	
+conventional    custom costume:clothes 	
 conversation
 conversion
 conservation
@@ -935,7 +985,9 @@ erect
 elect
 build
 establish
-construct 1
+construct 1  | destruct          instruct       1
+constructive | destructive 1     instructive    
+construction | destruction       instruction    1
 
 //think
 comprehend comprehensive:all overall
@@ -965,9 +1017,10 @@ meadow   ,my childhood appears to me like a sunny meadow, as it dose to many peo
  widow 2
 grass
 grassland
+pasture
 
 chill	:shiver
-bleak
+bleak   leak 1
 dessert
 desert
 deserve 2
@@ -994,7 +1047,8 @@ dignity
 conscience
 
 //emotion
-emotion 2
+emotion 2 emotionally, her struggle with a brain tumour is book's most emotionally resonant subplot.
+ motion ,infrared motion detector.
 mood
 spirit  [ˈspɪrɪt]
  inspire 1
@@ -1007,22 +1061,27 @@ affliction
   fiction
 suffering
 anguish 2
+sorrow
 miserable 
 /
 dejected
 dispirit
+dismay
 depress
   press
   pressure:strain 3 oppressive oppress
 /
 impulse
 /
-anxious     [ˈæŋkʃəs]
-restless    ,if you just sit and observe, you will find how restless your mind is.
+anxious     [ˈæŋkʃəs] anxiety [æŋˈzaɪəti]
+restless  unease   ,if you just sit and observe, you will find how restless your mind is.
+:anxiety    ,anti-anxiety drug
 arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
+scare panic ,you got scared and you hit the panic button. scarecrow
 
 
-//feel
+
+//feel perception  [pəˈsepʃn]
 ticklish
 
 
@@ -1032,8 +1091,9 @@ odd
 
 //trait 1
 charity
-wicked
+wicked vicious [ˈvɪʃəs]
 flatter
+
 
 advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
 
@@ -1062,11 +1122,15 @@ clumsy  [ˈklʌmzi]
  clump
  climb
  crime 1
+dedicate :donate
 
 //pathetic
 pathetic:poor:poverty
          pool   
-sympathy :sympathize
+sympathy :sympathize [ˈsɪmpəθaɪz] compassion
+                                  compass
+                                  company ::fellow
+          synthesize 1
  symmetric :symmetry
  symptom 1
  sym'bolic
@@ -1093,7 +1157,7 @@ liberal :verbal :: 1
 literacy	[ˈlɪtərəsi]
 literature	[ˈlɪtrətʃə(r)]
 
-raid	突袭
+raid	突袭 airstrike
 maid
 rid	2	get rid of
 
@@ -1105,7 +1169,7 @@ display
 //astronomy  [əˈstrɒnəmi] 
 astronaut    [ˈæstrənɔːt]
 university
-universe
+universe verse 1
 satellite    [ˈsætəlaɪt]
 cosmos n
 cosmic adj.
@@ -1173,7 +1237,9 @@ resident residence residency 1
 //edible food
 dine
 dinner
-
+beef pork 
+sausage vinegar
+potato tomato ,stab a potato with a fork and microwave it for 8 to 10 minutes.
 
 soil
 grape
@@ -1183,6 +1249,8 @@ beer :alcohol 1 [ˈælkəhɒl]
 walnut 1 :crush
 pear peel 
  pearl ,this resort town was to become the pearl of the Black Sea.
+marijuana
+
 
 
 hound   :dog
@@ -1234,10 +1302,14 @@ elephant ivory, ivory relief
                       brief concise
 squirrel 1                  
 fox fax [fæks]
+
+
+
 	  
 utmost :maximize 
  :utter complete whole
         complex | simple
+ultimate
 exceeding
  creep
 thorough :utter
@@ -1305,7 +1377,8 @@ supervise
 prodigious
 fantastic
 big
-ample maple [ˈmeɪpl] 
+ample maple [ˈmeɪpl]  
+ amplify
 plentiful
 magnificent
 grace
@@ -1315,6 +1388,7 @@ flourish
 immensity ,immensity universe
 prosperity ,new era of prosperity [prɒˈsperəti]
 gorgeous
+feat 1 ::fit
 
 
 maximum
@@ -1376,7 +1450,10 @@ permit ,residency permit
 background
 migrate
 laser
-
+transmit
+pole ,can you help me to hoist the flag to the top of the pole?
+polar ,polar bear
+resonant :共鸣的   [ˈrezənənt]
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
@@ -1384,6 +1461,7 @@ Athen
 Nigeria
 Pakistan
 Rio
+Polish
 ```
 
 
@@ -1416,6 +1494,8 @@ for god's sake.
 respecting human dignity means regarding persons not just as means.
 do not count on it.
 the newly-appointed scientists.
+I don't feel anguish and sorrow and dismay at the loss.
+specialize in
 
 
 ```
@@ -1451,15 +1531,43 @@ accuracy
 
 
 rural
+village  [ˈvɪlɪdʒ]
 
 seam  seam
-			steam
-crack
+	 steam
+crack gap
+leak 1
+
+//identity 
+identity
+ identical
+ identify 1
+bride 1
+bridegroom
+
+//politics [ˈpɒlətɪks] institution
+  political  [pəˈlɪtɪkl] ,political heritage, political legacy
+//premier
+premier :prime prior
+prime minister
+ primary 1
+deputy
+mayor 1 
+ major :: 1
+magistrate	[ˈmædʒɪstreɪt]
+preside pre'side
+president presidency
+politician political
+department
+faderal
+ fatal 1
+
 
 //occupation
 occupation	[ˌɒkjuˈpeɪʃn]   occupation
 						    occupy	[ˈɒkjupaɪ] :possession 1
-vocation	occasion
+vocation	occasion:scene 
+            occasional 1
 profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
@@ -1484,12 +1592,14 @@ coincide  :: 1	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
 by chance
 by coincidence
-occasional
+occasional 
+ occasion 1
 accident
+ incident
 accidental
 unexpected
 unforeseen
-for'tuitous 	[fɔːˈtjuːɪtəs]	fortune
+for'tuitous 	[fɔːˈtjuːɪtəs]	fortune 1
 mishap	晦气
 
 
@@ -1497,7 +1607,7 @@ visual
 vision ::imagination 1
 visible ,the Great Wall is not visible with the naked eye from space.
 
-magnet	:magnetic  magnetism ,animal magnetism
+magnet	:magnetic:magenetic field  magnetism ,animal magnetism 
 magnify :magnifier [ˈmæɡnɪfaɪə(r)] magnification
 magnitude	,magnitude quake
 					  square ,Times Square
@@ -1521,9 +1631,18 @@ glamour :lure 1 ,the moonlight cast a glamour over the river.
 spotlit
 flame ,the flames climb higher and higher
  fame ,hall of fame
+sparkle
+
+
+形
+grim
+gloom
+gloomy
+glimmer
+glee :jolly joy
 
 nutrition
-nutrient
+:nutrient
 nature  natural ::genius
 neutral	[ˈnjuːtrəl]
 
@@ -1544,6 +1663,8 @@ installation
 infrastructure 1    infra + structure
  infrared 1
 widget  [ˈwɪdʒɪt]
+radar
+equipement
  
 tomb
 cemetery    [ˈsemətri]
@@ -1573,6 +1694,8 @@ genius
 talent
 natural
 gift
+intelligent intelligence
+intellect
 
 adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
                          dish
@@ -1580,11 +1703,7 @@ decorate
 ```
 
 ```
-grim
-gloom
-gloomy
-glimmer
-glee :jolly
+
 
 
 negative | positive position
@@ -1611,14 +1730,21 @@ invasion    [ɪnˈveɪʒn]
 baseball
 bowling
 
-dud ::clothes
+dud ::clothes zip
     :nonsense
+    :不中用的东西
 bud :blossom 1
 
 absurd  ,it is absurd to look for a well.
 abuse
 
-resemble similar
+resemble 
+similar
+:twin
+identical 
+ identity 1
+likewise
+
 
 propose advise
 prosperity 1
@@ -1646,6 +1772,32 @@ explode burst boom
 explosive
 
 franchise privilege
+
+dailye
+dairy
+diary
+dirty
+
+strategy  [ˈstrætədʒi]	tactics	
+ tragedy [ˈtrædʒədi] | comedy [ˈkɒmədi]
+
+lapse
+shortage
+flaw
+
+intervention
+interrupt
+
+kingdom
+kindergarten
+primary school
+junior school
+senior school
+university universe
+college colleague
+ village :valley
+undergraduate
+postgraduate
 ```
 
 
