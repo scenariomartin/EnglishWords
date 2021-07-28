@@ -1257,6 +1257,7 @@ gallery
 photo
 frame ::,hey, look, I got some frame grabs from the overpass.
                                                     ::footbridge :beyond
+                                                    :passage [ˈpæsɪdʒ]
 
 
 ```
