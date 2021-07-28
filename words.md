@@ -53,6 +53,17 @@ bee :honey:dense
 ### 义
 
 
+近形词系
+stri系
+spect系
+ex系
+
+近义词系
+害怕-恐怖
+
+关系词系
+动物
+植物
 
 
 
@@ -106,7 +117,7 @@ feat	1	spec'tacular eloquent [ˈeləkwənt]
 
 moist
 sweat
-soak
+soak    ,oh my god that bag is soaked with grease.
 sink	dip:soak 
 		   :descend descent 1 decline
 		              scent
@@ -118,7 +129,7 @@ spill
 overflow
 leak	leak
 		leap :skip:skim bound 1
-		lip
+		lip     ,Arya was chewing at her lip in that disgusting way she had.
        bleak
 liquid
 pour ,pour milk
@@ -128,6 +139,10 @@ pond
 weep prep.wept :cry
 dribble down    ,he gave a huge heave and more slugs dribbled down his front.
 streamline  ::simplify
+/
+oversea overseas
+voyage  ,what happened on that fatal voyage.
+
 
 //ver
 verse universe
@@ -150,9 +165,11 @@ recreation
 
 juvenile    [ˈdʒuːvənaɪl]
     ,juvenile detention center.
+adolescence
+ condolence 1
 
-
-//human deed posture
+行为-动作(自己主动)
+//human deed posture 
 swallow	swallow 
 		swollen :swell::good [ˈswəʊlən]
                  dwelling
@@ -188,7 +205,7 @@ pitch ::asphalt  [ˈæsfælt]
  ,wipe you off the pitch
   weep :cry 
 wipe
-
+slap
 
 //liver
 eys :visible sightless 1  
@@ -221,6 +238,9 @@ tumour cancer
 glove 1
 
 
+
+//chamber
+
 //furniture
   fertilizer 1
 stereo	[ˈsteriəʊ]
@@ -232,6 +252,9 @@ oven
   fence ,what we have here is called a fence.
    defence
 indoor | outdoor
+roof
+floor
+celling
 chamber
 shed :: rid 2
 timber
@@ -240,6 +263,7 @@ wardrobe
 drawer
 staircase
 renovate v. 
+couch   ::埋伏 :lie::
 
 pillow
 sheet sheep cheek
@@ -253,7 +277,7 @@ shelf
 comb
 cradle
 
-//厨
+//kitchen
 saucer
 cup
 spoon	
@@ -267,7 +291,6 @@ barrel ::
 
 fork :prong ,the plan fits in with two prongs of the national development strategy.
 
-/kitchen
 bake
 vinegar
 suger
@@ -288,6 +311,7 @@ garden :yard
 //
 	
 //medicine
+medical
 medic:
 doctor			medium(media pl.)::middle
 			:doctrine 教条 1
@@ -305,14 +329,14 @@ treat   ::entertain::entertainment:recreation 1
 dentist 1
 symptom 1
 clinic hospital
-
+heal
 
 
 
 //subject course
 subject ::国民
-
 course
+ coarse :rough  :rogue ,what I see are two coarse and lowly rogues.
  court
 semester
 architecture 1
@@ -320,8 +344,8 @@ architect P
 mathematics ,mathematical model
 lecture
  treasure 
-
-
+philosophy philosopher
+historian
 
 //mathematics
 axis     [ˈæksɪs]
@@ -390,12 +414,13 @@ vicinity ,I just pointed him in the general vicinity.  [vəˈsɪnəti]
 autumn :fall
 fume
 climate
+acre    ,four-acre site [ˈeɪkə(r)]
 
 /position
 fore
 former  ,he says the former gaverment did a very good job in reducing goverment debt levels.
     do a good job in doing
-
+ rear
 
 //nature
 habitat 1
@@ -408,6 +433,8 @@ laundry :clothes
  launch
  lunch
  lung
+museum   [mjuˈziːəm]
+ :visitor
 
 //vehicle
 vehicle
@@ -433,12 +460,19 @@ tanker ::
                          sponge
 raft
 
+/aviation   ,civil aviation
+plane
+
+
 
 //weapon
 knife
 grenade [ɡrəˈneɪd]
 troop 
 mine
+spear
+sword
+shield  ,raise your shield as high as you can.
 
 
 
@@ -483,6 +517,7 @@ eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员 ru
 		 alcohol
 evaporate
 release
+ grease 1
 emission  mission
 
 
@@ -520,7 +555,7 @@ unify
  signify
 synthesize
 incorporate ::include
-
+collaborate ,collaborate with
 
 //segment
 segment
@@ -555,6 +590,8 @@ court courtyard 1
 prosecute:sue-convict-penalty 
  parachute  [ˈpærəʃuːt]
 penalty [ˈpenəlti] ,death penalty
+:punish
+innocent
 suspect
 crime :guilty
 criminal    |   victim
@@ -631,6 +668,11 @@ observe
 examine
 supervise  
 
+infer   :guess
+ refer
+,if you remain silent, you will compel us to infer your acts what you intend.
+
+
 //reel
 reel 0 ::
  creep :crawl 
@@ -677,8 +719,10 @@ allowance
 fortune :: 1
 debt
  bet 打赌
+deficit [ˈdefɪsɪt]
 bond
 bonus
+tariff tax ,fat tariff
 
 
 ```
@@ -731,6 +775,7 @@ logo
 cite    ,she just has to cite her gut instinct.
  recite ,recite verse
 quote cite 1
+bid
 
 claw 1
 scratch
@@ -746,6 +791,8 @@ virgin
 catholic   [ˈkæθlɪk]
 clergy
 divine
+prayer
+ prey :hunter predator:fierce   :condolence 1
 
 promise
  compromise
@@ -755,6 +802,7 @@ prospect    :前景,展望
             :exploit
 prospective :forthcoming
             :future ,prospective wife
+ irrespective
  prosperity 1
  propose advise
  perspective :: insight ,deep insight
@@ -784,8 +832,8 @@ constitution construction 1
 					 state:federal
                            fatal 1 ,fatal flaw
 					 	   fate:destiny
-					 	   fade:decay    strip:strap:stripe:zebra  ,backpack strap  :fabric
-					 	   		delay postpone     trip  trap
+					 	   fade::decay    strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
+					 	   		 delay postpone     trip  trap
                                          nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
 discipline :whip ,like a whip on his back.
             lash ,their vicious words were like "lashes of a whip"    
@@ -794,6 +842,7 @@ doctrine 1
 regulate regular ,in a regular way
 
 forbid , The Forbidden City
+   bid 1
 veto 1
 
 
@@ -844,7 +893,8 @@ enforce
 force 
 oblige 1
 impel
-bully 
+bully   :横行霸道者 胖虎
+ bull 1 :cow  
 
 
 //阻止
@@ -856,7 +906,7 @@ boycott
 withstand
 withdraw
 resist resistance :friction 1
-:parade disturbance:agitate patrol incident 1
+:parade disturbance:agitate patrol incident 1 :stir::egg
 oppose
 retort
  resort 1
@@ -993,6 +1043,8 @@ stretch trend :tendency
  treachery 1
 extend extended
 expansion   :inflation
+:expand     ,how his company will soon be expanding to fill the four-acre site.
+:swell ::good
 intent  
   tent 1
 intention
@@ -1087,6 +1139,7 @@ weld
 
 //mechanics
 bolt 1
+mend    ,there are some things that time cannot mend.
 
 ```
 
@@ -1111,6 +1164,9 @@ metropolitan
  cosmopolitan
 booth
  boost
+ boast :bull    ,you boast how you killed the Earth Bull.
+ boom 1
+ bomb
  boot
  tooth
  brush
@@ -1150,6 +1206,7 @@ rub
 rob
 robe
 mud
+mob ,angry mob  :rogue 1
 
 ,ethnic minority [maɪˈnɒrəti]
 
@@ -1158,6 +1215,9 @@ mud
 
 
 ```
+conductor
+continuous  :function
+ continue
 contend competition
 content
 contact
@@ -1220,6 +1280,7 @@ hay ,hay wagon 1
 ,harvest apples
 ,they harvest apples, enjoy hay wagon rides and walk in the fields.
 basket
+lawn    ,ont the green lawn before it many men and women were dancing.
 
 chill	:shiver
 bleak   leak 1
@@ -1242,13 +1303,70 @@ due:deserve 2
  
 soldier:
 			:keep insist
-自我-人格-情感-感觉-性格-品质-为人-行为
+自我-人格-品质-性格-为人-行为(评价)-表露-情感-感觉-心情
+self-personality-character-trait-为人-deed-show-emotion-feel-mood
 //self
 individual
-//
+
+//personality
 dignity
 :respect
 conscience
+
+//trait 1
+charity
+wicked vicious [ˈvɪʃəs]
+
+//character personality
+flake ::fish juvenile ,teenage flake and college dropout
+odd
+extrovert 1
+
+//为人 对人
+en'thusiasm  [ɪnˈθjuːziæzəm]
+flatter 1
+advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
+violence
+
+// 1
+/primary
+stab
+giggle  ,giggle at
+ struggle
+drill :plunge
+see ::视为 ,see sth as...
+gaze
+ graze ::grass wipe
+fly prep. flew
+/senior
+accuse ,enjoyed by men bound by accusing morality of their deeds.
+ accurate 1
+ acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
+abuse
+insult
+scorn   1
+ corn
+ core
+ thorn
+ throne :empire 
+        inspire 1
+         expire 1
+          spire 1
+quarrel ,an ant has no quarrel with a boot.
+ squirrel 1         
+clumsy  [ˈklʌmzi]
+ clump
+ climb
+ crime 1
+dedicate :donate
+ delicate :fragile
+idle
+ idol
+
+//show
+desire ,I have no desire to punish the innocent.
+delight
+disgust 1
 
 //emotion
 emotion 2 emotionally, her struggle with a brain tumour is book's most emotionally resonant subplot.
@@ -1275,7 +1393,7 @@ depress
   press
   pressure:strain 3 oppressive oppress
 /
-impulse
+impulse | rational
 /
 anxious     [ˈæŋkʃəs] anxiety [æŋˈzaɪəti]
 restless  unease   ,if you just sit and observe, you will find how restless your mind is.
@@ -1316,56 +1434,6 @@ thirsty
  thrift  李隆基
 
 
-/character personality
-flake ::fish juvenile ,teenage flake and college dropout
-odd
-extrovert 1
-
-//trait 1
-charity
-wicked vicious [ˈvɪʃəs]
-
-
-//为人 对人
-en'thusiasm  [ɪnˈθjuːziæzəm]
-flatter 1
-advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
-violence
-
-
-//deed 1
-/primary
-stab
-giggle  ,giggle at
- struggle
-drill :plunge
-see ::视为 ,see sth as...
-
-/senior
-accuse ,enjoyed by men bound by accusing morality of their deeds.
- accurate 1
- acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
-abuse
-insult
-scorn   1
- corn
- core
- thorn
- throne :empire 
-        inspire 1
-         expire 1
-          spire 1
-quarrel ,an ant has no quarrel with a boot.
- squirrel 1         
-clumsy  [ˈklʌmzi]
- clump
- climb
- crime 1
-dedicate :donate
-idle
- idol
-
-
  athlete
  aesthetic  [esˈθetɪk]
 //pathetic
@@ -1385,11 +1453,7 @@ cold cruelty :callous [ˈkæləs] grim
                                brim ::fill , net was filled to the brim with fish. 
                                trim
                                tram
-                               
-	 
-	 
-	 
-	 
+                         
 ```
 
 
@@ -1440,10 +1504,11 @@ strait:: 	[streɪt]
 
 
 fragile
+ fridge:re.frige.rator
+  bridge
+ frigid	chill
 vulnerable	[ˈvʌlnərəbl]
-fridge:re.frige.rator
- bridge
-frigid	chill
+delicate 1
 
 //correct 
    direct :straight 1 | tilt
@@ -1474,6 +1539,7 @@ require
 
 ```
 civic critic
+civil   [ˈsɪvl]
 civilian
   alliance
   alloy allocate:distribute 1 assignment 1 deploy 
@@ -1565,6 +1631,7 @@ pigeon surgeon
 	  religion
 :dove
  glove
+  love
 moray 1
 horse hose::pant
 butterfly
@@ -1576,7 +1643,7 @@ squirrel 1
 fox fax [fæks]
 mole :: [məʊl]
 slug
-
+cow :bull 1 :butcher 1
 	  
 utmost :maximize 
  :utter complete whole
@@ -1656,7 +1723,8 @@ immensity ,immensity universe
 prosperity ,new era of prosperity [prɒˈsperəti]
 gorgeous
 feat 1 ::fit
-
+elaborate
+supreme ,supreme court.
 
 maximum
 minimum
@@ -1706,7 +1774,7 @@ halt
 
 vaccine
 
-panorama :summary
+p a n o r a m a :summary
 
 remain
 widget
@@ -1719,8 +1787,7 @@ migrate
 laser
 transmit
 pole ,can you help me to hoist the flag to the top of the pole?
-polar ,polar bear
-postage 
+polar ,polar bear 
 locality     [ləʊˈkæləti] ,we were discussing the role of locality in writing, when suddenly it hit me.
 rap
 sew ,she'll wear herself out nursing and sewing. [səʊ]
@@ -1730,7 +1797,14 @@ drum    [drʌm]
 stride  ,now we know I have a longer stride.
  strip stri系
 renew :update
-
+rescue rescuer rescuee
+renovate 
+elsewhere
+attendant
+burden  ,it is burdened with debt, and a deficit in its pension plan.
+ruffle  ,she ruffled her feather and gave him a look of deep disgust.
+flag ::indicate
+vain    ,we can't let these men's deaths be in vain.
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
@@ -1800,10 +1874,10 @@ specific	[spəˈsɪfɪk]    specific
 accumulate
 	simulate simulation
 		imitate imitation
-		disguise
+		disguise    [dɪsˈɡaɪz] disgust 1
 			pretend
 			feign
-			camouflage
+			camouflage   [ˈkæməflɑːʒ]
 			distinguish | vague ,fuzzy [ˈfʌzi] confuse confusion 
 		anguish pain 2
 	stimulus
@@ -1863,7 +1937,8 @@ politician political
 department
 faderal
  fatal 1
-
+embark  ,Chinese President Xi Jinping is set to embark on his first overseas trip as the new leader of China.
+//
 recess ,all of us harbor dark recesses of violence, and horror.
 congress
 committee   [kəˈmɪti]
@@ -1903,7 +1978,7 @@ painter :paint
          pint
          portrait = port + trait 
 entrepreneur
-employer employment
+employer employment :hire | dismiss resign v. [rɪˈzaɪn] resignation n. [ˌrezɪɡˈneɪʃn]
 
 coincide  :: 1	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
@@ -2082,6 +2157,7 @@ steward     [ˈstjuːəd]
 
 leaflet
 poster
+ postage :stamp
 magazine
 journal journalist:reporter interview
 
@@ -2116,7 +2192,7 @@ interfere
 kingdom
 kindergarten
 primary school
-junior school   juvenile
+junior school   juvenile adolescent adolescence:青春期    
 senior school   
 university universe
 college colleague
@@ -2176,11 +2252,18 @@ actually
 admire | sarcastic    [sɑːˈkæstɪk]
 adore    sacrifice    [ˈsækrɪfaɪs]
 adorable :lovely
+ adolescent
 
 process
 procedure
 algorithm
 progress
+
+voice vocal
+      local
+
+outcome
+result
 ```
 
 
