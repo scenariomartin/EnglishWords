@@ -50,6 +50,10 @@ bee :honey:dense
 同系
 反义
 
+所以词的主要解释都在义近, 次解释在次解释加1链接 
+
+rate    动词v
+
 ### 义
 
 
@@ -107,6 +111,7 @@ grape
 //great
 great
 grace
+grave ::tomb :1  
 grand 
 feat	1	spec'tacular eloquent [ˈeləkwənt]
 
@@ -139,6 +144,8 @@ pond
 weep prep.wept :cry
 dribble down    ,he gave a huge heave and more slugs dribbled down his front.
 streamline  ::simplify
+dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
+                     :maybe might
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -147,6 +154,7 @@ voyage  ,what happened on that fatal voyage.
 //ver
 verse universe
 version
+versus
 vest :coat
 verdict
 veto [ˈviːtəʊ] | vote
@@ -165,7 +173,7 @@ recreation
 
 juvenile    [ˈdʒuːvənaɪl]
     ,juvenile detention center.
-adolescence
+adolescence adolescent
  condolence 1
 
 行为-动作(自己主动)
@@ -390,8 +398,10 @@ mutate :DNA
 
 
 //sociology [ˌsəʊsiˈɒlədʒi]
-census 
+census
+ censorship 1 
 estate  [ɪˈsteɪt] ,estate transactional law
+ :ownership owner
 
 
 //cultural
@@ -411,7 +421,7 @@ atmosphere
     sphere
 ozone layer
 vicinity ,I just pointed him in the general vicinity.  [vəˈsɪnəti]
-autumn :fall
+autumn :fall::,fall back 后退
 fume
 climate
 acre    ,four-acre site [ˈeɪkə(r)]
@@ -450,7 +460,7 @@ tram trim
 coach ::instruct
 ,hay wagon
 
-tanker ::
+tanker ::liner 1
         :cargo
         cab
         cage
@@ -489,6 +499,7 @@ canal canal
 
 
 ```
+condense   1
 dense	senior
 		seminar [ˈsemɪnɑː(r)] 
 		nominal
@@ -515,7 +526,8 @@ eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员 ru
 		:volcano lava
 				 lavatory
 		 alcohol
-evaporate
+evaporate   [ɪˈvæpəreɪt]
+ vapor :steam   [ˈveɪpə(r)]
 release
  grease 1
 emission  mission
@@ -541,7 +553,7 @@ specialist	expert	professor | layman	amateur
 
 
 ```
-
+合成-组合-结合-合并-合作-团结-联合-整合-聚集-聚合-凝集-拼接
 combine
 merge
 integrate   [ˈɪntɪɡreɪt]
@@ -553,9 +565,13 @@ unify
  notify     知会
  identify  [aɪˈdentɪfaɪ] 1
  signify
-synthesize
+synthesize  [ˈsɪnθəsaɪz]
 incorporate ::include
 collaborate ,collaborate with
+cooperation
+alliance :tribe 1
+
+condense
 
 //segment
 segment
@@ -571,7 +587,7 @@ isolate quarantine  [ˈkwɒrəntiːn]
 //scent :sniff 1
 scent
 decent | vulgar vague 鸟diao
-descent		sink 2 decline ::refuse
+descent		sink 2 decline ::refuse:denial deny
   :recession                 refuge 1
   possession possess
              
@@ -665,7 +681,7 @@ inspect
 investigate 
  investment 1
 observe
-examine
+examine :censorship 1
 supervise  
 
 infer   :guess
@@ -677,6 +693,9 @@ infer   :guess
 reel 0 ::
  creep :crawl 
         claw :scratch 1
+        crow 1
+        clutch :grab scratch :car
+                gaze
 stumble
 stagger  [ˈstæɡə(r)]
 :dizzy ,headaches and staggering fits of dizziness made me reel like a drunk.
@@ -705,7 +724,7 @@ compensation	competition         composition compromise 1
  compassion
     passion :enthusiasm [ɪnˈθjuːziæzəm]
 pension
-save
+save :spare:省省吧,spare me the denial and the lies.
 treasure
 cheap
 expensive
@@ -733,7 +752,8 @@ tariff tax ,fat tariff
 
 ```
 prevail popular 
-
+   vain    ,we can't let these men's deaths be in vain.
+   veil     :bride
 
 primary :main | senior 
 ,primary school
@@ -781,7 +801,7 @@ claw 1
 scratch
 rake 0 comb 1
 spade 0
-
+ spare 1
 
 
 //religion
@@ -791,8 +811,8 @@ virgin
 catholic   [ˈkæθlɪk]
 clergy
 divine
-prayer
- prey :hunter predator:fierce   :condolence 1
+prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
+ prey :hunter predator:fierce   
 
 promise
  compromise
@@ -826,6 +846,7 @@ gasoline
 instruct instruction:statute 	[ˈstætʃuːt] bill 1
 constitution construction 1
              construct :build
+ constituent ,active constituent ,constituent assembly
 :statute
  institute			 statue	[ˈstætʃuː]
 					 status	[ˈsteɪtəs]
@@ -978,9 +999,6 @@ seed
 
 
 
-instance
-instant
-
 conquest
 conquer
 overwhelm 1     [ˌəʊvəˈwelm]
@@ -1000,6 +1018,7 @@ debate
 despot
 empire
 emperor
+kingdom realm frontier
 ```
 
 
@@ -1058,7 +1077,7 @@ royal
 loyal
 
 counsel 
-consult
+:consult     [kənˈsʌlt]
 insult
 result
 
@@ -1095,7 +1114,8 @@ reminder
 memorial
 memo
 tomb
-
+commemorate 纪念  [kəˈmeməreɪt]
+monument  [ˈmɒnjumənt]
 
 
 //physics   [ˈfɪzɪks] emphasis 1 [ˈemfəsɪs]
@@ -1111,10 +1131,15 @@ turbine [ˈtɜːbaɪn]
 supersonic
 bombard ,we're bombarded with the particles, the very highest energy cosmic rays are rare.
 density 1 :mass substance
-
+condense 凝结
 /electricity
     strict
 transistor
+/time
+permanent [ˈpɜːmənənt] :forever eternal
+instant :instantaneous
+ instance
+
 
 
 //chemical
@@ -1361,6 +1386,7 @@ clumsy  [ˈklʌmzi]
  crime 1
 dedicate :donate
  delicate :fragile
+ delivery :dispatch
 idle
  idol
 
@@ -1394,7 +1420,7 @@ depress
   press
   pressure:strain 3 oppressive oppress
 /
-impulse | rational
+impulse | rational | radical  [ˈrædɪkl]
 /
 anxious     [ˈæŋkʃəs] anxiety [æŋˈzaɪəti]
 restless  unease   ,if you just sit and observe, you will find how restless your mind is.
@@ -1409,7 +1435,7 @@ ticklish
 dizzy dizziness
 担心-害怕-恐怕-恐怖-可怕的
 fear
-horror
+horror  ,she is clutching her face in horror
 terror
 fearful
 
@@ -1429,6 +1455,7 @@ confuse
 comfort 1
 
 /physiological  [ˌfɪziə'lɒdʒɪk(ə)l]
+ physiology 
  physics 1
 thirsty
  thrive 1
@@ -1448,6 +1475,8 @@ sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity, it was a pity it happene
  symptom 1
  sym'bolic
  synchronization synchronize
+(表情/形式)严重的, 严肃的, 庄重的, 严峻的, 冷峻, 冷酷, 无情的 
+serious solemn [ˈsɒləm] earnest sincere grim 1  grave 1
      cruel cruet
 cold cruelty :callous [ˈkæləs] grim
                                 rim
@@ -1542,7 +1571,8 @@ require
 civic critic
 civil   [ˈsɪvl]
 civilian
-  alliance
+  alliance  :tribe [traɪb]:chief
+   alligator 1
   alloy allocate:distribute 1 assignment 1 deploy 
   anonymous
 civilization
@@ -1703,6 +1733,7 @@ discord	[ˈdɪskɔːd]
  discard throw 1
  discharge ::leave
 divorce
+ dive
 
 audition
 audience
@@ -1775,7 +1806,7 @@ halt
 
 vaccine
 
-p a n o r a m a :summary
+p a n o r a m a :summary summarize v.
 
 remain
 widget
@@ -1804,8 +1835,14 @@ elsewhere
 attendant
 burden  ,it is burdened with debt, and a deficit in its pension plan.
 ruffle  ,she ruffled her feather and gave him a look of deep disgust.
-flag ::indicate
-vain    ,we can't let these men's deaths be in vain.
+flag ::indicate    
+lateral [ˈlætərəl]
+,status quo
+bathe
+threat
+ thread :linear
+         liner  [ˈlaɪnə(r)]
+ thrift 1
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
@@ -1817,6 +1854,7 @@ Polish
  polish 抛光
  polite policy political politician po
 Italian
+Ukraine
 ```
 
 
@@ -1939,6 +1977,7 @@ department
 faderal
  fatal 1
 embark  ,Chinese President Xi Jinping is set to embark on his first overseas trip as the new leader of China.
+constituent
 //
 recess ,all of us harbor dark recesses of violence, and horror.
 congress
@@ -1952,6 +1991,7 @@ conversation
 workshop
 dialog
 symposium
+forum   [ˈfɔːrəm]
 
 
 //occupation
@@ -2018,22 +2058,22 @@ corrupt
 
 //glimmer
 glimmer | gloom
+:glitter
 light	light
 	   plight 1
 glamour :lure 1 ,the moonlight cast a glamour over the river. 1
 spotlit
 flame ,the flames climb higher and higher
  fame ,hall of fame
-sparkle
+sparkle :glitter
 shiny 1
-
 
 形
 grim
 gloom
 gloomy
 glimmer
-glee :jolly joy cheerful 1
+glee :jolly joy cheerful 1 rejoice
 
 nutrition
 :nutrient
@@ -2047,7 +2087,8 @@ adverb
 ```
 
 ```
-frontier
+frontier 1
+realm 1
 border
 adjacent vicinity 1
 circumstance    cir cum stance :environment:plight:situation condition  
@@ -2125,7 +2166,8 @@ invasion    [ɪnˈveɪʒn]
  
 //hobby 
 baseball
-bowling
+bowling 
+soccer
 
 dud ::clothes zip
     :nonsense
@@ -2262,6 +2304,9 @@ progress
 
 voice vocal
       local
+sound :vowel        [ˈvaʊəl]
+      :consonant    [ˈkɒnsənənt]
+
 
 outcome
 result
