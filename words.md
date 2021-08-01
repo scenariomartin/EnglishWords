@@ -138,6 +138,7 @@ overflow
 leak	leak
 		leap :skip:skim bound 1
 		lip     ,Arya was chewing at her lip in that disgusting way she had.
+		lid :toilet lavatory 
        bleak
 liquid
 pour ,pour milk
@@ -218,7 +219,9 @@ pitch ::asphalt  [ˈæsfælt]
   weep :cry 
 wipe
 slap
-
+ flap :fly :dove
+ flag 1
+ 
 //liver
 eys :visible sightless 1  
 ear :aural
@@ -253,13 +256,15 @@ glove 1
 
 //chamber
 
-//furniture
+//furniture 
   fertilizer 1
 stereo	[ˈsteriəʊ]
 TV  :repertoire  [ˈrepətwɑː(r)] the'atrical theater [ˈθɪətə(r)]
 fridge 1
 oven
-
+/appliance
+ application ::petition 1
+microwave
 //bench
   fence ,what we have here is called a fence.
    defence
@@ -441,6 +446,7 @@ habitat 1
 expedition
 documentary
 
+//city
 warehouse
 hospital
 laundry :clothes
@@ -449,6 +455,10 @@ laundry :clothes
  lung
 museum   [mjuˈziːəm]
  :visitor
+way
+route
+ routine ::bore::drill::train::
+ ,routine maintenance [ˈmeɪntənəns] 1
 
 //vehicle
 vehicle
@@ -529,6 +539,8 @@ eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员 ru
 			emotion
 		:volcano lava
 				 lavatory
+				 laver  [ˈlɑːvə]
+				 lavender   [ˈlævəndə(r)]
 		 alcohol
 evaporate   [ɪˈvæpəreɪt]
  vapor :steam   [ˈveɪpə(r)]
@@ -607,6 +619,7 @@ puppet :timber 1
 
 //law legal 
 court courtyard 1
+convict ::n. criminal
 prosecute:sue-convict-penalty 
  parachute  [ˈpærəʃuːt]
 penalty [ˈpenəlti] ,death penalty
@@ -728,7 +741,7 @@ compensation	competition         composition compromise 1
     passion :enthusiasm [ɪnˈθjuːziæzəm]
 pension
 save :spare:省省吧,spare me the denial and the lies.
-treasure
+treasure  :valuable
 cheap
 expensive
 extravagant [ɪkˈstrævəɡənt]
@@ -820,7 +833,7 @@ prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.
 promise
  compromise
  premise
-promising
+promising :predict ,weather forecast
 prospect    :前景,展望
             :exploit
 prospective :forthcoming
@@ -932,6 +945,7 @@ withdraw
 resist resistance :friction 1
 :parade disturbance:agitate patrol incident 1 :stir::egg
 oppose
+anti    ,I'm anti too much stuff 
 retort
  resort 1
  resonant :共鸣的   [ˈrezənənt]
@@ -1169,7 +1183,7 @@ weld
 //mechanics
 bolt 1
 mend    ,there are some things that time cannot mend.
-
+ :maintenance 1
 ```
 
 
@@ -1195,7 +1209,8 @@ booth
  boost
  boast :bull    ,you boast how you killed the Earth Bull.
  boom 1
- bomb
+ bomb :raid 1 :detonate 1 
+  bombard 1
  boot
  tooth
  brush
@@ -1234,9 +1249,11 @@ extreme             [ɪkˈstriːm]
 rub
 rob
 robe
+ rope 1
 mud
 mob ,angry mob  :rogue 1
-
+                plague  ,famine and plague will dance upon the land.
+                 vague      :harvest farmer:peasant [ˈpeznt]
 ,ethnic minority [maɪˈnɒrəti]
 
 ```
@@ -1389,6 +1406,7 @@ clumsy  [ˈklʌmzi]
  climb
  crime 1
 dedicate :donate
+          detonate 1
  delicate :fragile
  delivery :dispatch :distribute
  :logistical logistic   ,we simply don't have the technical and logistical ability to distribute more food to more people.
@@ -1628,7 +1646,7 @@ baobab  [ˈbeɪəʊbæb]
 //animal
 hound   :dog
  wound
-crow    [krəʊ] :scarecrow
+crow :cock   [krəʊ] :scarecrow
  crowd
 camel   [ˈkæml]
 zebra:stripe    [ˈzebrə]
@@ -1765,6 +1783,7 @@ gorgeous
 feat 1 ::fit
 elaborate
 supreme ,supreme court.
+smash ::,Helen, you can stop smashing up that poor clock now.
 
 maximum
 minimum
@@ -1851,6 +1870,9 @@ threat
  thread :linear
          liner  [ˈlaɪnə(r)]
  thrift 1
+karma 因果报应
+manuscript 张宇 莱布尼茨
+
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
@@ -1873,6 +1895,7 @@ adverb
 exceeding
 exclusive ,exclusive video
 	::排外的
+inevitable :must do
 ```
 
 
@@ -2214,7 +2237,7 @@ journal journalist:reporter interview
 
 explore
 exploit
-explode burst boom blast
+explode burst boom blast detonate 1 [ˈdetəneɪt]
 explosive
 
 franchise privilege
