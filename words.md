@@ -143,8 +143,15 @@ leak	leak
 liquid
 pour ,pour milk
  spur
+ pore
+ bore
 pond
  ponder consider
+stream
+river
+bog
+swamp    [swɒmp]
+marsh
 weep prep.wept :cry
 dribble down    ,he gave a huge heave and more slugs dribbled down his front.
 streamline  ::simplify
@@ -156,7 +163,7 @@ voyage  ,what happened on that fatal voyage.
 
 
 //ver
-verse universe
+verse universe :poet   [ˈpəʊɪt]
 version
 versus
 vest :coat
@@ -233,7 +240,9 @@ gut :intestine
 abdomen	abdominal [æbˈdɒmɪnl]
   dome 1
 organ	[ˈɔːɡən]
-organize
+ organize
+organic adj.     [ɔːˈɡænɪk]
+organism n.     [ˈɔːɡənɪzəm]
 brow eyebrow
 cheek
  cheer cheerful :joy
@@ -255,6 +264,8 @@ glove 1
 
 
 //chamber
+corridor    [ˈkɒrɪdɔː(r)]
+
 
 //furniture 
   fertilizer 1
@@ -564,6 +575,7 @@ shall
 specific 1 	[spəˈsɪfɪk] specify specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1  
 specialize
 specialist	expert	professor | layman	amateur
+speciality 
 ```
 
 
@@ -582,12 +594,14 @@ unify
  identify  [aɪˈdentɪfaɪ] 1
  signify
 synthesize  [ˈsɪnθəsaɪz]
-incorporate ::include
+incorporate ::include:comprise
 collaborate ,collaborate with
 cooperation
 alliance :tribe 1
+compound
 
 condense
+concentrate ,concentrate on
 
 //segment
 segment
@@ -615,6 +629,7 @@ spice 2 spicy
 pepper 2	
 paper
 purple grape
+ purpose 1
 puppet :timber 1
 
 //law legal 
@@ -670,7 +685,7 @@ ore oar 1 oak owe::归功于 era eve own:occupy1
  ,vein of ore
 rock rocky ::stable ::steady :horse
 sulfur
-
+tin
 
 revolve 
  evolve
@@ -729,7 +744,9 @@ personnel
 colleague
 faculty [ˈfæklti]
 temp 1
-
+crew ,diner crew
+ crow 1
+ 
 //salary
 salary
 wallet ::portfolio
@@ -769,7 +786,7 @@ tariff tax ,fat tariff
 ```
 prevail popular 
    vain    ,we can't let these men's deaths be in vain.
-   veil     :bride
+   veil     :bride 1
 
 primary :main | senior 
 ,primary school
@@ -840,7 +857,12 @@ prospective :forthcoming
             :future ,prospective wife
  irrespective
  prosperity 1
- propose advise
+ proposal n. advice
+ propose  v. advise
+ purpose    1
+ suppose    1 
+ suppress   1
+ support    江泽民
  perspective :: insight ,deep insight
  inspect 1
 
@@ -885,7 +907,7 @@ veto 1
 
 suppress ,he says one of the most common methods for suppressing weeds is dense planting.
 constraint
-retain captain attion:get
+retain:keep captain attain:get
 detain :detention
         intention 1
  entertain ::treat 1
@@ -905,7 +927,8 @@ restrict restriction
   strike ::hit knock airstrike:raid
   			   knot :shoelace
          :罢工，罢课
-   P:struck
+   Prep.struck
+   striking ,it was striking to me that Putin himself said that in his press conference. 
  district 2  district
              instruct 1
              institute 1	   		             
@@ -924,12 +947,13 @@ press   :新闻
 		:按压 1
 oppress
 oppressive
-compel 
- comply 1
 enforce 
 force 
 oblige 1
+compel 
+ comply 1
 impel
+impose  [ɪmˈpəʊz]
 bully   :横行霸道者 胖虎
  bull 1 :cow  
 
@@ -954,7 +978,8 @@ struggle
 
 //yield
 stoop 0
-surrender 
+surrender
+ surrealist 
 conform ::coincide consensus ,a genuine leader is not a seeker of consensus.
 comply  ,if people comply
 //believe
@@ -1080,7 +1105,7 @@ stretch trend :tendency
 extend extended
 expansion   :inflation
 :expand     ,how his company will soon be expanding to fill the four-acre site.
-:swell ::good
+:swell 1
 intent  
   tent 1
 intention
@@ -1173,6 +1198,11 @@ carbon dioxide
 synthesize [ˈsɪnθəsaɪz]
 acidic  [əˈsɪdɪk]
 exude exudation
+compound 1
+hydrocarbon
+hydrogen
+  oxygen
+  
 
 
 //material
@@ -1272,7 +1302,7 @@ control
 concrete    ::specific specify
 controversy		dispute
 convention      seminar 1
-conventional    custom costume:clothes 	
+conventional    custom::海关 costume:clothes 	
 conversation
 conversion
 conservation    [ˌkɒnsəˈveɪʃn]  reserve deserve
@@ -1303,7 +1333,7 @@ gallery
 photo
 frame ::,hey, look, I got some frame grabs from the overpass.
                                                     ::footbridge :beyond
-                                                    :passage [ˈpæsɪdʒ]
+                                                    :passage:: [ˈpæsɪdʒ] :corridor
 
 
 ```
@@ -1350,10 +1380,11 @@ due:deserve 2
  
 soldier:
 			:keep insist
-自我-人格-品质-性格-为人-行为(评价)-表露-情感-感觉-心情
+自我-人格-品质-性格-为人-行为(评价)-表露-情感-感觉-感知-心情
 self-personality-character-trait-为人-deed-show-emotion-feel-mood
 //self
 individual
+soul
 
 //personality
 dignity
@@ -1362,20 +1393,22 @@ conscience
 
 //trait 1
 charity
-wicked vicious [ˈvɪʃəs]
+wicked vicious [ˈvɪʃəs] ,vicious words.
 
-//character personality
+//character::role personality
 flake ::fish juvenile ,teenage flake and college dropout
 odd
 extrovert 1
+resolute 张铁军
 
 //为人 对人
 en'thusiasm  [ɪnˈθjuːziæzəm]
 flatter 1
 advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
+ advise 1
 violence
 
-// 1
+//perception 1
 /primary
 stab
 giggle  ,giggle at
@@ -1407,6 +1440,7 @@ clumsy  [ˈklʌmzi]
  crime 1
 dedicate :donate
           detonate 1
+ decorate
  delicate :fragile
  delivery :dispatch :distribute
  :logistical logistic   ,we simply don't have the technical and logistical ability to distribute more food to more people.
@@ -1499,6 +1533,7 @@ sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity, it was a pity it happene
  symptom 1
  sym'bolic
  synchronization synchronize
+ synthesize 1
 (表情/形式)严重的, 严肃的, 庄重的, 严峻的, 冷峻, 冷酷, 无情的 
 serious solemn [ˈsɒləm] earnest sincere grim 1  grave 1
      cruel cruet
@@ -1612,7 +1647,7 @@ resident residence residency 1
 
 衣食住行
 //edible food
-dine
+dine vi. diner id.
 dinner
 beef pork 
 sausage vinegar
@@ -1635,6 +1670,10 @@ pear peel
  pearl ,this resort town was to become the pearl of the Black Sea.
 marijuana weed
 cherry
+strawberry
+ straw
+watermelon ,one would almost suspect you had brains in your head, instead of straw.
+ 
 
 
 
@@ -1713,7 +1752,7 @@ typically
 
 transcend:beyond
  transparent 1
-deem think
+deem think suppose
 dean:school master
     :principal :: 1
   deed::behavior
@@ -1932,6 +1971,7 @@ a barefoot whore leaned out of the stable door, giggling at him.
 I'd like to take this opportunity to make an appeal.
 but in the Senate the bonus is allocated region by region.
 we could use another couple hundred pounds of fertilizer.
+I can take you because you have one fatal flaw.
 
 ```
 
@@ -2023,7 +2063,7 @@ workshop
 dialog
 symposium
 forum   [ˈfɔːrəm]
-
+conference 1
 
 //occupation
 occupation	[ˌɒkjuˈpeɪʃn]   occupation
@@ -2101,6 +2141,7 @@ shiny 1
 
 形
 grim
+groom bridegroom 孙悟空
 gloom
 gloomy
 glimmer
@@ -2142,6 +2183,7 @@ cemetery    [ˈsemətri]
 spectrum
 reddish     childish
 infrared 1
+purple 1
 
 
 progress
@@ -2162,11 +2204,11 @@ talent
 natural
 gift
 intelligent intelligence
-intellect
+intellect intellecual
 
 adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
                          dish
-decorate
+:decorate 1
 ```
 
 ```
@@ -2348,6 +2390,8 @@ result
 pure
 sheer cliff steep ::偏航
 
+accomplish v.
+finish
 
 ```
 
