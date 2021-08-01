@@ -51,6 +51,9 @@ bee :honey:dense
 反义
 
 所以词的主要解释都在义近, 次解释在次解释加1链接 
+:1 多义, 且另一个意思在其它地方
+
+
 
 rate    动词v
 
@@ -184,6 +187,7 @@ swallow	swallow
         allow
         allowance
 whisper
+hum 1
 gigle
 glare 怒目而视	glean:collect
                  lean 1 ::瘦肉 rely on
@@ -701,8 +705,7 @@ stagger  [ˈstæɡə(r)]
 :dizzy ,headaches and staggering fits of dizziness made me reel like a drunk.
 
 
-mould 0
-module
+
 
 stuff
 staff
@@ -853,9 +856,9 @@ constitution construction 1
 					 state:federal
                            fatal 1 ,fatal flaw
 					 	   fate:destiny
-					 	   fade::decay    strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
-					 	   		 delay postpone     trip  trap
-                                         nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
+					 	   fade::decay                                  strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
+					 	   		 delay postpone :late tardy sluggish     trip  trap
+                                                             anguish      nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
 discipline :whip ,like a whip on his back.
             lash ,their vicious words were like "lashes of a whip"    
  principal
@@ -1007,7 +1010,7 @@ appropriate analogy
 [[vehicle]]
 
 //des
-despair
+despair [dɪˈspeə(r)] :desperation
 despise scorn contempt | flatter 
 dispute 2
 controversy	2
@@ -1132,6 +1135,7 @@ supersonic
 bombard ,we're bombarded with the particles, the very highest energy cosmic rays are rare.
 density 1 :mass substance
 condense 凝结
+transparent
 /electricity
     strict
 transistor
@@ -1386,7 +1390,9 @@ clumsy  [ˈklʌmzi]
  crime 1
 dedicate :donate
  delicate :fragile
- delivery :dispatch
+ delivery :dispatch :distribute
+ :logistical logistic   ,we simply don't have the technical and logistical ability to distribute more food to more people.
+  logical logic  
 idle
  idol
 
@@ -1580,6 +1586,7 @@ civilize
 citizen | savage:fierce
 					 average ,is not average dog
 		  sausage:ham:hamburger
+		          hum :bee
 		  vinegar
 		  siler 2
 resident residence residency 1
@@ -1673,7 +1680,7 @@ elephant ivory, ivory relief
 squirrel 1                  
 fox fax [fæks]
 mole :: [məʊl]
-slug
+slug 8
 cow :bull 1 :butcher 1
 	  
 utmost :maximize 
@@ -1687,6 +1694,7 @@ thorough :utter
 typically
 
 transcend:beyond
+ transparent 1
 deem think
 dean:school master
     :principal :: 1
@@ -1918,7 +1926,7 @@ accumulate
 			feign
 			camouflage   [ˈkæməflɑːʒ]
 			distinguish | vague ,fuzzy [ˈfʌzi] confuse confusion 
-		anguish pain 2
+		        anguish pain 2
 	stimulus
 	stimulate
 	stimulation
@@ -2312,6 +2320,13 @@ outcome
 result
 ```
 
+
+```
+pure
+sheer cliff steep ::偏航
+
+
+```
 
 
 
