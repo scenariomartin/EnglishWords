@@ -157,6 +157,7 @@ dribble down    ,he gave a huge heave and more slugs dribbled down his front.
 streamline  ::simplify
 dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
                      :maybe might
+surge
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -309,8 +310,8 @@ cradle
 saucer
 cup
 spoon	
-white suger
-	  surge
+white sugar
+	  surge 1
 	  surgeon 2
 pail
 pot 
@@ -381,8 +382,9 @@ vertical
  virtue 1
 fuzzy 1     ::panda
 sphere ,under no circumstances do they see this sphere. 绝不能让他们找到球体.
-diameter :radius
+diameter :radius =1/2diameter 
           radio
+          radioactive ,radioactive waste.
 remainder
 metric
 round
@@ -459,7 +461,7 @@ documentary
 
 //city
 warehouse
-hospital
+hospital :ambulance
 laundry :clothes
  launch
  lunch
@@ -470,6 +472,7 @@ way
 route
  routine ::bore::drill::train::
  ,routine maintenance [ˈmeɪntənəns] 1
+tunnel 
 
 //vehicle
 vehicle
@@ -484,6 +487,9 @@ tram trim
    tight 1
 coach ::instruct
 ,hay wagon
+ambulance 1
+
+
 
 tanker ::liner 1
         :cargo
@@ -575,7 +581,7 @@ shall
 specific 1 	[spəˈsɪfɪk] specify specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1  
 specialize
 specialist	expert	professor | layman	amateur
-speciality 
+speciality ,cooking isn't your speciality is it, Feifei?
 ```
 
 
@@ -602,6 +608,11 @@ compound
 
 condense
 concentrate ,concentrate on
+gather
+aggregate
+assemble
+accumulation
+rendezvous 1 [ˈrɒndɪvuː]
 
 //segment
 segment
@@ -659,7 +670,7 @@ resort 1 :aid  petition 1
 petition 1
 bill ::账单
 quorum  [ˈkwɔːrəm]
- quote  cite
+ quote  cite v.
 bail
 arrest
  assert 1
@@ -699,7 +710,7 @@ rotate
 //skeptical
 skeptical
 suspect convict victim
-suspicion
+suspicion 1
 suspicious  ,you noticed his resemblance to your father and you became suspicious.
 puzzle ::n.拼图
  fuzzy
@@ -749,6 +760,8 @@ crew ,diner crew
  
 //salary
 salary
+ alarm ::alert warn
+              warm
 wallet ::portfolio
 compensation	competition         composition compromise 1
                    petition 1          position    promise
@@ -784,7 +797,7 @@ tariff tax ,fat tariff
 
 
 ```
-prevail popular 
+prevail popular ,peace must and will prevail, no matter the cost. 
    vain    ,we can't let these men's deaths be in vain.
    veil     :bride 1
 
@@ -797,7 +810,7 @@ major ::专业课 :minor ::辅修 | adult ,that's a change from the dark minor t
  mayor
  
 
-precede
+precede ,those two crossings marked their successful rendezvous with the troops who had preceded them. 
 previous
 predecessor [ˈpriːdəsesə(r)]
 
@@ -939,6 +952,7 @@ bind    bind
  bunch 1
 
 :p bound::leap 1
+    :bounce 
 bundle ,a bundle of cable and pipes heading in the same direction.
 
 
@@ -960,7 +974,8 @@ bully   :横行霸道者 胖虎
 
 //阻止
 obstruct
-
+hinder
+ hint :guess
 
 //boycott
 boycott
@@ -1182,6 +1197,8 @@ transistor
 permanent [ˈpɜːmənənt] :forever eternal
 instant :instantaneous
  instance
+ distance :距离
+ distant  :遥远的
 
 
 
@@ -1282,7 +1299,7 @@ robe
  rope 1
 mud
 mob ,angry mob  :rogue 1
-                plague  ,famine and plague will dance upon the land.
+                plague  ,famine and plague will dance upon the land. ::affliction [əˈflɪkʃn] torment
                  vague      :harvest farmer:peasant [ˈpeznt]
 ,ethnic minority [maɪˈnɒrəti]
 
@@ -1333,7 +1350,7 @@ gallery
 photo
 frame ::,hey, look, I got some frame grabs from the overpass.
                                                     ::footbridge :beyond
-                                                    :passage:: [ˈpæsɪdʒ] :corridor
+                                                    :passage:: [ˈpæsɪdʒ] :corridor tunnel 1
 
 
 ```
@@ -1415,7 +1432,7 @@ giggle  ,giggle at
  struggle
 drill :plunge
 see ::视为 ,see sth as...
-gaze
+gaze    ,Dorothy leaned her chin upon her hand and gazed thoughtfully at the Scarecrow.
  graze ::grass wipe
 fly prep. flew
 /senior
@@ -1463,9 +1480,10 @@ angry :indignant
        malignant :devil evil
 hatred [ˈheɪtrɪd] :hate
 /pain
-affliction [əˈflɪkʃn] ,it's easy to see your multipotentiality as a limitation or afflicion that you need to overcome.
+affliction [əˈflɪkʃn] ,it's easy to see your multipotentiality as a limitation or afflicion that you need to overcome. 1
   friction
   fiction
+  :torment plague::1
 suffering
 anguish 2
 sorrow
@@ -1496,6 +1514,8 @@ fear
 horror  ,she is clutching her face in horror
 terror
 fearful
+alarm 1
+
 
 never
 nerve
@@ -1515,6 +1535,8 @@ comfort 1
 /physiological  [ˌfɪziə'lɒdʒɪk(ə)l]
  physiology 
  physics 1
+ physician 1
+ philosophy 1
 thirsty
  thrive 1
  thrift  李隆基
@@ -1840,7 +1862,6 @@ chalk
 portfolio foliage:leaf
 sly
 lubricate
-bounce
 rifle 0
 ominous
 crunch 0
@@ -1865,7 +1886,7 @@ cigar
 eve , new year eve
 
 intuition   ,you may cheat on your intuition, but your intuition never cheats on you.
-:instinct
+:instinct            :fraud ,the men were detained at two meat plants on suspicion of fraud.
  institute
 
 halt
@@ -1911,6 +1932,8 @@ threat
  thrift 1
 karma 因果报应
 manuscript 张宇 莱布尼茨
+toll ,the U.S. has supported the strikes despite a heavy death toll.
+
 
 ```
 Jerusalem [dʒəˈruːsələm]
@@ -1973,6 +1996,7 @@ but in the Senate the bonus is allocated region by region.
 we could use another couple hundred pounds of fertilizer.
 I can take you because you have one fatal flaw.
 
+
 ```
 
 
@@ -1981,7 +2005,7 @@ I can take you because you have one fatal flaw.
 ```
 specific	[spəˈsɪfɪk]    specific
 												:specify		
-accumulate
+accumulate accumulation 1
 	simulate simulation
 		imitate imitation
 		disguise    [dɪsˈɡaɪz] disgust 1
@@ -1997,6 +2021,7 @@ aggressive
 	arrogant
 	arrange
 	arrogance
+aggregate 1
 segregate segment
 separate
 	parade
@@ -2049,6 +2074,10 @@ faderal
  fatal 1
 embark  ,Chinese President Xi Jinping is set to embark on his first overseas trip as the new leader of China.
 constituent
+autonomy    ,ethnic     [ɔːˈtɒnəmi] ,autonomy seems more distant than ever, and the road to it ever unclear.
+ automatic  [ˌɔːtəˈmætɪk]
+
+
 //
 recess ,all of us harbor dark recesses of violence, and horror.
 congress
@@ -2073,7 +2102,8 @@ vocation	occasion:scene
 profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
-surgeon 1 :surgery
+surgeon 1 :surgery id. | physician id. [fɪˈzɪʃn]
+           
 dentist
 police ,made threats against police on social media.
 soldier
@@ -2318,7 +2348,7 @@ postgraduate
 
 criticism critic 1 
 
-pretty :beautiful
+pretty :beautiful beauty
        :颇为 very ,pretty cool
 
 plan
@@ -2380,9 +2410,13 @@ voice vocal
 sound :vowel        [ˈvaʊəl]
       :consonant    [ˈkɒnsənənt]
 
-
+结果-结束-结局-完成
 outcome
 result
+consequence
+ consensus 1
+accomplish v.
+finish
 ```
 
 
@@ -2390,8 +2424,6 @@ result
 pure
 sheer cliff steep ::偏航
 
-accomplish v.
-finish
 
 ```
 
