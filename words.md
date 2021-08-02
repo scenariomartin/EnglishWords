@@ -43,12 +43,13 @@ bee :honey:dense
 
 流程符号: -
 
-前缀形近
-后缀形近
-单词形近
-义近
-同系
-反义
+前缀形近 1
+后缀形近 2
+单词形近 3
+义近 0
+同系 4
+反义 5
+例句 6
 
 所以词的主要解释都在义近, 次解释在次解释加1链接 
 :1 多义, 且另一个意思在其它地方
@@ -126,7 +127,7 @@ feat	1	spec'tacular eloquent [ˈeləkwənt]
 moist
 sweat
 soak    ,oh my god that bag is soaked with grease.
-sink	dip:soak 
+sink	dip:soak immerse 1
 		   :descend descent 1 decline
 		              scent
 		drop:drip
@@ -152,12 +153,12 @@ river
 bog
 swamp    [swɒmp]
 marsh
-weep prep.wept :cry
+weep prep.wept :cry::yell
 dribble down    ,he gave a huge heave and more slugs dribbled down his front.
 streamline  ::simplify
 dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
                      :maybe might
-surge
+surge :wave ,the waves of color of the wild flowers mixed with the waves of sound.
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -197,6 +198,8 @@ swallow	swallow
         allowance
 whisper
 hum 1
+murmur
+grumble 发牢骚
 gigle
 glare 怒目而视	glean:collect
                  lean 1 ::瘦肉 rely on
@@ -214,7 +217,9 @@ breathe
 chew:gum::
 shiver 1    :heave::throw
 plunge into
-yell
+yell 1
+shrill
+ drill
 feed 1
 frown
 watch ::
@@ -242,18 +247,19 @@ abdomen	abdominal [æbˈdɒmɪnl]
   dome 1
 organ	[ˈɔːɡən]
  organize
-organic adj.     [ɔːˈɡænɪk]
-organism n.     [ˈɔːɡənɪzəm]
+ organic adj.     [ɔːˈɡænɪk]
+ organism n.     [ˈɔːɡənɪzəm]
 brow eyebrow
 cheek
  cheer cheerful :joy
 chin
 beard bear beer beef
+chest 1 :breast
 knee 1
 muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)]
-fingertip4
+fingertip
 tumour cancer
        cancel ,is she gonna cancel on me again?
 
@@ -271,12 +277,13 @@ corridor    [ˈkɒrɪdɔː(r)]
 //furniture 
   fertilizer 1
 stereo	[ˈsteriəʊ]
-TV  :repertoire  [ˈrepətwɑː(r)] the'atrical theater [ˈθɪətə(r)]
+TV  :repertoire  [ˈrepətwɑː(r)] the'atrical theater 1
 fridge 1
 oven
 /appliance
  application ::petition 1
 microwave
+fridge
 //bench
   fence ,what we have here is called a fence.
    defence
@@ -284,6 +291,7 @@ indoor | outdoor
 roof
 floor
 celling
+ cling 1
 chamber
 shed :: rid 2
 timber
@@ -352,7 +360,8 @@ nurse niece 1
 surgeon 1
 surgery 1 surge 1
 ana'tomical	[ˌænəˈtɒmɪkl] :course
-recovery:recover  :renovate 1
+recovery n. :recover v. :renovate 1
+ discovery :documentary 1
 refresh
 treat   ::entertain::entertainment:recreation 1
 dentist 1
@@ -386,6 +395,7 @@ diameter :radius =1/2diameter
           radio
           radioactive ,radioactive waste.
 remainder
+fraction 1
 metric
 round
 circle
@@ -400,7 +410,7 @@ plot ::情节
 setting
 climax
 conclusion
-
+narrative [ˈnærətɪv]
 
 //biology ecology
 biology		biology
@@ -411,7 +421,7 @@ toxin	[ˈtɒksɪn]
 :poison fatal poisnous  [ˈpɔɪzənəs]
         federal
  prison jail gaol [dʒeɪl]  detention
-        jam jar junk 1
+        jam:: jar junk 1 ,last week's attempt to fix the unite was swanked by a jammed bolt. 
             jargon ,industry jargon [ˈɪndəstri]
 bacterium
 protein
@@ -456,11 +466,16 @@ former  ,he says the former gaverment did a very good job in reducing goverment 
 
 //nature
 habitat 1
-expedition
+expedition  [ˌekspəˈdɪʃn]
 documentary
 
-//city
+//computer
+hardware software
+calculator
+
+//city 
 warehouse
+barn ,sheep barn
 hospital :ambulance
 laundry :clothes
  launch
@@ -473,11 +488,14 @@ route
  routine ::bore::drill::train::
  ,routine maintenance [ˈmeɪntənəns] 1
 tunnel 
+cinema
+theater [ˈθɪətə(r)]
 
 //vehicle
 vehicle
  vertical 1
 traffic 
+steer v
 lorry
 tractor
 cab
@@ -514,7 +532,7 @@ mine
 spear
 sword
 shield  ,raise your shield as high as you can.
-
+bow :::,then he baited another line and left it coiled in the shade of the bow.
 
 
 
@@ -592,9 +610,10 @@ combine
 merge
 integrate   [ˈɪntɪɡreɪt]
 :integral ::必需的 :积分
-unity 
- unit
-unify 
+unity n.
+:unite 
+ unit 1
+unify v.
  rectify
  notify     知会
  identify  [aɪˈdentɪfaɪ] 1
@@ -602,12 +621,15 @@ unify
 synthesize  [ˈsɪnθəsaɪz]
 incorporate ::include:comprise
 collaborate ,collaborate with
+   laboratory
+   labor ,labor day
+  elaborate 1
 cooperation
 alliance :tribe 1
 compound
 
 condense
-concentrate ,concentrate on
+concentrate ,concentrate on :immerse 1
 gather
 aggregate
 assemble
@@ -617,10 +639,13 @@ rendezvous 1 [ˈrɒndɪvuː]
 //segment
 segment
 section
-separate 2
+separate v.2 ,yet she was silent and cold, separated from him as by a veil. 
 segregate 1
 sector 0
 partition
+portion ,as portion sizes at many restaurants grow larger, so do our waistlines.
+fraction 1
+scatter :snowflake  flake 1
 split
 divide
 isolate quarantine  [ˈkwɒrəntiːn]
@@ -638,7 +663,7 @@ flavour
 rotten  rotten egg
 spice 2 spicy
 pepper 2	
-paper
+ paper
 purple grape
  purpose 1
 puppet :timber 1
@@ -658,7 +683,7 @@ plaintiff   |   defendant
  plentiful
 testimony
  testify 1 ,if I testify about myself, my testimony is not valid.
-lawyer :attorney
+lawyer :attorney ,defense attorney ,his defense attorney says he did it, everything he's accused of.
  layer
 counsel
 resort 1 :aid  petition 1 
@@ -753,7 +778,7 @@ clerk
 personnel
  personality 1
 colleague
-faculty [ˈfæklti]
+faculty [ˈfæklti] ,I will talk it over with my faculty and we will let you know.
 temp 1
 crew ,diner crew
  crow 1
@@ -771,9 +796,10 @@ compensation	competition         composition compromise 1
     passion :enthusiasm [ɪnˈθjuːziæzəm]
 pension
 save :spare:省省吧,spare me the denial and the lies.
-treasure  :valuable
+treasure  ::prize::,Nobel Prize :valuable  
 cheap
 expensive
+expense :cost ,we love our technology but not at the expense of our health.
 extravagant [ɪkˈstrævəɡənt]
 jewellery je well ery :jewel
 investment 1 , the asian infrastructure investment bank was proposed by China in 2013.
@@ -788,7 +814,9 @@ deficit [ˈdefɪsɪt]
 bond
 bonus
 tariff tax ,fat tariff
-
+check ,blank check.
+fund ,mutual fund.
+loan
 
 ```
 
@@ -859,19 +887,22 @@ clergy
 divine
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
  prey :hunter predator:fierce   
+choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
+
 
 promise
  compromise
  premise
 promising :predict ,weather forecast
+           :herald n v ,for some, he is a herald of America's decline, affirming Iran's official narrative.
 prospect    :前景,展望
             :exploit
 prospective :forthcoming
             :future ,prospective wife
  irrespective
  prosperity 1
- proposal n. advice
- propose  v. advise
+ proposal       n. advice
+ propose::求婚  v. advise  date约会
  purpose    1
  suppose    1 
  suppress   1
@@ -901,17 +932,19 @@ constitution construction 1
 :statute
  institute			 statue	[ˈstætʃuː]
 					 status	[ˈsteɪtəs]
-					 state:federal
+					 state:federal federation 
                            fatal 1 ,fatal flaw
 					 	   fate:destiny
 					 	   fade::decay                                  strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
 					 	   		 delay postpone :late tardy sluggish     trip  trap
                                                              anguish      nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
+                     statesman                                        
 discipline :whip ,like a whip on his back.
             lash ,their vicious words were like "lashes of a whip"    
  principal
 doctrine 1
 regulate regular ,in a regular way
+ ,marshes are sponges that regulate the flow of water.
 
 forbid , The Forbidden City
    bid 1
@@ -933,10 +966,10 @@ detain :detention
    trait 1
  
 curb
-preclude
-restraint ::PN 
-restrict restriction
-  strict :exact 3
+preclude 
+restraint ::PN ,in the absence of internal, moral restraints, external ones can only do so much. 
+restrict restriction              internet  
+  strict :exact 3                 inter:bury
   strike ::hit knock airstrike:raid
   			   knot :shoelace
          :罢工，罢课
@@ -993,6 +1026,7 @@ struggle
 
 //yield
 stoop 0
+ troop
 surrender
  surrealist 
 conform ::coincide consensus ,a genuine leader is not a seeker of consensus.
@@ -1002,9 +1036,10 @@ convince
 persuade
 persuasion
 //warrent
-warrant 0
+warrant 0::
 vow swear pledge [pledʒ]    
  sew wear	
+oath, the oath of offile I take today is and oath of allegiance to all Americans.
 guarantee
 assurance
 pact ,because we made a pact, I broke a pact
@@ -1015,7 +1050,8 @@ certain ::some
 
 confirm :identify  [aɪˈdentɪfaɪ] 
  conform
-affirm :assert:claim
+affirm :assert:claim:announce
+             reclaim:::
  affair :incident
 ascertain [ˌæsəˈteɪn]
 
@@ -1103,7 +1139,7 @@ competition
 
 offer
  offset ::抵消
-provide
+provide ,provided it does so, the odds of a sudden collapse with global ramifications are low.
 supply
 province
 prove
@@ -1132,6 +1168,8 @@ intention
 ```
 royal
 loyal
+lord
+allegiance 1 [əˈliːdʒəns]
 
 counsel 
 :consult     [kənˈsʌlt]
@@ -1142,7 +1180,7 @@ enroll
 engage 
   gauge 1
 participate in
-participants
+participant :candidate 1
 particularly
 
 assume
@@ -1185,7 +1223,7 @@ technique
 mechanics
 watt
 turbine [ˈtɜːbaɪn]
-supersonic
+supersonic :speedy
 bombard ,we're bombarded with the particles, the very highest energy cosmic rays are rare.
 density 1 :mass substance
 condense 凝结
@@ -1193,14 +1231,17 @@ transparent
 /electricity
     strict
 transistor
+coil n.v.   [kɔɪl]
 /time
 permanent [ˈpɜːmənənt] :forever eternal
-instant :instantaneous
+instant :instantaneous [ˌɪnstənˈteɪniəs]
  instance
  distance :距离
  distant  :遥远的
-
-
+since
+ sincere
+/mass
+gram gramme
 
 //chemical
 chemical
@@ -1217,7 +1258,7 @@ acidic  [əˈsɪdɪk]
 exude exudation
 compound 1
 hydrocarbon
-hydrogen
+hydrogen    [ˈhaɪdrədʒən]
   oxygen
   
 
@@ -1231,6 +1272,7 @@ weld
 bolt 1
 mend    ,there are some things that time cannot mend.
  :maintenance 1
+unite 1  ,
 ```
 
 
@@ -1312,7 +1354,8 @@ conductor
 continuous  :function
  continue
 contend competition
-content
+content ::satisfy [ˈsætɪsfaɪ] suffice
+                              suffer    [ˈsʌfə(r)]
 contact
 contract
 control
@@ -1328,7 +1371,7 @@ conservative    [kənˈsɜːvətɪv]
 //erect
 erect
 elect
-build
+build :foundation n.
 establish
 construct 1  | destruct          instruct       1
 constructive | destructive 1     instructive    
@@ -1350,7 +1393,7 @@ gallery
 photo
 frame ::,hey, look, I got some frame grabs from the overpass.
                                                     ::footbridge :beyond
-                                                    :passage:: [ˈpæsɪdʒ] :corridor tunnel 1
+                                                    :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1
 
 
 ```
@@ -1417,7 +1460,7 @@ flake ::fish juvenile ,teenage flake and college dropout
 odd
 extrovert 1
 resolute 张铁军
-
+ 
 //为人 对人
 en'thusiasm  [ɪnˈθjuːziæzəm]
 flatter 1
@@ -1425,7 +1468,8 @@ advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not ad
  advise 1
 violence
 
-//perception 1
+///
+//motion
 /primary
 stab
 giggle  ,giggle at
@@ -1436,10 +1480,6 @@ gaze    ,Dorothy leaned her chin upon her hand and gazed thoughtfully at the Sca
  graze ::grass wipe
 fly prep. flew
 /senior
-accuse ,enjoyed by men bound by accusing morality of their deeds.
- accurate 1
- acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
-abuse
 insult
 scorn   1
  corn
@@ -1464,20 +1504,43 @@ dedicate :donate
   logical logic  
 idle
  idol
+//society
+demeanour ,Miss Morstan's demeanour was as resolute and collected as ever.
+责骂-指责-训斥-责备-批评-斥责-谴责
+denounce    [dɪˈnaʊns] 
+scold
+rail ::1
+rebuke  [rɪˈbjuːk]
+accuse ,enjoyed by men bound by accusing morality of their deeds. 
+ accurate 1
+ acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
+ abuse
+抱怨-埋怨
+complain
+/冷静-冷漠-沉默-冷酷
+collected adj. :calm sober  [ˈsəʊbə(r)]
+silent
+
+/勤劳
+endeavor
+diligent
 
 //show
 desire ,I have no desire to punish the innocent.
+ desirable ,now of course it isn't very desirable at this end.
+ advise 1
+ advisable 1
 delight
 disgust 1
 
-//emotion
+//emotion affection 1
 emotion 2 emotionally, her struggle with a brain tumour is book's most emotionally resonant subplot.
  motion ,infrared motion detector.
 mood
 spirit  [ˈspɪrɪt]
  inspire 1
 angry :indignant
-       malignant :devil evil
+       malignant :devil evil  [məˈlɪɡnənt]
 hatred [ˈheɪtrɪd] :hate
 /pain
 affliction [əˈflɪkʃn] ,it's easy to see your multipotentiality as a limitation or afflicion that you need to overcome. 1
@@ -1557,7 +1620,7 @@ sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity, it was a pity it happene
  synchronization synchronize
  synthesize 1
 (表情/形式)严重的, 严肃的, 庄重的, 严峻的, 冷峻, 冷酷, 无情的 
-serious solemn [ˈsɒləm] earnest sincere grim 1  grave 1
+serious solemn [ˈsɒləm] earnest grim 1  grave 1
      cruel cruet
 cold cruelty :callous [ˈkæləs] grim
                                 rim
@@ -1573,7 +1636,7 @@ cold cruelty :callous [ˈkæləs] grim
 efficient 有效率的
 effective	有用的
 affect      影响 :influence
-
+ affection 1
 liberty
 liberal :verbal :: 1
 literacy	[ˈlɪtərəsi]
@@ -1584,8 +1647,9 @@ maid
 rid	2	get rid of
 
 presentation 
- presence present | absent [æbˈsent] scene
-            ::gift
+ presence | absence
+ present  | absent [æbˈsent] scene
+            ::gift  
 exhibition exhibit
 display
 
@@ -1604,12 +1668,13 @@ island
 strait:: 	[streɪt]
  trial:test  [ˈtraɪəl] 
   rail railroad | derail detail
-                  :deviate ,he hopes Trump will stand up to Russia when it deviate from internationl norm.
+  ::blame         :deviate ,he hopes Trump will stand up to Russia when it deviate from internationl norm.
                    devil 1
   tail 1
+  pail 1
   bail 1
   bait 
-  pail 1
+ 
 
 
 
@@ -1636,14 +1701,20 @@ correction
 
 
 //demand
-require
+demand :I demand you give me access to your laboratory.
+ recommend :
+   commend :admire 1
+   command commander
 exact
 achieve
 fetch
 attain
+ attach :cling ,I have never seen a man cling to life so fiercely.
+         celling
 grab
 get
 require
+reclaim 1
 ```
 
 
@@ -1658,7 +1729,7 @@ civilian
   anonymous
 civilization
 civilize
-citizen | savage:fierce
+citizen | savage:fierce ,fiercely 1
 					 average ,is not average dog
 		  sausage:ham:hamburger
 		          hum :bee
@@ -1671,13 +1742,15 @@ resident residence residency 1
 //edible food
 dine vi. diner id.
 dinner
+restaurant
 beef pork 
 sausage vinegar
 potato tomato ,stab a potato with a fork and microwave it for 8 to 10 minutes.
+cereal ,cereal company Kellogg is announcing plans to trim its worldwide workforce.
 
 //pepper
 pepper :spicy 1
- paper 
+ paper :typist 
 fertilizer
 
 
@@ -1760,7 +1833,12 @@ squirrel 1
 fox fax [fæks]
 mole :: [məʊl]
 slug 8
-cow :bull 1 :butcher 1
+cattle [ˈkætl] :cow :bull 1 :butcher 1
+ castle  
+ scatter 1
+mouse pl. mice
+/primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
+	
 	  
 utmost :maximize 
  :utter complete whole
@@ -1783,8 +1861,9 @@ dean:school master
 indeed
 dead
 
-mortal
-mortality :mortally [ˈmɔːtəli] malignant 1
+mortal ::翻译值得一看
+mortality :mortally [ˈmɔːtəli] :fatal
+moral
 morality  morally :virtue ethical 1
 moray 1
 
@@ -1831,7 +1910,9 @@ prodigious
 fantastic
 big
 ample maple [ˈmeɪpl]  
- amplify
+ amplify v
+ amplifier n
+ :loudspeaker
 plentiful
 magnificent
 grace
@@ -1845,6 +1926,9 @@ feat 1 ::fit
 elaborate
 supreme ,supreme court.
 smash ::,Helen, you can stop smashing up that poor clock now.
+ :bust prep. busted ::raid chest 1
+strength ,we tout the strength of weak ties but we underestimate the strength of strong ones.
+
 
 maximum
 minimum
@@ -1863,12 +1947,11 @@ portfolio foliage:leaf
 sly
 lubricate
 rifle 0
+ ruffle [ˈrʌfl] ,she ruffled her feather and gave him a look of deep disgust.
 ominous
 crunch 0
 
 tilt
-scatter
-snowflake  flake 1
 giggle
 
 
@@ -1879,7 +1962,7 @@ Process
 
 jazz
 
-fairly::
+fairly:: the cost for the hardware and software is fairly steep at 12,000 dollars.
 
 cigar
 
@@ -1921,7 +2004,6 @@ renovate
 elsewhere
 attendant
 burden  ,it is burdened with debt, and a deficit in its pension plan.
-ruffle  ,she ruffled her feather and gave him a look of deep disgust.
 flag ::indicate    
 lateral [ˈlætərəl]
 ,status quo
@@ -1933,6 +2015,12 @@ threat
 karma 因果报应
 manuscript 张宇 莱布尼茨
 toll ,the U.S. has supported the strikes despite a heavy death toll.
+sudden 
+worldwide
+workforce
+swing
+holder, the Guinness World Records announced the new record holders for 2016.
+bulk ,everything here is available in bulk.
 
 
 ```
@@ -1958,6 +2046,7 @@ exceeding
 exclusive ,exclusive video
 	::排外的
 inevitable :must do
+available 1 注意i
 ```
 
 
@@ -2060,7 +2149,7 @@ policy
 premier :prime prior
  premise ,the crucial premise for our purposes is premise number two.
  promise 1
-prime minister
+,prime minister ,in 2014, he was named as a possible prime minister candidate.
  primary 1
 deputy
 mayor 1 
@@ -2076,11 +2165,13 @@ embark  ,Chinese President Xi Jinping is set to embark on his first overseas tri
 constituent
 autonomy    ,ethnic     [ɔːˈtɒnəmi] ,autonomy seems more distant than ever, and the road to it ever unclear.
  automatic  [ˌɔːtəˈmætɪk]
+bureau  [ˈbjʊərəʊ]
+statesman id.
 
 
 //
 recess ,all of us harbor dark recesses of violence, and horror.
-congress
+congress    ,it didn't notify congress about it 30 days in advance, as law requires.
 committee   [kəˈmɪti]
 commission  [kəˈmɪʃn]
 seminar
@@ -2168,6 +2259,10 @@ flame ,the flames climb higher and higher
  fame ,hall of fame
 sparkle :glitter
 shiny 1
+/
+shade
+shadow
+
 
 形
 grim
@@ -2214,7 +2309,8 @@ spectrum
 reddish     childish
 infrared 1
 purple 1
-
+black
+ blank 1
 
 progress
 process
@@ -2395,7 +2491,7 @@ contempt 1
 practical   ,some also claim that the project could even have a practical use.
 actually
 
-admire | sarcastic    [sɑːˈkæstɪk]
+admire :commend | sarcastic    [sɑːˈkæstɪk]
 adore    sacrifice    [ˈsækrɪfaɪs]
 adorable :lovely
  adolescent
@@ -2413,8 +2509,11 @@ sound :vowel        [ˈvaʊəl]
 结果-结束-结局-完成
 outcome
 result
+ramification [ˌræmɪfɪˈkeɪʃn] 3
 consequence
  consensus 1
+conclusion 1
+eventually 
 accomplish v.
 finish
 ```
@@ -2424,6 +2523,10 @@ finish
 pure
 sheer cliff steep ::偏航
 
+trip
+tour
+tourist id.
+tourism
 
 ```
 
