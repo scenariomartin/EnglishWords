@@ -145,7 +145,7 @@ liquid
 pour ,pour milk
  spur
  pore
- bore
+ bore 1
 pond
  ponder consider
 stream
@@ -159,6 +159,7 @@ streamline  ::simplify
 dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
                      :maybe might
 surge :wave ,the waves of color of the wild flowers mixed with the waves of sound.
+foam ,trimmed with lace as pale as foam.
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -261,6 +262,7 @@ knee 1
 muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)]
+:pelvis ,wide pelvis [ˈpelvɪs]
 fingertip
 tumour cancer
        cancel ,is she gonna cancel on me again?
@@ -269,12 +271,13 @@ tumour cancer
 
 //garment
 glove 1
-
-
+hat
+lace ,
 
 //chamber
 corridor    [ˈkɒrɪdɔː(r)]
-
+lounge :airplane 
+       :a living room
 
 //furniture 
   fertilizer 1
@@ -287,7 +290,7 @@ oven
 microwave
 fridge
 //bench
-  fence ,what we have here is called a fence.
+  fence ,what we have here is called a fence. :pale::pure
    defence
 indoor | outdoor
 roof
@@ -370,6 +373,7 @@ dentist 1
 symptom 1
 clinic hospital
 heal
+disease 1
 
 
 
@@ -386,6 +390,7 @@ lecture :讲座
  treasure 
 philosophy philosopher
 historian
+paleontologist :软骨鱼 [pælɪɒn'tɒlədʒɪst]
 
 //mathematics
 axis     [ˈæksɪs]
@@ -415,6 +420,8 @@ conclusion
 narrative [ˈnærətɪv]
 novel
 fiction
+preface catalogue title content 1
+
 
 //biology ecology
 biology		biology
@@ -492,9 +499,10 @@ laundry :clothes
  lung
 museum   [mjuˈziːəm]
  :visitor
+antique n adj  [ænˈtiːk] ,this small town was home to dozens and dozens of antique shops. 
 way
-route
- routine ::bore::drill::train::
+route      born
+ routine ::bore::drill::train:: ,it spreads over the entire planet, it bores clear through it with its roots.
  ,routine maintenance [ˈmeɪntənəns] 1
 tunnel 
 cinema
@@ -536,12 +544,15 @@ raft
 /aviation   ,civil aviation
 plane
 airplane
+aeroplane [ˈeərəpleɪn]
+aerial [ˈeəriəl] ,I was a stone-cold aerial hunter.
 
 
 //weapon
 knife
 grenade [ɡrəˈneɪd]
 troop 
+gang 
 mine
 spear
 sword
@@ -550,6 +561,7 @@ bow :::,then he baited another line and left it coiled in the shade of the bow.
 
 
 		
+//instrument
 
 	
 
@@ -573,6 +585,7 @@ entrance ::
 
 //apartment
 dormitory
+accommodate v 收留
 apartment
  department
 dwelling
@@ -591,6 +604,7 @@ evaporate   [ɪˈvæpəreɪt]
  vapor :steam   [ˈveɪpə(r)]
 release
  grease 1
+ disease 1
 emission  mission
 
 
@@ -641,6 +655,7 @@ compound
 condense
 concentrate ,concentrate on :immerse 1
 gather
+huddle ,you huddle around, you keep each other warm.
 aggregate
 assemble
 accumulation
@@ -656,6 +671,7 @@ partition
 portion ,as portion sizes at many restaurants grow larger, so do our waistlines.
 fraction 1
 scatter :snowflake  flake 1
+party
 split
 divide
 isolate quarantine  [ˈkwɒrəntiːn]
@@ -663,27 +679,28 @@ isolate quarantine  [ˈkwɒrəntiːn]
 //scent :sniff 1
 scent
 decent | vulgar vague 鸟diao
-descent		sink 2 decline ::refuse:denial deny
+descent		sink 2 decline ::refuse:denial deny refusal n
   :recession                 refuge 1
   possession possess           
 | ascension LOL
 flavour
  favour
 rotten  rotten egg
-spice 2 spicy
+spice 2 [spaɪs] spicy
 pepper 2	
  paper
 purple grape
  purpose 1
 puppet :timber 1
 
-//law legal 
+//law legal
+justice ,I have sworn to do justice.  
 court courtyard 1
 convict ::n. criminal
 prosecute:sue-convict-penalty 
  parachute  [ˈpærəʃuːt]
 penalty [ˈpenəlti] ,death penalty
-:punish
+:punish ,<<Crime and Punishment>>
 innocent
 suspect
 crime :guilty
@@ -709,7 +726,7 @@ bail
 arrest
  assert 1
 detain 1
-
+murder
 
 //metal geology 1
 metal
@@ -717,14 +734,14 @@ alloy
 diamond
 mental
 bronze
-brass
+brass ::厚脸皮
 zinc
 calcium
 iron
 emerald [ˈemərəld]
 silver
 crystal
-gold
+gold :bullion [ˈbʊliən]
 pearl 1 pear
 ore oar 1 oak owe::归功于 era eve own:occupy1
  ,vein of ore
@@ -740,7 +757,7 @@ spin   ::textile  loom strip
           mature
 rotate
 
-迷惑---可疑的---怀疑---调查---查证--证实---确认---确保
+迷惑-可疑的-怀疑-猜测-推理-推断-调查---查证--证实---确认---确保
 //skeptical
 skeptical
 suspect convict victim
@@ -750,6 +767,8 @@ puzzle ::n.拼图
  fuzzy
 dubious
 verify  ,it has not been possible to independently verify any of this information.
+
+/deduce
 
 detect
 probe
@@ -793,7 +812,7 @@ crew ,diner crew
  crow 1
  
 //salary
-salary
+salary   alter v alternate n :olympic
  alarm ::alert warn
               warm
 wallet ::portfolio
@@ -898,7 +917,7 @@ catholic   [ˈkæθlɪk]
 clergy
 divine
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
- prey :hunter predator:fierce   
+ prey :hunter predator:fierce :chase   
 choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
 sage ::鼠尾草
 
@@ -966,6 +985,7 @@ veto 1
 
 suppress ,he says one of the most common methods for suppressing weeds is dense planting.
 constraint
+refrain
 retain:keep captain attain:get
 detain :detention
         intention 1
@@ -980,14 +1000,15 @@ detain :detention
    trial 1
  
 curb
-preclude 
-restraint ::PN ,in the absence of internal, moral restraints, external ones can only do so much. 
+preclude
+restrain v
+restraint n ::PN ,in the absence of internal, moral restraints, external ones can only do so much. 
 restrict restriction              internet  
   strict :exact 3                 inter:bury
   strike ::hit knock airstrike:raid
   			   knot :shoelace
-         :罢工，罢课
-   Prep.struck
+         :罢工，罢课      lace 1
+   Prep.struck           place
    striking ,it was striking to me that Putin himself said that in his press conference. 
  district 2  district
              instruct 1
@@ -1030,6 +1051,7 @@ withstand
 withdraw
 resist resistance :friction 1
 :parade disturbance:agitate patrol incident 1 :stir::egg
+          :turbulent ,but she was running from a turbulent past.
 oppose
 anti    ,I'm anti too much stuff 
 retort
@@ -1051,8 +1073,9 @@ persuade
 persuasion
 //warrent
 warrant 0::
-vow swear pledge [pledʒ]    
- sew wear	
+vow swear pledge [pledʒ] prep.sworn 1    
+ sew wear prep.worn
+     weary :tired 	
 oath, the oath of offile I take today is and oath of allegiance to all Americans.
 guarantee
 assurance
@@ -1111,8 +1134,8 @@ conquest ,the conquest of Britain is a lost cause.
 conquer
 overwhelm 1     [ˌəʊvəˈwelm]
 
-appropriate analogy  [əˈnælədʒi]
-            analyst 1
+,appropriate analogy  [əˈnælədʒi]
+[əˈprəʊpriət]  analyst 1
 [[vehicle]]
 
 //des
@@ -1128,6 +1151,11 @@ despot
 empire
 emperor
 kingdom realm frontier
+ king
+ queen
+  queue sequence
+ prince
+ princess
 ```
 
 
@@ -1225,7 +1253,8 @@ reminder
 //memorial
 memorial
 memo
-tomb
+tomb :cemetery [ˈsemətri] :funeral [ˈfjuːnərəl]
+      centimeter
 commemorate 纪念  [kəˈmeməreɪt]
 monument  [ˈmɒnjumənt]
 nostalgia  n [nɒˈstældʒə]
@@ -1260,6 +1289,7 @@ since
  sincere
 /mass
 gram gramme
+/temperature
 
 //chemical
 chemical
@@ -1278,7 +1308,7 @@ compound 1
 hydrocarbon
 hydrogen    [ˈhaɪdrədʒən]
   oxygen
-  
+extract 1 ,from there we extract the DNA from the remaining blood sample.  
 
 
 //material
@@ -1288,7 +1318,7 @@ weld
 
 //mechanics
 bolt 1
-mend    ,there are some things that time cannot mend.
+mend | damage [ˈdæmɪdʒ] ,there are some things that time cannot mend.
  :maintenance 1
 unite 1  ,
 ```
@@ -1322,8 +1352,8 @@ booth
  boot
  tooth
  brush
- bush
- blush
+ bush 1
+ blush :Yumi
 
 exact
 examine
@@ -1363,6 +1393,7 @@ mud
 mob ,angry mob  :rogue 1
                 plague  ,famine and plague will dance upon the land. ::affliction [əˈflɪkʃn] torment
                  vague      :harvest farmer:peasant [ˈpeznt]
+                 vanish :disapper 
 ,ethnic minority [maɪˈnɒrəti]
 
 ```
@@ -1381,12 +1412,15 @@ contract
 control
 concrete    ::specific specify
 controversy		dispute
+controversial   ,Foie gras is one of the most controveesial dishes on earth.
 convention      seminar 1
 conventional         custom::海关 costume:clothes 	
 conversation      :accustom v
 conversion
 conservation    [ˌkɒnsəˈveɪʃn]  reserve deserve
 conservative    [kənˈsɜːvətɪv]
+consume  v      [kənˈsjuːm]
+consumption
 
 //erect
 erect
@@ -1412,7 +1446,7 @@ image
 album
 gallery
 photo
-frame ::,hey, look, I got some frame grabs from the overpass.
+frame ::,hey, look, I got some frame grabs from the overpass. :by-pass
                                                     ::footbridge :beyond
                                                     :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1
 clip ::回形针
@@ -1438,7 +1472,10 @@ hay ,hay wagon 1
 ,harvest apples
 ,they harvest apples, enjoy hay wagon rides and walk in the fields.
 basket
+ bracket 1
 lawn    ,ont the green lawn before it many men and women were dancing.
+bush 1
+
 
 chill	:shiver
 bleak   leak 1
@@ -1475,12 +1512,15 @@ conscience
 //trait 1
 charity
 wicked vicious [ˈvɪʃəs] ,vicious words.
- weird :odd 1 ,your mother's presenting her in a weird, weird way. 
+ weird :odd 1 ,your mother's presenting her in a weird, weird way.
+ :wand 
 //character::role personality
 flake ::fish juvenile ,teenage flake and college dropout
 odd
 extrovert 1
 resolute 张铁军
+bold ,the thing I learnd at microsoft was that bold goals attract bold people.
+ ::黑体
  
 //为人 对人
 en'thusiasm  [ɪnˈθjuːziæzəm]
@@ -1588,7 +1628,7 @@ depress
 impulse | rational | radical  [ˈrædɪkl]
 /
 anxious     [ˈæŋkʃəs] anxiety [æŋˈzaɪəti]
-restless  unease   ,if you just sit and observe, you will find how restless your mind is.
+restless  unease   ,if you just sit and observe, you will find how restless your mind is. ,you ever wake up, have a vague feeling of unease?
 :anxiety    ,anti-anxiety drug
 arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
 scare panic ,you got scared and you hit the panic button. scarecrow
@@ -1607,8 +1647,8 @@ alarm 1
 
 
 never
-nerve
-nervous
+nerve ::bold
+nervous ,nervous system
 restless
 tension trend :tendency 1   ,they could add to tension in the mind, causing stress.
 
@@ -1631,7 +1671,7 @@ thirsty
  thrift  李隆基
 
 
- athlete
+ athlete [ˈæθliːt]
  aesthetic  [esˈθetɪk]
 //pathetic
 pathetic:poor:poverty
@@ -1672,12 +1712,15 @@ raid	突袭 airstrike
 maid
 rid	2	get rid of
 
-presentation 
+ 
  presence | absence
  present  | absent [æbˈsent] scene
  ::gift 
  :now ,at present. 
- :recommend introduce  
+ 1:recommend introduce
+ president 1
+ represent v reprensentative n:delegate n  
+presentation
 exhibition exhibit
 display
 
@@ -1728,7 +1771,7 @@ correction
  
 
 
-追求-探索-探寻-寻找-寻觅-需求-需要-渴望-渴求-获得-得到-抓到
+追求-探索-探寻-寻找-寻觅-需求-需要-渴望-渴求-获得-得到-抓到-要求-强求-迫使
 seek
 pursuit n pursue v
 quest n v
@@ -1737,7 +1780,7 @@ demand :I demand you give me access to your laboratory.
  recommend :
    commend :admire 1
    command commander
-exact
+exact ::
 
 achieve
 fetch
@@ -1759,6 +1802,7 @@ civil   [ˈsɪvl]
 civilian
   alliance  :tribe [traɪb]:chief
    alligator 1
+  appliance 1
   alloy allocate:distribute 1 assignment 1 deploy 
   anonymous
 civilization
@@ -1776,6 +1820,8 @@ resident residence residency 1
 //edible food
 dine vi. diner id.
 dinner
+dish
+recipe
 restaurant
 beef pork 
 sausage vinegar
@@ -1808,6 +1854,7 @@ citrus [ˈsɪtrəs]
 
 
 //vegetation
+vegetarian id. 1
 weed ::
 baobab  [ˈbeɪəʊbæb]
 
@@ -1843,7 +1890,7 @@ goose::stimulate spur boost 			inspire	enrich :plentiful:
 	slice
 		 piece	
 		species [ˈspiːʃiːz]
-		spice pungent::一针见血的
+		spice 1 pungent::一针见血的
 		specious [ˈspiːʃəs] 貌似有理的
 			conspicuous apparent [əˈpærənt] obviously
 						apartment
@@ -1874,8 +1921,10 @@ cattle [ˈkætl] :cow :bull 1 :butcher 1
  coastal [ˈkəʊstl] 1 coast
 sheep 1 :shear v :lamb 1
 mouse pl. mice
+vegetarian 1
 /primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
-	
+/insect
+mosquito
 	  
 utmost :maximize 
  :utter complete whole
@@ -1918,17 +1967,17 @@ multiply six by nine :6x9
 
 bare naked ,naked eye   barefoot
 bear
-
+barely ::merely ,I barely had the nerve to make this call.
 
 swarm
 hive
 bee :honey:dense
+pollen [ˈpɒlən] 
 blossom
 bloom
  blood
 flower
- flour paste::
-
+ flour paste:: 
 
 marry
 marrital
@@ -2012,6 +2061,7 @@ eve , new year eve
 intuition   ,you may cheat on your intuition, but your intuition never cheats on you.
 :instinct            :fraud ,the men were detained at two meat plants on suspicion of fraud.
  institute
+,she's overriding her natural instinct to chase or even eat the lamb.
 
 halt
 
@@ -2065,6 +2115,9 @@ holder, the Guinness World Records announced the new record holders for 2016.
 bulk ,everything here is available in bulk.
 robust 鲁棒性
 bell
+endanger
+basement
+overnight
 
 ```
 Jerusalem [dʒəˈruːsələm]
@@ -2193,13 +2246,14 @@ policy
          court 1
          courtyard  court+yard
 
-//premier
+//premier [ˈpremiə(r)]
 premier :prime prior
  premise ,the crucial premise for our purposes is premise number two.
  promise 1
 ,prime minister ,in 2014, he was named as a possible prime minister candidate.
  primary 1
 deputy
+superior adj n [suːˈpɪəriə(r)]
 mayor 1 
  major :: 1
 magistrate	[ˈmædʒɪstreɪt]
@@ -2210,12 +2264,16 @@ department
 faderal
  fatal 1
 embark  ,Chinese President Xi Jinping is set to embark on his first overseas trip as the new leader of China.
+embassy
 constituent
 autonomy    ,ethnic     [ɔːˈtɒnəmi] ,autonomy seems more distant than ever, and the road to it ever unclear.
  automatic  [ˌɔːtəˈmætɪk]  ,auxiliary [ɔːɡˈzɪliəri] but the auxiliary motor can also be used in other circumstances. 
 bureau  [ˈbjʊərəʊ]          :assistant
 statesman id.
  salesman id.
+bribe
+senator
+
 
 //
 recess ,all of us harbor dark recesses of violence, and horror.
@@ -2224,7 +2282,7 @@ committee   [kəˈmɪti]
 commission  [kəˈmɪʃn]
 seminar
 meeting
-senate  [ˈsenət]
+senate  [ˈsenət] senator id. [ˈsenətə(r)]
 convention
 conversation
 workshop
@@ -2240,7 +2298,7 @@ vocation	occasion:scene
             occasional 1
 career
  caress 1
-profession
+profession n professional adj n :professor 1
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
 surgeon 1 :surgery id. | physician id. [fɪˈzɪʃn]
@@ -2299,17 +2357,20 @@ bribe 1
 corrupt
 collapse
 collision
+conflict
 
 
 //glimmer
 glimmer | gloom
 :glitter
+glow [ɡləʊ]
 light	light
 	   plight 1
 glamour :lure 1 ,the moonlight cast a glamour over the river. 1
 spotlit
 flame ,the flames climb higher and higher
  fame ,hall of fame
+ famous
 sparkle :glitter
 shiny 1
 /
@@ -2353,19 +2414,16 @@ radar
 equipement
 manufacture ,they set up a textile manufacturing business.
  
-tomb
-cemetery    [ˈsemətri]
- centimeter
  
  
 //spectrum
 spectrum
-reddish     childish
+reddish     childish  dish dish radish 1 
 infrared 1
 purple 1
 black
  blank 1
-
+ bracket :() ,but I just want to bracket it for the time being.
 progress
 process
  possession :occupy 1
@@ -2396,6 +2454,7 @@ adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
 
 
 negative | positive position
+:passive
 
 cipher secret
 
@@ -2421,6 +2480,7 @@ invasion    [ɪnˈveɪʒn]
 baseball
 bowling 
 soccer
+curling
 
 dud ::clothes zip
     :nonsense
@@ -2436,6 +2496,7 @@ similar
 identical 
  identity 1
 likewise
+alike
 
 exist existence | extinction
  exit
@@ -2547,6 +2608,7 @@ practical   ,some also claim that the project could even have a practical use.
 actually
 
 admire :commend | sarcastic    [sɑːˈkæstɪk]
+admiration n [ˌædməˈreɪʃn] ,but the little prince could not restrain his admiration.
 adore    sacrifice    [ˈsækrɪfaɪs]
 adorable :lovely
  adolescent
@@ -2556,10 +2618,13 @@ procedure
 algorithm
 progress
 
+tune
+tongue [tʌŋ]
 voice vocal
       local
 sound :vowel        [ˈvaʊəl]
       :consonant    [ˈkɒnsənənt]
+amplifier 1
 
 结果-结束-结局-完成
 outcome
@@ -2570,6 +2635,7 @@ consequence
 conclusion 1
 eventually 
 accomplish v.
+ accommodate 1
 finish
 ```
 
@@ -2582,7 +2648,18 @@ trip
 tour
 tourist id.
 tourism
+sightseeing
 
+designate 1 [ˈdezɪɡneɪt]
+dispatch
+assign [əˈsaɪn] | resign resignation
+assignment
+
+formula ::婴儿食品
+equation
+
+transmit
+transmission n ,no adult mosquitoes means no disease transmission.
 ```
 
 
