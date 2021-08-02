@@ -128,7 +128,7 @@ moist
 sweat
 soak    ,oh my god that bag is soaked with grease.
 sink	dip:soak immerse 1
-		   :descend descent 1 decline
+		   :descend descent 1 decline descendant ,she is the last direct descendant of Alexander Corvinus. 
 		              scent
 		drop:drip
 spill	
@@ -220,12 +220,14 @@ plunge into
 yell 1
 shrill
  drill
+howl :wolf [haʊl]
 feed 1
 frown
 watch ::
 gossip ,i've got the juiciest bit of gossip ever.
     :recreation
-
+:rumor
+ tumour 1
 throw   :toss :heave 1
 pitch ::asphalt  [ˈæsfælt]
  ,wipe you off the pitch
@@ -380,7 +382,7 @@ semester
 architecture 1
 architect P
 mathematics ,mathematical model
-lecture
+lecture :讲座
  treasure 
 philosophy philosopher
 historian
@@ -401,8 +403,8 @@ round
 circle
  circus
 
-//literature
-literacy
+//literature [ˈlɪtrətʃə(r)]
+literacy [ˈlɪtərəsi]
 introduction
 plot ::情节
      :con'spiracy scheme [skiːm]:plan 
@@ -411,6 +413,8 @@ setting
 climax
 conclusion
 narrative [ˈnærətɪv]
+novel
+fiction
 
 //biology ecology
 biology		biology
@@ -490,6 +494,9 @@ route
 tunnel 
 cinema
 theater [ˈθɪətə(r)]
+canal
+ naval :troop
+ lava
 
 //vehicle
 vehicle
@@ -535,10 +542,6 @@ shield  ,raise your shield as high as you can.
 bow :::,then he baited another line and left it coiled in the shade of the bow.
 
 
-
-canal canal
-			naval
-			lava
 		
 
 	
@@ -625,7 +628,7 @@ collaborate ,collaborate with
    labor ,labor day
   elaborate 1
 cooperation
-alliance :tribe 1
+alliance :tribe 1 | alienate [ˈeɪliəneɪt] ,journalist agreed not to alienate anyone.
 compound
 
 condense
@@ -655,9 +658,8 @@ scent
 decent | vulgar vague 鸟diao
 descent		sink 2 decline ::refuse:denial deny
   :recession                 refuge 1
-  possession possess
-             
-  | ascension
+  possession possess           
+| ascension LOL
 flavour
  favour
 rotten  rotten egg
@@ -868,6 +870,8 @@ medal
 logo
 cite    ,she just has to cite her gut instinct.
  recite ,recite verse
+ recipe [ˈresəpi]
+ recipient [rɪˈsɪpiənt] ,this year's recipient in the small bussiness category is Taylor Guitars.
 quote cite 1
 bid
 
@@ -888,7 +892,7 @@ divine
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
  prey :hunter predator:fierce   
 choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
-
+sage ::鼠尾草
 
 promise
  compromise
@@ -937,8 +941,8 @@ constitution construction 1
 					 	   fate:destiny
 					 	   fade::decay                                  strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
 					 	   		 delay postpone :late tardy sluggish     trip  trap
-                                                             anguish      nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
-                     statesman                                        
+                                 :drag [dræɡ]                anguish      nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
+                     statesman      ,the lecture dragged on and my mind wandered.                                  
 discipline :whip ,like a whip on his back.
             lash ,their vicious words were like "lashes of a whip"    
  principal
@@ -1026,7 +1030,7 @@ struggle
 
 //yield
 stoop 0
- troop
+ troop 1
 surrender
  surrealist 
 conform ::coincide consensus ,a genuine leader is not a seeker of consensus.
@@ -1071,7 +1075,7 @@ boost
 inspire	
   spire:dome
   spiral:DNA
-enrich :plentiflul
+enrich :plentiflul 1
 burgeon :,rapidly increase
         :bud
 
@@ -1096,7 +1100,8 @@ conquest
 conquer
 overwhelm 1     [ˌəʊvəˈwelm]
 
-appropriate analogy
+appropriate analogy  [əˈnælədʒi]
+            analyst 1
 [[vehicle]]
 
 //des
@@ -1384,6 +1389,7 @@ analyse
 analysis	[əˈnæləsɪs]
 ana'lytic	[ˌænəˈlɪtɪk]
 analytical
+analyst id. [ˈænəlɪst]
 
 //Photographer
 photograph
@@ -1454,7 +1460,7 @@ conscience
 //trait 1
 charity
 wicked vicious [ˈvɪʃəs] ,vicious words.
-
+ weird :odd 1 ,your mother's presenting her in a weird, weird way. 
 //character::role personality
 flake ::fish juvenile ,teenage flake and college dropout
 odd
@@ -1627,7 +1633,7 @@ cold cruelty :callous [ˈkæləs] grim
                                brim ::fill , net was filled to the brim with fish. 
                                trim
                                tram
-                         
+ruthless ,If heaven and earth are ruthless, they treat the myriad creatures as straw dogs; if the sage is ruthless, he treats the people as straw dogs.                         
 ```
 
 
@@ -1649,7 +1655,9 @@ rid	2	get rid of
 presentation 
  presence | absence
  present  | absent [æbˈsent] scene
-            ::gift  
+ ::gift 
+ :now ,at present. 
+ :recommend introduce  
 exhibition exhibit
 display
 
@@ -1768,7 +1776,7 @@ cherry
 strawberry
  straw
 watermelon ,one would almost suspect you had brains in your head, instead of straw.
- 
+citrus [ˈsɪtrəs]
 
 
 
@@ -1778,8 +1786,8 @@ baobab  [ˈbeɪəʊbæb]
 
 
 //animal
-hound   :dog
- wound
+hound   :dog:bark  wolf:howl n.v 
+ wound             pl.wolves
 crow :cock   [krəʊ] :scarecrow
  crowd
 camel   [ˈkæml]
@@ -1800,7 +1808,7 @@ cock  chicken chick
 	tail
 	rear
 duck tuck
-goose::stimulate spur boost 			inspire	enrich :plentiful
+goose::stimulate spur boost 			inspire	enrich :plentiful:
 					 boot:springboot	  spire:dome
 	velvet				 					  spiral:DNA
 	silk
@@ -1836,6 +1844,7 @@ slug 8
 cattle [ˈkætl] :cow :bull 1 :butcher 1
  castle  
  scatter 1
+sheep 1 :shear v
 mouse pl. mice
 /primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
 	
@@ -1913,7 +1922,9 @@ ample maple [ˈmeɪpl]
  amplify v
  amplifier n
  :loudspeaker
-plentiful
+plentiful 1
+abound
+myriad
 magnificent
 grace
 spectacular
@@ -2210,6 +2221,7 @@ painter :paint
          print 
          pint
          portrait = port + trait 
+         portray v :describe [pɔːˈtreɪ] depict [dɪˈpɪkt]
 entrepreneur
 employer employment :hire | dismiss resign v. [rɪˈzaɪn] resignation n. [ˌrezɪɡˈneɪʃn]
 
@@ -2402,7 +2414,7 @@ poster
  postage :stamp
 magazine
 journal journalist:reporter interview
-
+            id. [ˈdʒɜːnəlɪst]
 explore
 exploit
 explode burst boom blast detonate 1 [ˈdetəneɪt]
@@ -2495,7 +2507,7 @@ admire :commend | sarcastic    [sɑːˈkæstɪk]
 adore    sacrifice    [ˈsækrɪfaɪs]
 adorable :lovely
  adolescent
-
+      scent 1
 process
 procedure
 algorithm
