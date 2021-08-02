@@ -238,7 +238,7 @@ slap
  flag 1
  
 //liver
-eys :visible sightless 1  
+eye :visible sightless 1  
 ear :aural
 liver liver
 	  live
@@ -433,7 +433,7 @@ mutate :DNA
 
 
 
-//sociology [ˌsəʊsiˈɒlədʒi]
+//sociology [ˌsəʊsiˈɒlədʒi] ,Anne is a professor of sociology at New York University.
 census
  censorship 1 
 estate  [ɪˈsteɪt] ,estate transactional law
@@ -445,6 +445,8 @@ racial [ˈreɪʃl] race ,racial discrimination
 ethnic 
  ethical :morality 1
 pure
+assimilate [əˈsɪməleɪt] ,people of different nationalities often take years to be assimilated into a country.
+translation n
 
 //geography [dʒiˈɒɡrəfi]
 geographic
@@ -472,6 +474,9 @@ former  ,he says the former gaverment did a very good job in reducing goverment 
 habitat 1
 expedition  [ˌekspəˈdɪʃn]
 documentary
+
+//solar system
+Saturn
 
 //computer
 hardware software
@@ -501,7 +506,8 @@ canal
 //vehicle
 vehicle
  vertical 1
-traffic 
+traffic
+ride prep.rode 
 steer v
 lorry
 tractor
@@ -512,6 +518,7 @@ tram trim
    tight 1
 coach ::instruct
 ,hay wagon
+cart
 ambulance 1
 
 
@@ -528,7 +535,7 @@ raft
 
 /aviation   ,civil aviation
 plane
-
+airplane
 
 
 //weapon
@@ -587,8 +594,8 @@ release
 emission  mission
 
 
-enterprise
-entrepreneur
+enterprise n ,private enterprise is basic to capitalism.
+entrepreneur id. [ˌɒntrəprəˈnɜː(r)]
 fellow::
 
 //crust
@@ -722,12 +729,12 @@ pearl 1 pear
 ore oar 1 oak owe::归功于 era eve own:occupy1
  ,vein of ore
 rock rocky ::stable ::steady :horse
-sulfur
+sulfur       stabilizer ,horizontal stabilizer. [ˈsteɪbəlaɪzə(r)]
 tin
 
 revolve 
  evolve
-spin   ::textile
+spin   ::textile  loom strip
            exile 1 
          texture
           mature
@@ -818,6 +825,7 @@ bonus
 tariff tax ,fat tariff
 check ,blank check.
 fund ,mutual fund.
+      mute 1
 loan
 
 ```
@@ -897,9 +905,9 @@ sage ::鼠尾草
 promise
  compromise
  premise
-promising :predict ,weather forecast
+promising :predict ,weather forecast ,the coastal wall program is a promising option.
            :herald n v ,for some, he is a herald of America's decline, affirming Iran's official narrative.
-prospect    :前景,展望
+prospect    :前景,展望 | retrospect 1
             :exploit
 prospective :forthcoming
             :future ,prospective wife
@@ -942,7 +950,8 @@ constitution construction 1
 					 	   fade::decay                                  strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
 					 	   		 delay postpone :late tardy sluggish     trip  trap
                                  :drag [dræɡ]                anguish      nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
-                     statesman      ,the lecture dragged on and my mind wandered.                                  
+                     statesman      ,the lecture dragged on and my mind wandered.
+                                 linger 1                                  
 discipline :whip ,like a whip on his back.
             lash ,their vicious words were like "lashes of a whip"    
  principal
@@ -968,6 +977,7 @@ detain :detention
    train ::outward :instruct coach 1 ,train of thought
   strait 1
    trait 1
+   trial 1
  
 curb
 preclude 
@@ -983,7 +993,7 @@ restrict restriction              internet
              instruct 1
              institute 1	   		             
 bind    bind
-        blind sightless
+        blind sightless   
               slightness
               brightness
  bunch 1
@@ -994,7 +1004,7 @@ bundle ,a bundle of cable and pipes heading in the same direction.
 
 
 pressure  depress 1
-press   :新闻
+press   :新闻 ,the press pinned on him the word "arrogant", and never removed it.
 		:按压 1
 oppress
 oppressive
@@ -1070,7 +1080,7 @@ betray
 goose :: 1
 stimulate 
 spur 
-boost
+boost ,to boost his creativity.
  boot:springboot
 inspire	
   spire:dome
@@ -1096,7 +1106,8 @@ seed
 
 
 
-conquest
+conquest ,the conquest of Britain is a lost cause.
+   quest 1
 conquer
 overwhelm 1     [ˌəʊvəˈwelm]
 
@@ -1124,7 +1135,7 @@ kingdom realm frontier
 
 
 ```
-necessitate
+necessitate v [nəˈsesɪteɪt]
 necessary
 [[salary]]
 
@@ -1189,6 +1200,7 @@ participant :candidate 1
 particularly
 
 assume
+assumption ,the assumption was that flight 370 went down off the coast of Australia.
 presume
 presumably 对吧?
 
@@ -1216,7 +1228,8 @@ memo
 tomb
 commemorate 纪念  [kəˈmeməreɪt]
 monument  [ˈmɒnjumənt]
-
+nostalgia  n [nɒˈstældʒə]
+retrospect retro+spect 1
 
 //physics   [ˈfɪzɪks] emphasis 1 [ˈemfəsɪs]
 atom    ,neighbouring atom
@@ -1239,7 +1252,7 @@ transistor
 coil n.v.   [kɔɪl]
 /time
 permanent [ˈpɜːmənənt] :forever eternal
-instant :instantaneous [ˌɪnstənˈteɪniəs]
+instant :instantaneous [ˌɪnstənˈteɪniəs] ,in an instant.
  instance
  distance :距离
  distant  :遥远的
@@ -1288,7 +1301,7 @@ unite 1  ,
 lean
 oblique     [əˈbliːk]
  oblige  1  [əˈblaɪdʒ]
-tilt | straight [streɪt] 1
+tilt | straight [streɪt] 1 ,in an instant, they can all but disapper when Saturn tilts toward the sun.
 	   strain 3
 tremble
 
@@ -1299,6 +1312,7 @@ street	street
 avenue  [ˈævənjuː]  ,I have a client in the garment bussiness, on Seventh Avenue
 metropolitan
  cosmopolitan
+skyscraper
 booth
  boost
  boast :bull    ,you boast how you killed the Earth Bull.
@@ -1344,6 +1358,7 @@ rub
 rob
 robe
  rope 1
+ rode 1 prep. ride
 mud
 mob ,angry mob  :rogue 1
                 plague  ,famine and plague will dance upon the land. ::affliction [əˈflɪkʃn] torment
@@ -1367,8 +1382,8 @@ control
 concrete    ::specific specify
 controversy		dispute
 convention      seminar 1
-conventional    custom::海关 costume:clothes 	
-conversation
+conventional         custom::海关 costume:clothes 	
+conversation      :accustom v
 conversion
 conservation    [ˌkɒnsəˈveɪʃn]  reserve deserve
 conservative    [kənˈsɜːvətɪv]
@@ -1400,7 +1415,7 @@ photo
 frame ::,hey, look, I got some frame grabs from the overpass.
                                                     ::footbridge :beyond
                                                     :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1
-
+clip ::回形针
 
 ```
 
@@ -1473,6 +1488,7 @@ flatter 1
 advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
  advise 1
 violence
+superficial 
 
 ///
 //motion
@@ -1485,13 +1501,14 @@ see ::视为 ,see sth as...
 gaze    ,Dorothy leaned her chin upon her hand and gazed thoughtfully at the Scarecrow.
  graze ::grass wipe
 fly prep. flew
+caress [kəˈres] 1 ,as if the only reason we would caress our spouses would be to count their bones.
 /senior
 insult
 scorn   1
  corn
  core
- thorn
- throne :empire 
+ thorn  [θɔːn] ,old town is a thorn in your sight.
+ throne :empire   [θrəʊn]
         inspire 1
          expire 1
           spire 1
@@ -1499,6 +1516,7 @@ quarrel ,an ant has no quarrel with a boot.
  squirrel 1         
 clumsy  [ˈklʌmzi]
  clump
+  lump:block lamp lamb 1
  climb
  crime 1
 dedicate :donate
@@ -1526,19 +1544,21 @@ complain
 /冷静-冷漠-沉默-冷酷
 collected adj. :calm sober  [ˈsəʊbə(r)]
 silent
+mute 1
 
 /勤劳
 endeavor
 diligent
 
-//show
+//show manifest::
 desire ,I have no desire to punish the innocent.
  desirable ,now of course it isn't very desirable at this end.
  advise 1
  advisable 1
 delight
 disgust 1
-
+ disguise 1
+ 
 //emotion affection 1
 emotion 2 emotionally, her struggle with a brain tumour is book's most emotionally resonant subplot.
  motion ,infrared motion detector.
@@ -1694,6 +1714,7 @@ fragile
 vulnerable	[ˈvʌlnərəbl]
 delicate 1
 
+正确-准确-精确-确定-确认
 //correct 
    direct :straight 1 | tilt
 correct:rectify redress
@@ -1707,13 +1728,17 @@ correction
  
 
 
+追求-探索-探寻-寻找-寻觅-需求-需要-渴望-渴求-获得-得到-抓到
+seek
+pursuit n pursue v
+quest n v
 
-//demand
 demand :I demand you give me access to your laboratory.
  recommend :
    commend :admire 1
    command commander
 exact
+
 achieve
 fetch
 attain
@@ -1723,6 +1748,7 @@ grab
 get
 require
 reclaim 1
+
 ```
 
 
@@ -1760,6 +1786,7 @@ cereal ,cereal company Kellogg is announcing plans to trim its worldwide workfor
 pepper :spicy 1
  paper :typist 
 fertilizer
+turnip 1 :radish :rabbit 1
 
 
 //coconut
@@ -1798,7 +1825,7 @@ hippocampus
 crocodile [ˈkrɒkədaɪl]
 	alligator
 	Coconut palm::
-tortoise	[ˈtɔːtəs]
+tortoise	[ˈtɔːtəs] :turtle [ˈtɜːtl] 
 deer dear
       kitchen
 cock  chicken chick 
@@ -1844,7 +1871,8 @@ slug 8
 cattle [ˈkætl] :cow :bull 1 :butcher 1
  castle  
  scatter 1
-sheep 1 :shear v
+ coastal [ˈkəʊstl] 1 coast
+sheep 1 :shear v :lamb 1
 mouse pl. mice
 /primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
 	
@@ -1918,6 +1946,7 @@ audience
 prodigious
 fantastic
 big
+enormous ,and he went out into the garden to pull up the enormous turnip.
 ample maple [ˈmeɪpl]  
  amplify v
  amplifier n
@@ -1927,6 +1956,7 @@ abound
 myriad
 magnificent
 grace
+gracious ,I can teach you about kindness, but I cannot force you to be gracious.
 spectacular
 eloquent
 flourish thrive ::茁壮成长  ,the only way we're gonna thrive is if we're apart.
@@ -2021,7 +2051,8 @@ lateral [ˈlætərəl]
 bathe
 threat
  thread :linear
-         liner  [ˈlaɪnə(r)]
+         liner  [ˈlaɪnə(r)] 1
+         linger ,I didn't linger on it long, I assure you.
  thrift 1
 karma 因果报应
 manuscript 张宇 莱布尼茨
@@ -2032,11 +2063,13 @@ workforce
 swing
 holder, the Guinness World Records announced the new record holders for 2016.
 bulk ,everything here is available in bulk.
-
+robust 鲁棒性
+bell
 
 ```
 Jerusalem [dʒəˈruːsələm]
 Irap
+Iran
 Athens  ['æθənz]
 Nigeria
 Pakistan
@@ -2046,6 +2079,9 @@ Polish
  polite policy political politician po
 Italian
 Ukraine
+Britain
+Australia
+Austria
 ```
 
 
@@ -2108,7 +2144,7 @@ specific	[spəˈsɪfɪk]    specific
 accumulate accumulation 1
 	simulate simulation
 		imitate imitation
-		disguise    [dɪsˈɡaɪz] disgust 1
+		disguise    [dɪsˈɡaɪz] disgust 1  | disclose ,fine clothes may disguise, but silly words will disclose a fool.
 			pretend
 			feign
 			camouflage   [ˈkæməflɑːʒ]
@@ -2118,9 +2154,8 @@ accumulate accumulation 1
 	stimulate
 	stimulation
 aggressive
-	arrogant
-	arrange
-	arrogance
+	arrogant arrogance
+	arrange arrangement
 aggregate 1
 segregate segment
 separate
@@ -2139,12 +2174,14 @@ leak 1
 
 //identity 
 identity
- identical
+ identical 1
  identify 1
 bride 1
-bridegroom
+ bribe 1
+bridegroom :spouse [spaʊs] 1
 drunk
 whore   [hɔː(r)]
+artist
 
 //politics [ˈpɒlətɪks] institution
 politic
@@ -2175,10 +2212,10 @@ faderal
 embark  ,Chinese President Xi Jinping is set to embark on his first overseas trip as the new leader of China.
 constituent
 autonomy    ,ethnic     [ɔːˈtɒnəmi] ,autonomy seems more distant than ever, and the road to it ever unclear.
- automatic  [ˌɔːtəˈmætɪk]
-bureau  [ˈbjʊərəʊ]
+ automatic  [ˌɔːtəˈmætɪk]  ,auxiliary [ɔːɡˈzɪliəri] but the auxiliary motor can also be used in other circumstances. 
+bureau  [ˈbjʊərəʊ]          :assistant
 statesman id.
-
+ salesman id.
 
 //
 recess ,all of us harbor dark recesses of violence, and horror.
@@ -2201,6 +2238,8 @@ occupation	[ˌɒkjuˈpeɪʃn]   occupation
 						    occupy	[ˈɒkjupaɪ] :possession 1
 vocation	occasion:scene 
             occasional 1
+career
+ caress 1
 profession
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
@@ -2221,7 +2260,7 @@ painter :paint
          print 
          pint
          portrait = port + trait 
-         portray v :describe [pɔːˈtreɪ] depict [dɪˈpɪkt]
+         portray v :describe [pɔːˈtreɪ] depict [dɪˈpɪkt] 
 entrepreneur
 employer employment :hire | dismiss resign v. [rɪˈzaɪn] resignation n. [ˌrezɪɡˈneɪʃn]
 
@@ -2239,7 +2278,7 @@ unforeseen
 for'tuitous 	[fɔːˈtjuːɪtəs]	fortune 1
 mishap	晦气
 
-
+sight
 visual
 vision ::imagination 1
 visible ,the Great Wall is not visible with the naked eye from space.
@@ -2256,8 +2295,10 @@ magistrate	2
 image
 
 
-bribe
+bribe 1
 corrupt
+collapse
+collision
 
 
 //glimmer
@@ -2281,6 +2322,7 @@ grim
 groom bridegroom 孙悟空
 gloom
 gloomy
+ loom 1
 glimmer
 glee :jolly joy cheerful 1 rejoice
 
@@ -2357,7 +2399,7 @@ negative | positive position
 
 cipher secret
 
-shore coast
+shore coast 1
 port
 harbor ::shelter 1 refuge
 gulf golf
@@ -2411,7 +2453,7 @@ steward     [ˈstjuːəd]
 
 leaflet
 poster
- postage :stamp
+ postage :stamp~~~~
 magazine
 journal journalist:reporter interview
             id. [ˈdʒɜːnəlɪst]
@@ -2426,6 +2468,7 @@ daily   [ˈdeɪli] 每天喝一杯牛奶a
 dairy   [ˈdeəri]
 diary   [ˈdaɪəri]
 dirty   [ˈdɜːti]
+dirt 1
 
 strategy  [ˈstrætədʒi]	tactics	
                       intact 完好无损的
@@ -2461,7 +2504,7 @@ pretty :beautiful beauty
 
 plan
 plant vegetation 1
-plane
+plane 1 ::horizontal 1  [ˌhɒrɪˈzɒntl] 
 planet :star satellite [ˈsætəlaɪt] moon 
 
 idea
