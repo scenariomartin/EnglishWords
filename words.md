@@ -162,8 +162,10 @@ dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
 surge :wave ,the waves of color of the wild flowers mixed with the waves of sound.
       weave 1
 foam ,trimmed with lace as pale as foam.
+bubble 1
 drunk id.adj.v prep.drink
 waterproof ,so you need to make sure the device has a waterproof seal.
+liter 1
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -234,8 +236,8 @@ gossip ,i've got the juiciest bit of gossip ever.
 :rumor
  tumour 1
 throw   :toss :heave 1
-pitch ::asphalt  [ˈæsfælt]
- ,wipe you off the pitch
+pitch ::asphalt  [ˈæsfælt] pitcher id.:pot
+ ,wipe you off the pitch.  
   weep :cry 
 wipe
 slap
@@ -244,8 +246,13 @@ slap
 clap ,clap his hand
  
 //liver
+/internal
+colon 1
+/external
 eye 1  
 ear :aural
+hand ,hand lotion : soap
+                    soup
 liver liver
 	  live
 lung
@@ -280,8 +287,12 @@ hat
 lace ,
 overcoat
  overcome
-scarf
+scarf ::v狼吞虎咽
  scar 1
+frock
+ frown 1
+ foam 1
+robe 1
 
 //chamber
 corridor    [ˈkɒrɪdɔː(r)]
@@ -295,6 +306,7 @@ stereo	[ˈsteriəʊ]
 TV  :repertoire  [ˈrepətwɑː(r)] the'atrical theater 1
 fridge 1
 oven
+locker n :confidential adj 1
 /appliance
  application ::petition 1
 microwave
@@ -336,10 +348,11 @@ spoon
 white sugar
 	  surge 1
 	  surgeon 2
-pail
-pot 
- port
-barrel ::
+pail :barrel:: [ˈbærəl]
+pot :pitcher
+ port 1
+ portion 1
+bowl
 
 fork :prong ,the plan fits in with two prongs of the national development strategy.
 
@@ -383,8 +396,9 @@ dentist 1
 symptom 1
 clinic hospital
 heal
+ health n
 disease 1
-
+wholesome adj :healthy adj
 
 
 //subject course
@@ -419,6 +433,9 @@ circle
  circus
 rectangle
    tangle 1
+square 1 squarely 1:正对着地;径直地;不偏不倚地;直接了当;明确无误;毫不含糊地;
+ :courtyard 1
+cylinder
 variale :variation
 
 //literature [ˈlɪtrətʃə(r)]
@@ -483,6 +500,7 @@ autumn :fall::,fall back 后退
 fume
 climate
 acre    ,four-acre site [ˈeɪkə(r)]
+plain 1
 
 /position
 fore
@@ -526,6 +544,7 @@ canal
  lava
 ,telegraph office
  telegram n 1
+square 1
 //vehicle
 vehicle
  vertical 1
@@ -601,15 +620,19 @@ scent
 obsession   [əbˈseʃn]
 lure tempt 1
 entrance ::
+attract
+induce 1
+glamour
 
 //apartment
 dormitory
 accommodate v 收留
-apartment
+apartment :flat ::plain plane
  department
 dwelling
 habitant
  habitat
+
 
 //eruption
 erupt v ,the invisible shield erupted between Ron and Hermione.
@@ -622,8 +645,9 @@ eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员 ru
  alcohol
 evaporate   [ɪˈvæpəreɪt]
  vapor :steam   [ˈveɪpə(r)]
+dissipate [ˈdɪsɪpeɪt] ,and surface area how much body heat you can dissipate.
 release
- grease 1
+ grease 1 :lubricate   [ˈluːbrɪkeɪt]
  disease 1
 emission  mission
 
@@ -643,7 +667,9 @@ shall
 specific 1 	[spəˈsɪfɪk] specify specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1  
 specialize
 specialist	expert	professor | layman	amateur
-speciality ,cooking isn't your speciality is it, Feifei?
+speciality Eng ,cooking isn't your speciality is it, Feifei?
+specialty  Ame [ˈspeʃəlti]
+
 ```
 
 
@@ -732,11 +758,11 @@ testimony
 lawyer :attorney ,defense attorney ,his defense attorney says he did it, everything he's accused of.
  layer
 counsel 1
-resort 1 :aid  petition 1 
-            competition
-               appetite :stomach
-               puppet
-         :,resort town
+resort 1 :petition 1 | aid   
+       competition
+        appetite :stomach
+          puppet
+:,resort town
  resonant :共鸣的
 petition 1
 bill ::账单
@@ -769,6 +795,8 @@ ore oar 1 oak owe::归功于 era eve own:occupy1
 rock rocky ::stable ::steady :horse
 sulfur       stabilizer ,horizontal stabilizer. [ˈsteɪbəlaɪzə(r)]
 tin
+pebble
+ bubble 1
 
 revolve 
  evolve
@@ -839,8 +867,12 @@ tariff tax ,fat tariff
 check ,blank check.
 fund ,mutual fund.
       mute 1
-loan
+loan 1 lawn 1
 deposit n v1  [dɪˈpɒzɪt] 
+wealth  n    health
+wealthy adj  healthy 1
+fiscal 1
+finance nv financial adj
 
 ```
 
@@ -849,7 +881,7 @@ deposit n v1  [dɪˈpɒzɪt]
 
 
 ```
-prevail popular ,peace must and will prevail, no matter the cost. 
+prevail popular :umbrella ,peace must and will prevail, no matter the cost. 
    vain    ,we can't let these men's deaths be in vain.
    veil     :bride 1
 
@@ -906,7 +938,7 @@ spade 0
 
 //religion
 religion
-missionary
+missionary  mission 1 
 virgin
 catholic   [ˈkæθlɪk]
 clergy
@@ -917,14 +949,16 @@ choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
 sage ::鼠尾草
 
 promise
- compromise
+ compromise | intransigence [ɪnˈtrænzɪdʒəns] ,some say that his intransigence is more for form than for fiscal doctrine.
+ comprise 1
  premise
 promising :predict predictable adj. ,weather forecast ,the coastal wall program is a promising option. :prophet id.
            :herald n v ,for some, he is a herald of America's decline, affirming Iran's official narrative.
 prospect    :前景,展望 | retrospect 1
             :exploit
 prospective :forthcoming
-            :future ,prospective wife
+            :future ,prospective wife 
+            :impression
  irrespective
  prosperity 1
  proposal       n. advice
@@ -943,7 +977,7 @@ patriotic 0 | treason [ˌpætriˈɒtɪk]
 petrol	petrol 	 [ˈpetrəl]
 		patrol   [pəˈtrəʊl] :parade 1
 		patron   [ˈpeɪtrən] 1 
-petroleum
+petroleum 
 gasoline
 
 //纪律 规定 规矩 规则 法令 法律 教条
@@ -998,6 +1032,8 @@ detain :detention
  
 curb
  incur 1
+ curse 1
+ occur :happen emerge
 preclude
 restrain v
 restraint n ::PN ,in the absence of internal, moral restraints, external ones can only do so much. 
@@ -1046,7 +1082,7 @@ hinder
 //boycott
 boycott
 withstand
-withdraw
+withdraw :undo ,a careless remark proved to be the undoing of many a man.
 resist resistance :friction 1
 :parade disturbance:agitate patrol incident 1 :stir::egg
           :turbulent ,but she was running from a turbulent past.
@@ -1087,7 +1123,7 @@ certain ::some
 confirm :identify  [aɪˈdentɪfaɪ] 
  conform
 affirm :assert:claim:announce
-             reclaim:::
+             reclaim::: ,I will reclaim what you have taken from us.
  affair :incident
 ascertain [ˌæsəˈteɪn]
 
@@ -1274,7 +1310,6 @@ watt
 turbine [ˈtɜːbaɪn]
 supersonic :speedy
 bombard ,we're bombarded with the particles, the very highest energy cosmic rays are rare.
-density 1 :mass substance
 condense 凝结
 transparent
 /electricity
@@ -1283,7 +1318,7 @@ transistor
 coil n.v.   [kɔɪl]
 /time
 permanent [ˈpɜːmənənt] :forever eternal
-tentative ::1 temporary transient transient
+tentative ::1 temporary transient transient interim ,interim government
 instant :instantaneous [ˌɪnstənˈteɪniəs] ,in an instant.
  instance
  distance :距离
@@ -1291,9 +1326,20 @@ instant :instantaneous [ˌɪnstənˈteɪniəs] ,in an instant.
 immediately
 since
  sincere
-/mass
+/unit
 gram gramme
+liter 1
+ litter
+ literature 1
 /temperature
+  literature
+/mass
+volume  [ˈvɒljuːm]
+ column [ˈkɒləm] :line
+density 1 
+substance
+
+ 
 
 //chemical
 chemical
@@ -1345,7 +1391,7 @@ tremble
 
 district 2	distribute 2
 street	street
-		stress: emphasis pressure
+		stress: emphasis pressure :hightlight vn
 						 press	
 avenue  [ˈævənjuː]  ,I have a client in the garment bussiness, on Seventh Avenue
 metropolitan
@@ -1398,8 +1444,8 @@ robe
  rope 1
  rode 1 prep. ride
 mud
-mob ,angry mob  :rogue 1
-                plague  ,famine and plague will dance upon the land. ::affliction [əˈflɪkʃn] torment
+mob ,angry mob  :rogue 1 :riot 1
+                plague ,famine and plague will dance upon the land. ::affliction [əˈflɪkʃn] torment
                  vague      :harvest farmer:peasant [ˈpeznt]
                  vanish :disapper 
 ,ethnic minority [maɪˈnɒrəti]
@@ -1429,6 +1475,8 @@ conservation    [ˌkɒnsəˈveɪʃn]  reserve deserve
 conservative    [kənˈsɜːvətɪv]
 consume  v      [kənˈsjuːm]
 consumption
+confidence n confident adj n:知己
+confidential 1
 
 //erect
 erect
@@ -1453,11 +1501,14 @@ photograph
 image
 album
 gallery
-photo
+photo picture
 frame ::,hey, look, I got some frame grabs from the overpass. :by-pass:,step over
                                                     ::footbridge :beyond
                                                     :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1
 clip ::回形针
+shoot ,shooting at the Hollywood Bowl was the biggest highlight ever.
+                       Halloween
+graphic 图像,图表
 
 ```
 
@@ -1481,7 +1532,19 @@ hay ,hay wagon 1
 ,they harvest apples, enjoy hay wagon rides and walk in the fields.
 basket
  bracket 1
+ pack nv
+ packet n
+ backpack 1
+ pocket
+ bucket 
+ basket 
+  bracket 1 ::'()'
+ parcel
+ deliver
+ delivery
+ express ::vn
 lawn    ,ont the green lawn before it many men and women were dancing.
+ loan 1
 bush 1
 
 
@@ -1522,6 +1585,11 @@ charity
 wicked vicious [ˈvɪʃəs] ,vicious words.
  weird :odd 1 ,your mother's presenting her in a weird, weird way.
  :wand 
+ witch n :curse vn1 ,I really think the Halloween curse is broken now.
+  which
+  pitch 1
+ :sorceress [ˈsɔːsərəs]
+  scissors [ˈsɪzəz] 1
 //character::role personality
 flake ::fish juvenile ,teenage flake and college dropout
 odd
@@ -1545,6 +1613,7 @@ advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not ad
  advise 1
 violence 1 violent adj
 superficial 
+liberal 1
 
 ///
 //motion
@@ -1669,15 +1738,13 @@ scare
 shock
 striking 1
 
-
-
 never
 nerve ::bold
 nervous ,nervous system
 restless
 tension trend :tendency 1   ,they could add to tension in the mind, causing stress.
 
-
+ambiguous bt.1
 
 comfort 1
 
@@ -1730,7 +1797,8 @@ literature	[ˈlɪtrətʃə(r)]
 
 raid	突袭 airstrike
 maid
-rid	2	get rid of
+ rid	2	get rid of
+ aid nv
 
  
  presence | absence
@@ -1850,6 +1918,9 @@ sausage vinegar
 potato tomato ,stab a potato with a fork and microwave it for 8 to 10 minutes.
 cereal ,cereal company Kellogg is announcing plans to trim its worldwide workforce.
 
+/snack
+jelly
+
 //pepper
 pepper :spicy 1
  paper :typist 
@@ -1936,7 +2007,7 @@ elephant ivory, ivory relief
                       belief
                       brief concise
 squirrel 1                  
-fox fax [fæks]
+fox fax [fæks] :sly 人类错误的说法
 mole :: [məʊl]
 slug 8
 cattle [ˈkætl] :cow :bull 1 :butcher 1
@@ -1947,6 +2018,7 @@ sheep 1 :shear v :lamb 1
 mouse pl. mice
 vegetarian 1
 /primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
+bat ::1 ,hitting a round ball with a round bat squarely is difficult.
 /insect
 mosquito
 	  
@@ -1996,6 +2068,7 @@ barely ::merely ,I barely had the nerve to make this call.
 swarm
 hive
 bee :honey:dense
+honey:nectar ,they rob them of their nectar and give nothing in return.
 pollen [ˈpɒlən] 
 blossom
 bloom
@@ -2046,6 +2119,7 @@ smash ::,Helen, you can stop smashing up that poor clock now.
 strength ,we tout the strength of weak ties but we underestimate the strength of strong ones.
 spacious 
  specious 1
+liberal 1
 
 maximum
 minimum
@@ -2061,8 +2135,6 @@ rope
 chalk
 
 portfolio foliage:leaf
-sly
-lubricate
 rifle 0
  ruffle [ˈrʌfl] ,she ruffled her feather and gave him a look of deep disgust.
 ominous
@@ -2098,7 +2170,6 @@ p a n o r a m a :summary summarize v.
 
 remain
 widget
-pitch  ::
 awe-inspiring
 trumped-up
 permit ,residency permit
@@ -2140,7 +2211,7 @@ workforce
 swing
 holder, the Guinness World Records announced the new record holders for 2016.
 bulk ,everything here is available in bulk.
-robust 鲁棒性
+robust 鲁棒性 :durable
 bell
 endanger
 basement
@@ -2170,12 +2241,14 @@ Austria
 ```
 // verbal
 adverb
+adjective
 exceeding
 exclusive ,exclusive video
 	::排外的
 inevitable :must do
 available 1 注意i
 conspicuous 1
+excess adj.n [ɪkˈses] ,the wealthy gave from their excess, but she gave all she had.
 ```
 
 
@@ -2417,7 +2490,7 @@ flame ,the flames climb higher and higher
  famous
 sparkle :glitter
 shiny 1
-/
+/darkness
 shade
 shadow
 
@@ -2521,12 +2594,13 @@ invasion    [ɪnˈveɪʒn]
  ,invasion privacy
  
 //hobby 
-baseball
-bowling 
+baseball :bat 1
+bowling
+ bowl 1 
 soccer
 curling
 
-dud ::clothes zip
+dud ::clothes zip:zigzag nv adj adv
     :nonsense
     :不中用的东西
 bud :blossom 1
@@ -2611,8 +2685,9 @@ pretty :beautiful beauty
 
 plan
 plant vegetation 1
-plane 1 ::horizontal 1  [ˌhɒrɪˈzɒntl] 
-planet :star satellite [ˈsætəlaɪt] moon 
+plane 1 ::horizontal 1  [ˌhɒrɪˈzɒntl] :surface
+planet :star satellite [ˈsætəlaɪt] moon
+plain 
 
 idea
 terminate 进程的七个status
@@ -2666,6 +2741,7 @@ voice vocal
 sound :vowel        [ˈvaʊəl]
       :consonant    [ˈkɒnsənənt]
 amplifier 1
+noise n noisy adj
 
 结果-结束-结局-完成
 outcome
@@ -2711,7 +2787,7 @@ content extent
 ##混淆-探索-清楚 系
 
 ```
-明白-清楚-清晰 | 混乱-混淆-纠缠-困惑
+明白-清楚-清晰 | 混乱-混淆-纠缠-困惑-模糊
 confusion
 chaos   [ˈkeɪɒs] chaotic [keɪˈɒtɪk]
 disorder
@@ -2723,6 +2799,7 @@ puzzle
 confuse
  refuse 1
  refuge
+ambiguous adj 有歧义的
 伪装-假装
 
 迷惑-可疑的-怀疑-猜测-推理-推断-调查---查证--证实---确认---确保
@@ -2754,11 +2831,12 @@ infer   :guess
 ```
 
 ```
-colonization    [ˌkɒlənaɪˈzeɪʃn]
-colonize:
-colony: [ˈkɒləni]
+colonization    [ˌkɒlənaɪˈzeɪʃn] n
+colonize: v
+colony: [ˈkɒləni] n :commercial 
+colonial: adj
 colonel [ˈkɜːnl] 1
-colon ':'
+colon ':' ::1
 color
 clone
 
