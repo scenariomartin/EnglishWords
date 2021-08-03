@@ -159,7 +159,9 @@ streamline  ::simplify
 dive ,cave diving is perhaps one of the most dangerous endeavors.  [ɪnˈdɛvə]
                      :maybe might
 surge :wave ,the waves of color of the wild flowers mixed with the waves of sound.
+      weave 1
 foam ,trimmed with lace as pale as foam.
+drunk id.adj.v prep.drink
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -237,9 +239,10 @@ wipe
 slap
  flap :fly :dove
  flag 1
+clap ,clap his hand
  
 //liver
-eye :visible sightless 1  
+eye 1  
 ear :aural
 liver liver
 	  live
@@ -273,6 +276,8 @@ tumour cancer
 glove 1
 hat
 lace ,
+overcoat
+ overcome
 
 //chamber
 corridor    [ˈkɒrɪdɔː(r)]
@@ -407,6 +412,8 @@ metric
 round
 circle
  circus
+rectangle
+   tangle 1
 
 //literature [ˈlɪtrətʃə(r)]
 literacy [ˈlɪtərəsi]
@@ -494,6 +501,7 @@ warehouse
 barn ,sheep barn
 hospital :ambulance
 laundry :clothes
+    dry 1
  launch
  lunch
  lung
@@ -510,7 +518,8 @@ theater [ˈθɪətə(r)]
 canal
  naval :troop
  lava
-
+,telegraph office
+ telegram n 1
 //vehicle
 vehicle
  vertical 1
@@ -551,7 +560,7 @@ aerial [ˈeəriəl] ,I was a stone-cold aerial hunter.
 //weapon
 knife
 grenade [ɡrəˈneɪd]
-troop 
+troop   ,rows of National Guard, state troopers and city police stood by in riot gear. 
 gang 
 mine
 spear
@@ -563,7 +572,10 @@ bow :::,then he baited another line and left it coiled in the shade of the bow.
 		
 //instrument
 
-	
+tune               曲调
+melody             旋律
+rhythm [ˈrɪðəm]    节奏
+
 
 ```
 
@@ -593,13 +605,14 @@ habitant
  habitat
 
 //eruption
+erupt v ,the invisible shield erupted between Ron and Hermione.
 eruption	erosion corrode 关于化学 decay 关于生物 corrupt 关于官员 rust:iron
 			emotion
-		:volcano lava
-				 lavatory
-				 laver  [ˈlɑːvə]
-				 lavender   [ˈlævəndə(r)]
-		 alcohol
+:volcano lava
+         lavatory
+         laver  [ˈlɑːvə]
+         lavender   [ˈlævəndə(r)]
+ alcohol
 evaporate   [ɪˈvæpəreɪt]
  vapor :steam   [ˈveɪpə(r)]
 release
@@ -723,7 +736,7 @@ bill ::账单
 quorum  [ˈkwɔːrəm]
  quote  cite v.
 bail
-arrest
+arrest  ,we're investigating claims of racial bias in SCPD arrests.
  assert 1
 detain 1
 murder
@@ -733,11 +746,12 @@ metal
 alloy
 diamond
 mental
-bronze
+bronze = tin + copper
 brass ::厚脸皮
 zinc
 calcium
 iron
+copper
 emerald [ˈemərəld]
 silver
 crystal
@@ -751,38 +765,11 @@ tin
 
 revolve 
  evolve
-spin   ::textile  loom strip
+spin   ::textile  loom strip weave 1
            exile 1 
          texture
           mature
 rotate
-
-迷惑-可疑的-怀疑-猜测-推理-推断-调查---查证--证实---确认---确保
-//skeptical
-skeptical
-suspect convict victim
-suspicion 1
-suspicious  ,you noticed his resemblance to your father and you became suspicious.
-puzzle ::n.拼图
- fuzzy
-dubious
-verify  ,it has not been possible to independently verify any of this information.
-
-/deduce
-
-detect
-probe
-inspect 
- prospect 1
-investigate 
- investment 1
-observe
-examine :censorship 1
-supervise  
-
-infer   :guess
- refer
-,if you remain silent, you will compel us to infer your acts what you intend.
 
 
 //reel
@@ -924,7 +911,7 @@ sage ::鼠尾草
 promise
  compromise
  premise
-promising :predict ,weather forecast ,the coastal wall program is a promising option.
+promising :predict predictable adj. ,weather forecast ,the coastal wall program is a promising option. :prophet id.
            :herald n v ,for some, he is a herald of America's decline, affirming Iran's official narrative.
 prospect    :前景,展望 | retrospect 1
             :exploit
@@ -1000,6 +987,7 @@ detain :detention
    trial 1
  
 curb
+ incur 1
 preclude
 restrain v
 restraint n ::PN ,in the absence of internal, moral restraints, external ones can only do so much. 
@@ -1052,6 +1040,7 @@ withdraw
 resist resistance :friction 1
 :parade disturbance:agitate patrol incident 1 :stir::egg
           :turbulent ,but she was running from a turbulent past.
+          :riot 1
 oppose
 anti    ,I'm anti too much stuff 
 retort
@@ -1144,7 +1133,7 @@ despise scorn contempt | flatter
 dispute 2
 controversy	2
 disputant
-argument
+argument  ::论点
 argue
 debate
 despot
@@ -1253,6 +1242,7 @@ reminder
 //memorial
 memorial
 memo
+memorandum ,China and Azebaijan have signed a memorandum of understanding on construction of the Silk Road Economic Belt.
 tomb :cemetery [ˈsemətri] :funeral [ˈfjuːnərəl]
       centimeter
 commemorate 纪念  [kəˈmeməreɪt]
@@ -1281,6 +1271,7 @@ transistor
 coil n.v.   [kɔɪl]
 /time
 permanent [ˈpɜːmənənt] :forever eternal
+tentative ::1 temporary transient transient
 instant :instantaneous [ˌɪnstənˈteɪniəs] ,in an instant.
  instance
  distance :距离
@@ -1321,6 +1312,8 @@ bolt 1
 mend | damage [ˈdæmɪdʒ] ,there are some things that time cannot mend.
  :maintenance 1
 unite 1  ,
+gear::1
+
 ```
 
 
@@ -1367,20 +1360,20 @@ exile
 exotic
 exogenous ,exogenous variable           [ekˈsɒdʒənəs]
 exorbitant ,exorbitant privileges   
-exuberant [ɪɡˈzjuːbərənt] energetic
+exuberant [ɪɡˈzjuːbərənt] energetic brace 1 vn ,Wall Street is bracing for what could be a rocky September.
 exude ::chemical 洋溢
 exult       [ɪɡˈzʌlt]           ,he was exulting in a win at the show earlier that day.
                                 ,I exulted and wept for joy.
                                 ,some individual investors exlted at the record.
                                 ,"this is what I've longed for during my entire career"he exulted. 
 exultation
-extent
-
+extent 1
+extend 1 
 extra
 extraordinary
 extravagant
 extract
-extreme             [ɪkˈstriːm]
+extreme 1        [ɪkˈstriːm]
 ,extrovert personality
 
 
@@ -1404,7 +1397,7 @@ mob ,angry mob  :rogue 1
 conductor
 continuous  :function
  continue
-contend competition
+contend competition race::
 content ::satisfy [ˈsætɪsfaɪ] suffice
                               suffer    [ˈsʌfə(r)]
 contact
@@ -1482,7 +1475,7 @@ bleak   leak 1
 dessert
 desert
 deserve 2
-dry up
+,dry up ,dry off    ,I was drying off my sketch book.
 
 //relationship relative ,it's really hard to lose a relative
 widow 
@@ -1522,12 +1515,20 @@ resolute 张铁军
 bold ,the thing I learnd at microsoft was that bold goals attract bold people.
  ::黑体
  
+勇敢-胆小-懦夫
+courageous  [kəˈreɪdʒəs]    ,he was inspiring as well as courageous, and his passion for free trade 
+                             was allied to his passion for democracy.
+courage     [ˈkʌrɪdʒ]
+brave
+coward  [ˈkaʊəd] ,you were a coward then, and you're a coward now.
+ cow
+ 
 //为人 对人
 en'thusiasm  [ɪnˈθjuːziæzəm]
 flatter 1
 advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
  advise 1
-violence
+violence 1 violent adj
 superficial 
 
 ///
@@ -1580,7 +1581,7 @@ accuse ,enjoyed by men bound by accusing morality of their deeds.
  acute ,acute appendicitis [əˈkjuːt əˌpendəˈsaɪtɪs]
  abuse
 抱怨-埋怨
-complain
+complain v complaint n
 /冷静-冷漠-沉默-冷酷
 collected adj. :calm sober  [ˈsəʊbə(r)]
 silent
@@ -1605,7 +1606,7 @@ emotion 2 emotionally, her struggle with a brain tumour is book's most emotional
 mood
 spirit  [ˈspɪrɪt]
  inspire 1
-angry :indignant
+angry :indignant incur v wrath [rɒθ] ,I would not dare to incur the wrath of Mr...
        malignant :devil evil  [məˈlɪɡnənt]
 hatred [ˈheɪtrɪd] :hate
 /pain
@@ -1630,7 +1631,8 @@ impulse | rational | radical  [ˈrædɪkl]
 anxious     [ˈæŋkʃəs] anxiety [æŋˈzaɪəti]
 restless  unease   ,if you just sit and observe, you will find how restless your mind is. ,you ever wake up, have a vague feeling of unease?
 :anxiety    ,anti-anxiety drug
-arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的
+arrogant :snobbish [ˈsnɒbɪʃ] 势力的,自命不凡的 :conceited adj [kənˈsiːtɪd] 1
+| modest
 scare panic ,you got scared and you hit the panic button. scarecrow
 
 
@@ -1652,12 +1654,7 @@ nervous ,nervous system
 restless
 tension trend :tendency 1   ,they could add to tension in the mind, causing stress.
 
-困惑-迷惑-疑惑-费解-糊涂-混淆
-perplex     [pəˈpleks]
-puzzle
-confuse
- refuse 1
- refuge
+
 
 comfort 1
 
@@ -1737,7 +1734,7 @@ comet [ˈkɒmɪt]
 pe'ninsula [pəˈnɪnsjələ]
 island
 strait:: 	[streɪt]
- trial:test  [ˈtraɪəl] 
+ trial:test:tentative::1  [ˈtraɪəl] 
   rail railroad | derail detail
   ::blame         :deviate ,he hopes Trump will stand up to Russia when it deviate from internationl norm.
                    devil 1
@@ -1892,6 +1889,7 @@ goose::stimulate spur boost 			inspire	enrich :plentiful:
 		species [ˈspiːʃiːz]
 		spice 1 pungent::一针见血的
 		specious [ˈspiːʃəs] 貌似有理的
+		spacious 1 [ˈspeɪʃəs]
 			conspicuous apparent [əˈpærənt] obviously
 						apartment
 			conspiracy::betray 1 [kənˈspɪrəsi]
@@ -1991,7 +1989,7 @@ audition
 audience
 
 
-
+大-广-宽-高-宏大-丰富-优美
 prodigious
 fantastic
 big
@@ -2005,6 +2003,8 @@ abound
 myriad
 magnificent
 grace
+ race 1
+ brace 1
 gracious ,I can teach you about kindness, but I cannot force you to be gracious.
 spectacular
 eloquent
@@ -2018,7 +2018,8 @@ supreme ,supreme court.
 smash ::,Helen, you can stop smashing up that poor clock now.
  :bust prep. busted ::raid chest 1
 strength ,we tout the strength of weak ties but we underestimate the strength of strong ones.
-
+spacious 
+ specious 1
 
 maximum
 minimum
@@ -2118,6 +2119,7 @@ bell
 endanger
 basement
 overnight
+whence ,whence he dispatched a long telegram.
 
 ```
 Jerusalem [dʒəˈruːsələm]
@@ -2147,6 +2149,7 @@ exclusive ,exclusive video
 	::排外的
 inevitable :must do
 available 1 注意i
+conspicuous 1
 ```
 
 
@@ -2188,8 +2191,8 @@ I can take you because you have one fatal flaw.
 
 ```
 
-
 开花
+##法外之地 
 
 ```
 specific	[spəˈsɪfɪk]    specific
@@ -2198,10 +2201,10 @@ accumulate accumulation 1
 	simulate simulation
 		imitate imitation
 		disguise    [dɪsˈɡaɪz] disgust 1  | disclose ,fine clothes may disguise, but silly words will disclose a fool.
-			pretend
+			pretend v
 			feign
 			camouflage   [ˈkæməflɑːʒ]
-			distinguish | vague ,fuzzy [ˈfʌzi] confuse confusion 
+			distinguish | vague ,fuzzy [ˈfʌzi] confuse confusion 1 
 		        anguish pain 2
 	stimulus
 	stimulate
@@ -2216,7 +2219,9 @@ separate
 	spade
 accuracy
 
+```
 
+```
 
 
 
@@ -2245,7 +2250,7 @@ policy
  polite :courtesy [ˈkɜːtəsi] ,it's only common courtesy for me to check up on him, right?
          court 1
          courtyard  court+yard
-
+ :salute nv ,the little prince clapped his hands, then conceited man raised his hat in a modest salute. 
 //premier [ˈpremiə(r)]
 premier :prime prior
  premise ,the crucial premise for our purposes is premise number two.
@@ -2318,9 +2323,16 @@ painter :paint
          print 
          pint
          portrait = port + trait 
-         portray v :describe [pɔːˈtreɪ] depict [dɪˈpɪkt] 
+         portray v :describe [pɔːˈtreɪ] depict [dɪˈpɪkt] :sketch 
 entrepreneur
+/分配-派遣-就职-就任-辞职-炒鱿鱼
 employer employment :hire | dismiss resign v. [rɪˈzaɪn] resignation n. [ˌrezɪɡˈneɪʃn]
+designate 1 [ˈdezɪɡneɪt]
+dispatch
+assign [əˈsaɪn] | resign resignation
+assignment
+inauguration ,on her father's inauguration day on Jan 20.
+
 
 coincide  :: 1	    [ˌkəʊɪnˈsaɪd]  ::conform 1
 coincidence		[kəʊˈɪnsɪdəns]
@@ -2336,10 +2348,15 @@ unforeseen
 for'tuitous 	[fɔːˈtjuːɪtəs]	fortune 1
 mishap	晦气
 
+eye 1
 sight
+sightless
 visual
 vision ::imagination 1
 visible ,the Great Wall is not visible with the naked eye from space.
+invisible :transparent
+visit
+visitor
 
 magnet	:magnetic:magenetic field  magnetism ,animal magnetism 
 magnify :magnifier [ˈmæɡnɪfaɪə(r)] magnification
@@ -2505,12 +2522,14 @@ expire
 urgent
 
 afterward
+inward ,but a world in which America turned inward would be a far less predictable and a less safe one.
 outward
  external
 reward
 toward
   wardrobe
 steward     [ˈstjuːəd]
+coward 1
 
 leaflet
 poster
@@ -2586,11 +2605,6 @@ signify
 classify    ,classify themselves by race as well.
 simplify
 
-courageous  [kəˈreɪdʒəs]    ,he was inspiring as well as courageous, and his passion for free trade 
-                             was allied to his passion for democracy.
-courage     [ˈkʌrɪdʒ]
-brave
-
 appeal ::呼吁 ,make an appeal :attraction
 appear
 
@@ -2650,16 +2664,65 @@ tourist id.
 tourism
 sightseeing
 
-designate 1 [ˈdezɪɡneɪt]
-dispatch
-assign [əˈsaɪn] | resign resignation
-assignment
+
 
 formula ::婴儿食品
 equation
 
 transmit
 transmission n ,no adult mosquitoes means no disease transmission.
+
+extent 1
+low moderate high extreme
+
+contend extend extension
+content extent
+
+
+```
+
+##混淆-探索-清楚 系
+
+```
+明白-清楚-清晰 | 混乱-混淆-纠缠-困惑
+confusion
+chaos   [ˈkeɪɒs] chaotic [keɪˈɒtɪk]
+disorder
+perplexity  [pəˈpleksəti]
+tangle 1    ,tangled web, that's what you're weaving.
+困惑-迷惑-疑惑-费解-糊涂-混淆
+perplex     [pəˈpleks]
+puzzle
+confuse
+ refuse 1
+ refuge
+伪装-假装
+
+迷惑-可疑的-怀疑-猜测-推理-推断-调查---查证--证实---确认---确保
+//skeptical
+skeptical
+speculate v
+suspect convict victim
+suspicion 1
+suspicious  ,you noticed his resemblance to your father and you became suspicious.
+puzzle ::n.拼图
+ fuzzy
+dubious
+verify  ,it has not been possible to independently verify any of this information.
+/deduce
+detect
+probe
+inspect 
+ prospect 1
+investigate 
+ investment 1
+observe
+examine :censorship 1
+supervise  
+
+infer   :guess
+ refer
+,if you remain silent, you will compel us to infer your acts what you intend.
 ```
 
 
