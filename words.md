@@ -137,7 +137,7 @@ spill
  drill
 overflow
 leak	leak
-		leap :skip:skim bound 1
+		leap :skip:skim bound 1 sprang 1 ,sprang up
 		lip     ,Arya was chewing at her lip in that disgusting way she had.
 		lid :toilet lavatory 
        bleak
@@ -151,6 +151,7 @@ pond
 stream
 river
 bog
+ boggle ::懵逼 1   [ˈbɒɡl]
 swamp    [swɒmp]
 marsh
 weep prep.wept :cry::yell
@@ -162,6 +163,7 @@ surge :wave ,the waves of color of the wild flowers mixed with the waves of soun
       weave 1
 foam ,trimmed with lace as pale as foam.
 drunk id.adj.v prep.drink
+waterproof ,so you need to make sure the device has a waterproof seal.
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -278,11 +280,14 @@ hat
 lace ,
 overcoat
  overcome
+scarf
+ scar 1
 
 //chamber
 corridor    [ˈkɒrɪdɔː(r)]
 lounge :airplane 
        :a living room
+threshold [ˈθreʃhəʊld] ::startline ,they stepped over the threshold and immediately a fire sprang up behind them in the doorway.
 
 //furniture 
   fertilizer 1
@@ -414,6 +419,7 @@ circle
  circus
 rectangle
    tangle 1
+variale :variation
 
 //literature [ˈlɪtrətʃə(r)]
 literacy [ˈlɪtərəsi]
@@ -516,7 +522,7 @@ tunnel
 cinema
 theater [ˈθɪətə(r)]
 canal
- naval :troop
+ naval :troop :colonel 1
  lava
 ,telegraph office
  telegram n 1
@@ -582,11 +588,12 @@ rhythm [ˈrɪðəm]    节奏
 
 
 ```
+形
 condense   1
-dense	senior
-		seminar [ˈsemɪnɑː(r)] 
-		nominal
-density
+dense adj  senior
+		   seminar [ˈsemɪnɑː(r)] 
+		   nominal
+density n
 decent 1
 scent
 
@@ -724,7 +731,7 @@ testimony
  testify 1 ,if I testify about myself, my testimony is not valid.
 lawyer :attorney ,defense attorney ,his defense attorney says he did it, everything he's accused of.
  layer
-counsel
+counsel 1
 resort 1 :aid  petition 1 
             competition
                appetite :stomach
@@ -775,7 +782,7 @@ rotate
 //reel
 reel 0 ::
  creep :crawl 
-        claw :scratch 1
+        claw :scratch 1 :scar 1
         crow 1
         clutch :grab scratch :car
                 gaze
@@ -833,6 +840,7 @@ check ,blank check.
 fund ,mutual fund.
       mute 1
 loan
+deposit n v1  [dɪˈpɒzɪt] 
 
 ```
 
@@ -967,11 +975,13 @@ regulate regular ,in a regular way
 
 forbid , The Forbidden City
    bid 1
+prohibit ,prohibit...from doing
 veto 1
 
 
 suppress ,he says one of the most common methods for suppressing weeds is dense planting.
 constraint
+ restraint 1
 refrain
 retain:keep captain attain:get
 detain :detention
@@ -1204,10 +1214,11 @@ loyal
 lord
 allegiance 1 [əˈliːdʒəns]
 
-counsel 
+council 1
+counsel   id.nv  ::laywer :advise
 :consult     [kənˈsʌlt]
-insult
-result
+  insult
+  result
 
 enroll
 engage 
@@ -1251,6 +1262,7 @@ nostalgia  n [nɒˈstældʒə]
 retrospect retro+spect 1
 
 //physics   [ˈfɪzɪks] emphasis 1 [ˈemfəsɪs]
+theory
 atom    ,neighbouring atom
 molecule	[ˈmɒlɪkjuːl] :particle
  module
@@ -1276,6 +1288,7 @@ instant :instantaneous [ˌɪnstənˈteɪniəs] ,in an instant.
  instance
  distance :距离
  distant  :遥远的
+immediately
 since
  sincere
 /mass
@@ -1313,7 +1326,7 @@ mend | damage [ˈdæmɪdʒ] ,there are some things that time cannot mend.
  :maintenance 1
 unite 1  ,
 gear::1
-
+device
 ```
 
 
@@ -1326,6 +1339,8 @@ oblique     [əˈbliːk]
  oblige  1  [əˈblaɪdʒ]
 tilt | straight [streɪt] 1 ,in an instant, they can all but disapper when Saturn tilts toward the sun.
 	   strain 3
+	 restrain
+	constrain
 tremble
 
 district 2	distribute 2
@@ -1344,7 +1359,7 @@ booth
   bombard 1
  boot
  tooth
- brush
+ brush ,brush teeth
  bush 1
  blush :Yumi
 
@@ -1439,7 +1454,7 @@ image
 album
 gallery
 photo
-frame ::,hey, look, I got some frame grabs from the overpass. :by-pass
+frame ::,hey, look, I got some frame grabs from the overpass. :by-pass:,step over
                                                     ::footbridge :beyond
                                                     :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1
 clip ::回形针
@@ -1560,10 +1575,11 @@ clumsy  [ˈklʌmzi]
   lump:block lamp lamb 1
  climb
  crime 1
+ decorate
 dedicate :donate
           detonate 1
- decorate
  delicate :fragile
+ deliberate adj :on purpose
  delivery :dispatch :distribute
  :logistical logistic   ,we simply don't have the technical and logistical ability to distribute more food to more people.
   logical logic  
@@ -1606,7 +1622,8 @@ emotion 2 emotionally, her struggle with a brain tumour is book's most emotional
 mood
 spirit  [ˈspɪrɪt]
  inspire 1
-angry :indignant incur v wrath [rɒθ] ,I would not dare to incur the wrath of Mr...
+       indignation
+angry :indignant incur rage v wrath [rɒθ] ,I would not dare to incur the wrath of Mr...
        malignant :devil evil  [məˈlɪɡnənt]
 hatred [ˈheɪtrɪd] :hate
 /pain
@@ -1640,12 +1657,18 @@ scare panic ,you got scared and you hit the panic button. scarecrow
 // perception  [pəˈsepʃn]
 ticklish
 dizzy dizziness
-担心-害怕-恐怕-恐怖-可怕的
-fear
+担心-害怕-恐怕-恐怖-恐惧-可怕的-惊吓--震惊-惊讶
+fear fearful
 horror  ,she is clutching her face in horror
 terror
-fearful
-alarm 1
+alarm 1::
+startle [ˈstɑːtl] v
+ start
+frighten
+scare
+shock
+striking 1
+
 
 
 never
@@ -1721,14 +1744,15 @@ presentation
 exhibition exhibit
 display
 
-//astronomy  [əˈstrɒnəmi] 
-astronomer
+//astronomy  [əˈstrɒnəmi] ,astronomy, the study of stars, has lots of mind-boggling theories. 
+astronomer id.
 astronaut    [ˈæstrənɔːt]
 university
 universe verse 1
 satellite    [ˈsætəlaɪt]
 cosmos n cosmic adj.
 comet [ˈkɒmɪt]
+star
 
 
 pe'ninsula [pəˈnɪnsjələ]
@@ -1757,6 +1781,7 @@ delicate 1
 正确-准确-精确-确定-确认
 //correct 
    direct :straight 1 | tilt
+   directly 
 correct:rectify redress
 	   :accurate accuracy precise precision	exact 2 exactly exactness
 	   			:specific 2                 ,exactly coincide
@@ -1858,7 +1883,7 @@ baobab  [ˈbeɪəʊbæb]
 
 //animal
 hound   :dog:bark  wolf:howl n.v 
- wound             pl.wolves
+ wound :scar 1       pl.wolves
 crow :cock   [krəʊ] :scarecrow
  crowd
 camel   [ˈkæml]
@@ -1894,6 +1919,7 @@ goose::stimulate spur boost 			inspire	enrich :plentiful:
 						apartment
 			conspiracy::betray 1 [kənˈspɪrəsi]
 			    piracy:pirate [ˈpaɪrət]
+			   privacy private 1
 		special
 	
 		
@@ -1905,7 +1931,7 @@ pigeon surgeon
 moray 1
 horse hose::pant
 butterfly
-seal ::
+seal ::1
 elephant ivory, ivory relief
                       belief
                       brief concise
@@ -2295,6 +2321,7 @@ dialog
 symposium
 forum   [ˈfɔːrəm]
 conference 1
+council [ˈkaʊnsl] :UN 
 
 //occupation
 occupation	[ˌɒkjuˈpeɪʃn]   occupation
@@ -2710,6 +2737,7 @@ puzzle ::n.拼图
 dubious
 verify  ,it has not been possible to independently verify any of this information.
 /deduce
+ induce :conduct
 detect
 probe
 inspect 
@@ -2725,7 +2753,25 @@ infer   :guess
 ,if you remain silent, you will compel us to infer your acts what you intend.
 ```
 
+```
+colonization    [ˌkɒlənaɪˈzeɪʃn]
+colonize:
+colony: [ˈkɒləni]
+colonel [ˈkɜːnl] 1
+colon ':'
+color
+clone
 
+
+存储-存入-保存-保护
+store
+save
+deposit ::1
+reserve   reservation 1
+conserve conservation 1
+preserve preservation 1
+
+```
 
 
 
