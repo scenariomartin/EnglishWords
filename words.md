@@ -61,6 +61,7 @@ rate    动词v
 stri系
 spect系
 ex系
+词根系要求不能带1
 
 近义词系
 害怕-恐怖
@@ -105,6 +106,8 @@ a bit angry with us
 (副词+形容词) + 介词 + 名词       a bit angry with us
 名词 + 介词 + 动词ing + 名词      the question of evaluating subsidy is difficult 约等于 the question is difficult
 名词 + 关系代词 + 动词过去分词     the general pause which ensued made Elizabeth tremble lest her mother should be exposing herself further.
+be + 动词过去分词 + 介词 + 名词
+
 
 句子的主体是介词前面的词, 介词及后面的词都是用来修饰前面的词的
 of 感觉是用来分割词性的
@@ -134,8 +137,8 @@ at山脚、门口、在当前，速、温、日落、价、核心。
 
 adj.
 +al 
-+ous
-+ble
++ous 
++ble 可...
 
 #### 义族
 
@@ -279,7 +282,7 @@ sniff | blow
 breathe
 chew:gum::
 shiver 1    :heave::throw
-plunge into
+,plunge into
 yell 1 exclaim u
 shrill
  drill
@@ -348,6 +351,7 @@ muscle	music
  masculine
 bone :fracture  [ˈfræktʃə(r)] :plaster nv :cement ,he tried to plaster on a smile now and then.
 :pelvis ,wide pelvis [ˈpelvɪs]
+spine ,the spine near the site of the fracture.
 fingertip
 tumour cancer
        cancel ,is she gonna cancel on me again?
@@ -721,7 +725,7 @@ decent 1
 scent
 
 //lure
-obsession   [əbˈseʃn]
+obsession   [əbˈseʃn] ,be obsessed with
 lure tempt 1
 entrance ::
 attract
@@ -1025,7 +1029,8 @@ predecessor [ˈpriːdəsesə(r)]
 illusion
 image
 imagination
-fancy
+fancy vnj fantastic j
+hallucinatory j [həˈluːsɪnətri] ,the novel's hallucinatory world is evoked through fim projections puppets and music.
 
 banner
 trademark ,I will win him over with my trademark charm.
@@ -1085,17 +1090,47 @@ prospect    :前景,展望 | retrospect 1
 prospective :forthcoming
             :future ,prospective wife 
             :impression
+            projection
  irrespective = irr + respective各自的 :ignore v ignorance n
- irrelevant = irr + relevant | irrelevant
+  irrelevant = irr + relevant | irrelevant
  prosperity 1
+ perspective :: insight ,deep insight
+  :projection ,film projection
+ inspect 1
+ 
+spect系
+aspect
+spectate v spectator i
+circumspect j ["sə:kəmspekt]
+conspectus n
+expect expection expectant ji
+inspect 1 inspection inspector i
+introspect
+prospect n prospective j prospectus n
+retrospect v retrospective retrospection
+perspective n
+respect vn respectable j respectful j
+spectacle 1
+specter gost
+spectrum 1
+suspect 1 suspectable suspicion n
+
+
+spect=spec=spic系
+despise
+conspicuous
+specious
+special speciality specialist i specialize 
+
+ 
+ 
+prosperity 1
  proposal       n. advice
  propose::求婚  v1 advise  date约会
  purpose    1
  suppose    1 
  suppress   1
  support    江泽民
- perspective :: insight ,deep insight
- inspect 1
 
 
 grease ease
@@ -1483,6 +1518,7 @@ since
  sincere
 timely jy ,in time
 lateness
+punctual j ,on time ,how charming of you to be so punctual.
 /unit
 gram gramme
 liter 1
@@ -1573,6 +1609,7 @@ booth
  boot
  tooth
  brush ,brush teeth
+  bruise nvu ,punch me in the chest, leave a bruise.
  bush 1
  blush :Yumi
 region
@@ -1591,7 +1628,7 @@ exist   existence
 exile
 exotic
 exogenous ,exogenous variable           [ekˈsɒdʒənəs]
-exorbitant ,exorbitant privileges   
+exorbitant ,exorbitant privilege   
 exuberant [ɪɡˈzjuːbərənt] energetic brace 1 vn ,Wall Street is bracing for what could be a rocky September.
 exude ::chemical 洋溢
 exult       [ɪɡˈzʌlt]           ,he was exulting in a win at the show earlier that day.
@@ -2075,7 +2112,7 @@ attain
          celling
 grab
 get
-require
+require requirement n [rɪˈkwaɪəmənt]
 reclaim 1
 acquisition [ˌækwɪˈzɪʃn] 购置的产业 ,if it succeeds, Teva's acquisition would be the biggest foreign takeover yet made by an Israeli firm.
  acquaint 1
@@ -2505,7 +2542,7 @@ I'd like to take this opportunity to make an appeal.
 but in the Senate the bonus is allocated region by region.
 we could use another couple hundred pounds of fertilizer.
 I can take you because you have one fatal flaw.
-
+bread and butter  谋生之道
 
 ```
 
@@ -2795,7 +2832,7 @@ fit
 //genius [ˈdʒiːniəs] 
 genius
  genuine  [ˈdʒenjuɪn] :real
- general 1
+ general 1 generalize v ,generalizing from small samples of data is the bread and butter of science.
  generator 1 
 talent
 natural
@@ -2897,7 +2934,7 @@ exploit
 explode burst boom blast detonate 1 [ˈdetəneɪt]
 explosive
 
-franchise privilege 1
+franchise privilege 1 entitle
 
 daily   [ˈdeɪli] 每天喝一杯牛奶a
 dairy   [ˈdeəri]
@@ -2932,7 +2969,7 @@ college colleague
 undergraduate
 postgraduate
 
-criticism critic 1 
+criticism critic i1 
 
 pretty :beautiful beauty
        :颇为 very ,pretty cool
