@@ -281,7 +281,7 @@ murmur
 grumble 发牢骚
 gigle
 glare 怒目而视	glean:collect
-                 lean 1 ::瘦肉 ,rely on. reliable faithful 1
+                 lean 1 ::瘦肉 ,rely on. depend u, depend on. reliable faithful 1
 shrug ,shrug off    [ʃrʌɡ] 1
  slug :
 kick
@@ -383,8 +383,7 @@ hat
 lace ,
 overcoat
  overcome
-scarf ::v狼吞虎咽
- scar 1
+scarf ::v狼吞虎咽 1
 frock
  frown 1
  foam 1
@@ -672,6 +671,9 @@ over
 between
 forth y,we've seen dozens, hundreds of ideas even, passed back and forth.
 amid p. ,moreover, a few glimmers of hope can be discerned amid the gloom.
+site nv
+
+
 
 //nature
 habitat 1
@@ -731,6 +733,7 @@ carriage :cart ,I've just stabled my four black stallions and my carriage.
 ambulance 1
 locomotive n车头
 diversion 1 n,the traffic diversion was due to an accident on the mainroad.
+van nv
 
 tanker o ::liner:: 1 :shipment :export   [ɪkˈspɔːt]
         :cargo                  expert 1 [ˈekspɜːt]
@@ -766,8 +769,10 @@ sword
 shield  ,raise your shield as high as you can.
 bow :::,then he baited another line and left it coiled in the shade of the bow.
 
-defence n
-		
+defence n defense nv defend v
+ defendant 1 
+ 
+	
 //instrument
 
 tune               曲调
@@ -1167,7 +1172,7 @@ medal
 logo
 cite    ,she just has to cite her gut instinct.
  recite ,recite verse
- recipe [ˈresəpi]
+ recipe [ˈresəpi] ,I picked up the recipe.
  recipient [rɪˈsɪpiənt] ,this year's recipient in the small bussiness category is Taylor Guitars.
 quote cite 1
 bid
@@ -1286,6 +1291,7 @@ constitution construction 1
 					 state n::j federal federation v1:say  
                            fatal 1 ,fatal flaw
 					 	   fate:destiny
+					 	           tiny 1
 					 	   fade::decay                                          strip:strap:stripe:zebra  ,backpack strap  :fabric    ,smiles faded a little
 					 	   		 delay postpone :late tardy sluggish suspend 1   trip  trap
                                  :drag [dræɡ]                anguish              nip ::抿 夹  snip:scissors [ˈsɪzəz]  snap ship
@@ -1392,7 +1398,7 @@ anti    ,I'm anti too much stuff
 retort v n counter v n:: y:reverse vnj
  resort 1
  resonant :共鸣的   [ˈrezənənt]
-struggle
+struggle nu ,the unarmed teenager was killed last year in a struggle with the defendant.
 deplore 1
 
 //yield
@@ -1496,7 +1502,7 @@ despise v scorn contempt | flatter
  despicable j1 [dɪˈspɪkəbl]  ,despicable me
   :base nv j basest 1 base的最高级
 despite 1 
-dispute 2
+dispute 2 ,is there anyone here who would dispute my right?
 controversy	2
 disputant
 argument  ::论点 discussion n 
@@ -1771,7 +1777,7 @@ region
 exact
 examine
 example
-exclusive  ::排外的 ,exclusive agency  ,exclusive video
+exclusive  1 
 exceed 1
 excess nj excessive j
 exert 1 ,exert oneself    exertion
@@ -1873,7 +1879,7 @@ frame ::,hey, look, I got some frame grabs from the overpass. :by-pass:,step ove
                                                     :passage:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1 shaft n
 clip ::回形针                                                                                          shift
 shoot ,shooting at the Hollywood Bowl was the biggest highlight ever.
-                       Halloween
+     p.shot            Halloween
 graphic 图像,图表
 
 ```
@@ -1951,7 +1957,7 @@ self-personality-character-trait-为人-deed-show-emotion-feel-mood
 //self
 individual
 soul
-being
+being ,human beings
 
 //personality
 dignity=dign+ity
@@ -2156,9 +2162,11 @@ comfort 1
 
 /physiological  [ˌfɪziə'lɒdʒɪk(ə)l]
  physiology 
- physics 1
+ physics 1         
+ physical 1 jn
  physician 1
  philosophy 1
+ 以上意思各不相同
 thirsty
  thrive 1
  thrift  李隆基
@@ -2277,7 +2285,7 @@ error 1
 
 追求-探索-探寻-寻找-寻觅-需求-需要-渴望-渴求-获得-得到-抓到-要求-强求-迫使
 seek
-pursuit n pursue v
+pursuit n pursue vu
 quest n v
 
 demand :I demand you give me access to your laboratory.
@@ -2415,11 +2423,11 @@ goose::stimulate spur boost 			inspire	enrich :plentiful:
 		spice 1 pungent::一针见血的
 		specious [ˈspiːʃəs] 貌似有理的
 		spacious 1 [ˈspeɪʃəs]
-			conspicuous apparent [əˈpærənt] obviously
+			conspicuous apparent [əˈpærənt] obviously obvious 1 patent 1nvj ::
 						apartment
 			conspiracy::betray 1 [kənˈspɪrəsi]
 			    piracy:pirate [ˈpaɪrət]
-			   privacy private 1
+			   privacy n private j n 1
 		special
 	
 		
@@ -2518,14 +2526,14 @@ audience
 prodigious
 giant 1
 fantastic
-big
+big | tiny 1
 enormous ,and he went out into the garden to pull up the enormous turnip.
 ample maple [ˈmeɪpl] amply y  
  amplify v
  amplifier n
  :loudspeaker
  sample 1
- adequate j
+ adequate j | scarce 1 j v:hardly [skeəs]
 plentiful 1
 abound
 myriad
@@ -2600,7 +2608,6 @@ widget
 awe-inspiring
 permit ,residency permit
 background
-migrate
 laser
 locality     [ləʊˈkæləti] ,we were discussing the role of locality in writing, when suddenly it hit me.
 rap
@@ -2646,7 +2653,8 @@ paradox n [ˈpærədɒks] ,the explanation of this paradox lies in who is doing 
 ,regard...as... treat...as... term...as...
 ,regardless of the viewpoint
 ensue u 接踵而至
-
+secondary j
+dynamic j animate jv | inactive j inanimate j 
 
 ```
 Jerusalem [dʒəˈruːsələm]
@@ -2684,7 +2692,7 @@ exceed v beyond transcend
  express 1
  recess 1 
  recession 1
-exclusive ,exclusive video
+exclusive ,exclusive agency  ,exclusive video. exclusively ,human beings don't exclusively hold the patent on suffering.
 	::排外的
 inevitable :must do
 available 1 注意i
@@ -2885,6 +2893,9 @@ career
  caress 1
  care :thoughtful j 
  scare 1
+ scar 1
+ scarce 1
+ scarf 1
 profession n professional adj n :professor 1
 sailor :sail :oar paddle propeller飞机螺旋桨 [prəˈpelə(r)]
               ore 1
@@ -3443,6 +3454,13 @@ sew [səʊ] ,she'll wear herself out nursing and sewing.
 be baying for
 be eager for
 desire 1
+    
+migrate    v [maɪˈɡreɪt] 
+emigrate   u [ˈemɪɡreɪt]
+immigrate  u [ˈɪmɪɡreɪt]
+注意以上三者的区别
+immigrant i     ,illegal immigrants
+immigration n
 ```
 
 
