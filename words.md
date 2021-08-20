@@ -22,7 +22,10 @@
 
 形近义不同
 词系+反义
-义近
+义近+词系
+无义近则放置在形近
+形少放义近
+形近必有义
 
 :同义/同系/形近义近, 可以列向
 
@@ -302,6 +305,9 @@ drunk id.adj.v prep.drink
 waterproof=water+proof 1 ,so you need to make sure the device has a waterproof seal.
 liter 1
 nourish 1v [ˈnʌrɪʃ] ,the Chinese believe water nourishes the spirit and mind of people.
+flood 1nvu
+
+
 /
 oversea overseas
 voyage  ,what happened on that fatal voyage.
@@ -432,7 +438,7 @@ palate 1n [ˈpælət]
 cheek
  cheer cheerful :joy
 chin
-beard bear beer beef
+beard bear beer beef bread
 chest 1 :breast
  crest 1
 hand ,hand lotion : soap [səʊp]
@@ -490,6 +496,7 @@ storey n ,two days later Ms.Peck jumped to her death from a multi-storey car par
  story
 garage=guard+age
 hall 1
+window n;一丝机会
 //furniture 
   fertilizer 1
 stereo	[ˈsteriəʊ]
@@ -517,6 +524,7 @@ blender 1
 indoor j | outdoor j ,indoor toilet
 roof
 floor
+ flood nvu
 celling
  cling 1 :adhere u attach :insist v
  curling 1
@@ -647,7 +655,7 @@ prescription 1n ,prescription medicine
 
 
 //subject course
-subject ::国民 subjective | objective
+subject ::国民 subjective | objective     ,unify your subjects
 course
  coarse :rough  :rogue notorious 1 ,what I see are two coarse and lowly rogues.
     decent 1 | vulgar vague 鸟diao
@@ -681,7 +689,7 @@ diameter :radius =1/2diameter
           radiant j容光焕发的   ,radiant as ever
 remainder 1
 fraction 1
-metric
+metric 1j
 round
 circle
  circus
@@ -760,10 +768,16 @@ diversity n diverse j
  diversion 1
    version 1
  conversion 1
+cell
+
 
 //sociology [ˌsəʊsiˈɒlədʒi] ,Anne is a professor of sociology at New York University.
 census
- censorship 1 
+ censorship 1
+ consensus 1
+ consequence 1
+ conscious 1
+ conscience 1
 estate  [ɪˈsteɪt] ,estate transactional law
  :ownership owner
 security n
@@ -889,8 +903,10 @@ tractor
 truck nv
  struck 1
 cab
+ crab 1
 crane
 tram 1
+,light rail
 ,freight train
    tight 1
 coach ::instruct
@@ -912,7 +928,11 @@ tanker o ::liner:: 1 :shipment :export   [ɪkˈspɔːt]
 raft 1n:: [rɑːft]
 ship n
 yacht n [jɒt] ,racing yacht
+ferry n
+
 helicopter
+
+
 
 /aviation   ,civil aviation
 plane
@@ -966,7 +986,8 @@ piano
 //performance v; do
 performer i
  perform 1
-theater 1 [ˈθɪətə(r)] 
+theater 1  [ˈθɪətə(r)]
+ theatrical j 
 rehearsal n 
 audition vn 
 audience
@@ -999,7 +1020,7 @@ scent
 //魅力-迷人-诱惑-引诱---引起-引发-触发-激起-唤起-引导
 obsession   [əbˈseʃn] ,be obsessed with
 lure vn::诱饵 tempt 1  [lʊə(r)]
-entrance n1 v
+entrance v n1
 induce 1
 glamour n ,the moonlight cast a glamour over the river.
 charm vn
@@ -1016,6 +1037,8 @@ provoke
 evoke
 conduct
 trigger nv1
+
+//招致-带来
 
 促使-促进-提升
 goose :: 1
@@ -1100,7 +1123,7 @@ shall ,I shall go first, and I shall take the boy.
  
  
 //special
-specific 1 	[spəˈsɪfɪk] specify 详细说明 specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1  
+specific 1 	[spəˈsɪfɪk] specify 详细说明 specification  [ˌspesɪfɪˈkeɪʃn] :instruction 1 ,he conformed the plans to the new specifications.  
 specialize  
 specialist	expert	professor i | layman i amateur ji
 speciality Eng ,cooking isn't your speciality is it, Feifei?
@@ -1123,7 +1146,7 @@ integrate   [ˈɪntɪɡreɪt]
 unity n.
 :unite 
  unit 1
-unify v. unified j ,we have a unified Congress, not the paralyzed, divided Congress that we had for the last four years.
+unify v unified j ,we have a unified Congress, not the paralyzed, divided Congress that we had for the last four years.
  rectify
  notify     知会 inform vu
  identify  [aɪˈdentɪfaɪ] 1
@@ -1217,7 +1240,7 @@ penalty [ˈpenəlti] ,death penalty
 :punish ,<<Crime and Punishment>>
 innocent
 suspect
-crime :guilty
+crime :guilty j;1
 criminal    |   victim 1
 plaintiff   |   defendant
  plentiful
@@ -1360,7 +1383,7 @@ jewel
 investment 1 , the asian infrastructure investment bank was proposed by China in 2013.
 cash rush crush:walnut 1
 change ::,it's a Polish custom to throw change at the bride.
-sponsor :patron 1
+sponsor nv :patron 1
 allowance
 fortune :: 1
 deficit [ˈdefɪsɪt]
@@ -1481,6 +1504,7 @@ divine
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
  prey :hunter predator:fierce j :chase   
 choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
+ choice n-j
 sage ::鼠尾草
  sag 1
 Christ n [kraɪst]
@@ -1634,7 +1658,7 @@ bind vun
 
 :p bound::leap 1
     :bounce 1 
-bundle ,a bundle of cable and pipes heading in the same direction.
+bundle n ,a bundle of cable and pipes heading in the same direction.
 
 削弱
 sap v1
@@ -1649,8 +1673,8 @@ curb nv
  incur 1
  curse 1
  occur :happen emerge u
- obscure 1     emergency n 
- obstruct 1
+ obscure 1     emergence n 
+ obstruct 1    emergency n 紧急情况
 
   
 
@@ -1697,7 +1721,7 @@ boycott vn
 withstand v 抵抗,承受
 withdraw v:undo retreat 1 withdrawal n ,a careless remark proved to be the undoing of many a man.
 resist vu resistance :friction 1
-:parade disturbance:agitate patrol incident 1 :stir::egg
+:parade disturbance n:agitate patrol incident 1 :stir::egg
           :turbulent ,but she was running from a turbulent past.
           :riot 1
 oppose opposite 1npy opposent 1i | approve 1v [əˈpəʊz] [ˈɒpəzɪt]
@@ -1722,7 +1746,7 @@ stoop 1 un
 ,be subject to
 surrender vun
  surrealist ij 
-conform jvu ::coincide consensus ,a genuine leader is not a seeker of consensus.
+conform jvu ;coincide consensus 1 ,a genuine leader is not a seeker of consensus.
 comply  ,if people comply
 yield
 
@@ -1739,6 +1763,7 @@ testament n
 testify
  testimony
 cer'tificate vn:diploma 1 文凭
+specification 1 说明书
              
 许可-允许
 保证-发誓-誓言
@@ -1770,7 +1795,7 @@ confirm :identify  [aɪˈdentɪfaɪ] ,the identity of the third victim has yet t
  conform
  comfort 1
 affirm :assert v:claim vn::索赔1:announce 1 declare v announcement n 
- affair 1n   reclaim::: ,I will reclaim what you have taken from us.
+ affair 1n   reclaim 1; 
              exclaim 1
 ascertain [ˌæsəˈteɪn]
 
@@ -1825,7 +1850,7 @@ proper j1
 //des
 despair 1 [dɪˈspeə(r)] :desperation
 despise v scorn nvu contempt slight v1 | flatter
- despicable j1 [dɪˈspɪkəbl]  ,despicable me
+ despicable j1 [dɪˈspɪkəbl]  ,<<despicable me>>
   :base nv j basest 1 base的最高级
 despite 1 p.尽管 n:despise 
 dispute 2 ,is there anyone here who would dispute my right?
@@ -1969,6 +1994,12 @@ landslide 1n::塌方 一方占绝对优势的选举
 
 collective conscious
 collective conscience   1
+conscious j consciousness ,be conscious of
+ conscience n;良心 内疚:guilty j;1  ,clear conscience 问心无愧
+aware j awareness ,be aware of
+realize n; realization
+
+
 
 collect glean 2
 recollect
@@ -2009,8 +2040,10 @@ intensity n 1
 transistor
 semiconductor n ,it helped turn Israel from a country of orchards to one of semiconductors. 
 coil 1n.v.   [kɔɪl]
-wire nu [ˈwaɪə(r)] ,barbed wire.
+wire nu [ˈwaɪə(r)] ,barbed wire. wireless
 ,power cord. 1
+cable nv
+ despicable 1
 /time
 permanent [ˈpɜːmənənt] :forever eternal ,I wanted to get something permanent to symbolize our love.
 tentative ::1 temporary transient ,for a moment. interim ,interim government
@@ -2147,7 +2180,7 @@ booth
  brush ,brush teeth
   bruise 1
   cruise 1
-  rush 1
+  rush 1 haste nvu hurry nv urgent j ,in haste
   crush 1
  bush 1
  blush :Yumi
@@ -2330,7 +2363,7 @@ desert
 ,dry up ,dry off    ,I was drying off my sketch book.
 
 默认为n
-//relationship relative ,it's really hard to lose a relative
+//relationship relative n j ,it's really hard to lose a relative
                relativity n :,quantum mechanics [ˈkwɒntəm] E=mc^2
             correlate vu [ˈkɒrələt] ,they don't correlate very much with IQ at all.
             correspondence n::1 
@@ -2403,7 +2436,7 @@ timid 1
 en'thusiasm 1  [ɪnˈθjuːziæzəm] keen j u [kiːn]
 flatter v 1 ingratiate v court 1 ,try to please.
  flat p.flatter yj
-advisable [ədˈvaɪzəbl] ,at the moment your presence on the streets is not advisable.
+advisable [ədˈvaɪzəbl] 
  advise 1
 violence 1 violent adj
            violet n 1 词相近,但意思有点完全相反
@@ -2505,14 +2538,22 @@ emotion 2 emotionally, her struggle with a brain tumour is book's most emotional
 mood
 spirit n v spiritual j [ˈspɪrɪt] ,spiritual but not religious.
  inspire 1
-       indignation 
-angry :indignant j inncur rage v wrath outrage nv [rɒθ] ,I would not dare to incur the wrath of Mr...
-       malignant :devil evil nj  [məˈlɪɡnənt] foul j  
+       indignation     
 hatred [ˈheɪtrɪd] :hate resent v,he'll resent me for putting pressure on him.
+ haste 1
 curious j curiosity n::
 lest conj.1 :worry
 embarrassment n embarrass n1 [ɪmˈbærəs] awkward j1 [ˈɔːkwəd]
   harassment  n   harass n   [ˈhærəs]
+/愤怒  
+angry 
+indignant 1j indignation
+ malignant 1
+outrage nv
+rage    nv
+wrath   n [rɒθ]
+ wrap   1
+incur   v ,I would not dare to incur the wrath of Mr...
 /pain
 affliction 1 [əˈflɪkʃn] ,it's easy to see your multipotentiality as a limitation or afflicion that you need to overcome.
   friction
@@ -2539,6 +2580,13 @@ restless  unease   ,if you just sit and observe, you will find how restless your
 :anxiety    ,anti-anxiety drug
 arrogant :snobbish j势力的,自命不凡的 :conceited j1 [kənˈsiːtɪd] [ˈsnɒbɪʃ]
 | modest 
+
+
+
+malignant 1 [məˈlɪɡnənt]
+devil 
+evil nj   
+foul j
 
 
 
@@ -2598,6 +2646,7 @@ sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity, it was a pity it happene
                                   company ::fellow
           synthesize 1
  symmetric :symmetry ,I'm comforted by your shiny hair and facial symmetry.
+    metric 1
  symptom 1
  symposium 1
  sym'bolic
@@ -2608,7 +2657,7 @@ serious solemn 1 grim 1 grave 1 [ˈsɒləm]
 severity n [sɪ'verəti]
 cold  n:callous grim   [ˈkæləs]
                         rim
-                       brim ::fill , net was filled to the brim with fish. 
+                       brim n u:fill , net was filled to the brim with fish. 
                        trim 1
                        tram
                        tramp i1 :beggar i our basest beggars are in the poorest things superfluous.
@@ -2690,11 +2739,22 @@ fragile
 vulnerable	[ˈvʌlnərəbl]
 delicate 1
 
+
+direction
+director
+direct
+correct
+
+direct jy v:director 
+ directly
+squarely
+straight
+| 
+tilt
+
 正确-准确-精确-确定-确认-明确的-具体的 | 模糊的-抽象的
 错误
-//correct 
-   direct :straight 1 | tilt
-   directly 
+//correct 3
 correct:rectify redress
 	   :accurate accuracy precise precision	exact 2 exactly exactness
 	   			:specific 2                 ,exactly coincide
@@ -2720,28 +2780,39 @@ demand nvu :I demand you give me access to your laboratory.
    comment nvu,comment on
 exact ::
 
-achieve
-fetch
-obtain v
-attain v
- attach :cling tape 1nv:: [teɪp] ,I have never seen a man cling to life so fiercely.
-         celling       
-collar 1
+//渴望-渴求
+be baying for
+be eager for
+desire 1
+
+//抓住-夺
+collar 1v n
  cellar 1
-grab 
+grab vu 
 grasp vn ::,figure out
  grass 1
  graze 1
  grape 1
-get
-require requirement n [rɪˈkwaɪəmənt]
-reclaim 1
-acquisition [ˌækwɪˈzɪʃn] 购置的产业 ,if it succeeds, Teva's acquisition would be the biggest foreign takeover yet made by an Israeli firm.
- acquaint 1
-:takeover
-need nvu
 seize v ,if she hit me with a stick, I'd seize it and break it under her nose.
 snatch vun 
+
+//获得-拿回
+achieve
+fetch v
+obtain v
+attain v
+ attach :cling tape 1nv:: [teɪp] ,I have never seen a man cling to life so fiercely.
+         celling       
+reclaim 1v; ,I will reclaim what you have taken from us.
+acquisition [ˌækwɪˈzɪʃn] 购置的产业 ,if it succeeds, Teva's acquisition would be the biggest foreign takeover yet made by an Israeli firm.
+ acquaint 1
+ :takeover
+get
+
+//需要-要求
+need nvu
+require requirement n [rɪˈkwaɪəmənt]
+
 ```
 
 
@@ -2784,6 +2855,8 @@ digestion ,overeating in general, or eating too fast can also trigger indigestio
 loaf 1 pl.loaves
 buffet n v,The nation had been buffeted by a wave of strikes.
 appetite n
+ appeal 1
+ agitate 1
 
 /snack
 jelly
@@ -2824,6 +2897,8 @@ baobab  [ˈbeɪəʊbæb]
 sap v1 n::fool 1
 sprout nvu bud 1 
 wood
+wreath n vu
+ wealth 1
 
 //animal
 hound   :dog:bark           wolf:howl n.v    pl.wolves
@@ -3030,7 +3105,8 @@ minimum
  minister 1
 miniature
 minuscule j1 [ˈmɪnəskjuːl]
-maximise 
+maximise
+utmost nj 
 ```
 
 
@@ -3127,6 +3203,9 @@ shut vu
 useful
 comeback 东山再起
 usage ,highest smartphone usage
+pregnancy n
+goodness 
+
 ```
 nation n民族 国家 ,Chinese Nation
 nationality n ,She has dual nationality
@@ -3179,43 +3258,58 @@ abbreviation [əˌbriːviˈeɪʃn]
      via 1
 pronoun n
 
-exceed v beyond transcend v
-    excess adj.n [ɪkˈses] :redundant [rɪˈdʌndənt] superfluous j [suːˈpɜːfluəs] ,the wealthy gave from their excess, but she gave all she had.
- express 1 
- recess 1 
- recession 1
-exclusive ;排外的 ,exclusive agency. ,exclusive video. exclusively ,human beings don't exclusively hold the patent on suffering.
+
+
+exceed v beyond transcend v exceeding
+excess
+express 1 
+recess 1 
+recession 1
+creep
+exclusive
+
+
+exclusive ;排外的 exclusively ,exclusive agency. ,exclusive video.  ,human beings don't exclusively hold the patent on suffering.
 inevitable :must do
 available 1 注意i
-conspicuous 1 f
-utmost :maximize 
- :utter complete whole
-        complex | simple
-ultimate :终极一班   [ˈʌltɪmət]
-exceeding
- creep
- exclusive 1 
+conspicuous 1 f 
 typically
-extremely 1
-particular 1
 bodily 1jy
-incredible unblievable
+
+
+incredible 
+:unblievable
+
+//过量-过度-多余
+excess j.n [ɪkˈses]
+redundant [rɪˈdʌndənt] 
+superfluous j [suːˈpɜːfluəs] ,the wealthy gave from their excess, but she gave all she had.
 
 
 
 utmost
 utter 
-ultimate
-
+ultimate jn:终极一班   [ˈʌltɪmət]
 
 
    rough
 thorough
  through via [ˈvaɪə]
 
-彻底的
-thorough j utter v1 j [ˈθʌrə]
-absolutely clean 1 
+//彻底的
+thorough j 
+utter v1 j  [ˈθʌrə]
+absolutely 
+clean 1y jvn
+
+
+complete 
+whole
+
+complex | simple
+
+complex
+complete
 ```
 
 
@@ -3276,7 +3370,8 @@ specific	[spəˈsɪfɪk]    specific
 												:specify		
 accumulate accumulation 1
 	simulate simulation
-		imitate imitation
+		imitate imitation nj
+		       limitation 1
 		disguise    [dɪsˈɡaɪz] disgust 1  | disclose ,fine clothes may disguise, but silly words will disclose a fool.
 			pretend v
 			feign
@@ -3486,7 +3581,8 @@ sightless
 eyesight n
 visual 
  usual j 
-vision ::imagination 1
+vision nv imagination 1
+ provision 1
 visible ,the Great Wall is not visible with the naked eye from space.
 invisible :transparent
 visit
@@ -3606,7 +3702,7 @@ fit
 //genius [ˈdʒiːniəs]
 ingenious fabulous 1 ,come up with a ingenious idea. 
 genius
- genuine  [ˈdʒenjuɪn] :real
+ genuine j [ˈdʒenjuɪn] :real
  general 1 generalize v ,generalizing from small samples of data is the bread and butter of science.
  generator 1 
 talent i
@@ -3620,7 +3716,7 @@ wisdom n ,well, if I could offer up another piece of wisdom?
 ,a clever fellow
 outsmart v
 outwit v
-
+advisable 1 ,at the moment your presence on the streets is not advisable.
 
 adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
                          dish
@@ -3649,7 +3745,7 @@ port
  portfolio n::
      foliage:leaf
 harbor ; shelter 1n refuge cover screen v;1 n
-gulf golf
+gulf golf ,Persian Gulf
 bay 1
  pay
 inlet v-n:: entrance 1
@@ -3751,10 +3847,10 @@ dirty   [ˈdɜːti]
 dirt 1
 
 strategy  [ˈstrætədʒi]	tactics	
-                      intact j 完好无损的 
+                      intact j 完好无损的 complete 1
                       intake :inject
                       contact 1	
- tragedy [ˈtrædʒədi] | comedy [ˈkɒmədi]
+ tragedy [ˈtrædʒədi] | comedy 1 [ˈkɒmədi]   ,one generation's tragedy is the next one's joke.
 
 lapse
 shortage
@@ -3889,8 +3985,7 @@ concoct v [kənˈkɒkt]
 outcome | outset 1
 result
 ramification [ˌræmɪfɪˈkeɪʃn] 3
-consequence
- consensus 1
+consequence 1
 conclusion 1
 conclude v over
 eventually 
@@ -3963,6 +4058,7 @@ ounce
 pound
 shilling 1
 pint
+feet
 //mearsure
 gauge	measure ::措施 测量
 criterion n l.criteria [kraɪˈtɪəriən] ,the certificate has become the sole criterion for judging a person, deciding whether he can get an opportunity or even get a job.
@@ -4103,9 +4199,6 @@ sew [səʊ] ,she'll wear herself out nursing and sewing.
 ribbon n [ˈrɪbən]
 fabric n fabricate v1
 
-be baying for
-be eager for
-desire 1
     
 migrate    v [maɪˈɡreɪt] 
 emigrate   u [ˈemɪɡreɪt]
@@ -4121,6 +4214,7 @@ reveal v revelation
 | conceal hide closet 1j
 expose
 ,ferret out
+ ferry 1
 disclosure n
 
 
