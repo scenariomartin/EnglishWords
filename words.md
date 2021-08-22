@@ -21,7 +21,7 @@
 
 
 形近义不同
-义近+词系
+义近+词系+意义
 
 词系+反义
 无义近则放置在形近
@@ -47,7 +47,6 @@ napkin nap 横向形近
 
 strip:stripe  形近义近
 
-bee :honey:dense
 
 流程符号: -
 
@@ -276,7 +275,7 @@ spill vun
  drill
 overflow
 leak	leak
-		leap :skip:skim bound 1 sprang 1 ,sprang up
+		leap :skip:skim =bound 1 sprang 1 ,sprang up
 		lip     ,Arya was chewing at her lip in that disgusting way she had.
 		lid :toilet 1 lavatory 
        bleak
@@ -303,7 +302,7 @@ surge 1激增 un:wave ,the waves of color of the wild flowers mixed with the wav
       weave 1
 foam ,trimmed with lace as pale as foam.
 bubble 1 balloon
-drunk id.adj.v prep.drink
+drunk ijv prep.drink
 waterproof=water+proof 1 ,so you need to make sure the device has a waterproof seal.
 liter 1
 nourish 1v [ˈnʌrɪʃ] ,the Chinese believe water nourishes the spirit and mind of people.
@@ -322,12 +321,12 @@ versus
 vest :coat
 verdict n
 veto [ˈviːtəʊ] | vote
-vein ,leaf vein
+vein nv,leaf vein
 verbal 1
 
 //pull
 pull ,pull up v1 ,dawn broke as they crested a low ridge, and finally the king pulled up.
-tug
+tug 3nuv
 tuck
 roll up
 
@@ -342,11 +341,12 @@ adolescence adolescent
 
 行为-动作(自己主动)
 //human deed posture 
-swallow	swallow 
-		swollen :swell::good [ˈswəʊlən]
-                 dwelling
-        allow
-        allowance
+swallow	
+ swollen =belly 1n vn
+         =swell::good [ˈswəʊlən]
+          dwelling
+ allow
+ allowance
 whisper nv
 hum 1
 murmur
@@ -399,7 +399,7 @@ caress [kəˈres] 1 ,as if the only reason we would caress our spouses would be 
 :pet n v j ,the petting zoo
 pinch 1vun
 smash ::,Helen, you can stop smashing up that poor clock now.
- :bust prep. busted ::raid chest 1
+ :bust prep. busted ;raid chest 1
 /nose
 sneeze nu
 
@@ -425,14 +425,14 @@ organ	[ˈɔːɡən]
  organization n
 muscle n v muscular j
  music
- masculine :feminine jn:lunar [ˈfemənɪn] ,lunar calendar
+ masculine jn :feminine jn:lunar [ˈfemənɪn] ,lunar calendar
 flesh n uv
 bone :fracture  [ˈfræktʃə(r)] :plaster nv :cement concrete j1 nv1 ,he tried to plaster on a smile now and then.
 :pelvis ,wide pelvis [ˈpelvɪs]
 spine ,the spine near the site of the fracture.
 /external 默认为n 
 eye 1  
-ear :aural 1
+ear :aural 1j
 brow 1 eyebrow
 palate 1n [ˈpælət]
  plate n v电镀...
@@ -440,7 +440,8 @@ palate 1n [ˈpælət]
 cheek
  cheer cheerful :joy
 chin
-beard bear beer beef bread
+beard 4
+neck    ,out-stretched neck.
 chest 1 :breast
  crest 1
 hand ,hand lotion : soap [səʊp]
@@ -454,11 +455,19 @@ thumb n [θʌm] ,you put your thumb on the scale.
 elbow vn: ,elbow savers could be a thoughtful, inexpensive gift.
 wrist
 waist
-abdomen abdominal [æbˈdɒmɪnl]
+abdomen abdominal =belly n uv: [æbˈdɒmɪnl]
   dome 1
 thigh [θaɪ] ,that's great, but be realistic, Rome wasn't built in a day, and neither were you thigh. 
 knee 1
 fur 1 
+
+4
+beard 
+bear 
+beer 
+beef 
+bread 
+breed
 
 
 
@@ -479,7 +488,7 @@ shoe :sole 1
 overall 1
 sock stock
 	sick 1
-	suck
+	suck 1
 	soak 1
 	seek
 cap
@@ -560,7 +569,7 @@ mop nv [mɑːp] mopping
 //kitchen 默认为n
 /kitchenware
 knife
-fork :prong ,the plan fits in with two prongs of the national development strategy.
+fork :prong n,the plan fits in with two prongs of the national development strategy.
 spoon ,nothing of theirs was left except the old seal and spoon. 
 pan
 pot :pitcher crock 1 
@@ -673,6 +682,7 @@ architecture 1 architect i
 mathematics ,mathematical model
 lecture :讲座
  treasure 1
+ treason 1
 lesson n::教训 
 philosophy philosopher i
 historian i historic j history n
@@ -681,6 +691,7 @@ historian i historic j history n
  chronicle 1nv [ˈkrɒnɪkl]
 paleontologist :软骨鱼 [pælɪɒn'tɒlədʒɪst] 
 psychiatry 1
+agriculture=agri+culture
 
 //mathematics
 dimension n
@@ -727,7 +738,7 @@ introduction
 plot ;情节
      :con'spiracy ni intrigue scheme [skiːm]:plan 
         [kənˈspɪrəsi]          skim:browse u
-setting v-n;backdrop 1 ,the play has its setting in Vienna. 
+setting v-n;剧作背景 backdrop实物背景 background人物背景 1 ,the play has its setting in Vienna. 
 climax n
 conclusion
 narrative [ˈnærətɪv]
@@ -736,6 +747,7 @@ fiction fictitious j ,fiction is fictitious.
 preface catalogue title content 1
 composition 1 compose vu
 prose nvu
+ rose 1
 annotation 1
 comment 1vn
  probe 1
@@ -761,7 +773,7 @@ biology		biology
 			geology		地质学
 toxin	[ˈtɒksɪn]
 :poison nv fatal 1 poisnous j [ˈpɔɪzənəs] ,our nation is poisoned.
- prison n jail Ame gaol Eng detention dungeon :flee vu escape vn [ˈprɪzn ] [dʒeɪl] [ˈdʌndʒən]
+ prison n jail Ame gaol Eng vn detention dungeon :flee vu escape vn [ˈprɪzn ] [dʒeɪl] [ˈdʌndʒən]
           jam ; jar junk 1 ,last week's attempt to fix the unite was swanked by a jammed bolt. 
           jargon n,industry jargon [ˈɪndəstri]
           jug 1
@@ -812,7 +824,7 @@ atmosphere
 ,ozone layer
 vicinity ,I just pointed him in the general vicinity.  [vəˈsɪnəti]
 autumn :fall n vu,fall back 后退
-fume n gas air
+fume n gas air fog 1
 climate
 acre    ,four-acre site [ˈeɪkə(r)]
 plain 1
@@ -931,6 +943,7 @@ ambulance 1
 locomotive n车头
 diversion 1 n,the traffic diversion was due to an accident on the mainroad.
 van nv
+bulldozer
 
 tanker o ::liner:: 1 :shipment :export   [ɪkˈspɔːt]
         :cargo                  expert 1 [ˈekspɜːt]
@@ -957,6 +970,7 @@ aerocraft
 aerial [ˈeəriəl] ,I was a stone-cold aerial hunter.
 aircraft n 
 flight 1
+airline n
 spacecraft ,unmanned spacecraft. 
 
 
@@ -979,6 +993,7 @@ postwar
 defence n defense nv defend v
  defendant 1 
 combat nvu
+bomber 
 	
 //instrument
   instruct 1
@@ -1025,9 +1040,9 @@ fulfil v
 ```
 形
 condense   1
-dense adj  senior
-		   seminar [ˈsemɪnɑː(r)] 
-		   nominal ,but the more recent surge in its nominal exchange rate is puzzing and awkward.
+dense j  senior
+		 seminar [ˈsemɪnɑː(r)] 
+		 nominal ,but the more recent surge in its nominal exchange rate is puzzing and awkward.
 density n
 decent 1
 scent
@@ -1106,7 +1121,7 @@ eruption	erosion corrode vu 关于化学 decay vn rot 1vn 关于生物,建筑 co
          laver  [ˈlɑːvə]
          lavender   [ˈlævəndə(r)] :violet j-n::1
  alcohol
-evaporate   [ɪˈvæpəreɪt]
+evaporate v  [ɪˈvæpəreɪt]
  vapor :steam   [ˈveɪpə(r)]
 dissipate [ˈdɪsɪpeɪt] ,and surface area how much body heat you can dissipate.
 release
@@ -1168,7 +1183,7 @@ unify v unified j ,we have a unified Congress, not the paralyzed, divided Congre
  signify
 union n
 synthesize  [ˈsɪnθəsaɪz]
-incorporate ::include v comprise involve 1v
+incorporate v;include v comprise involve 1v
   corporate 1
 collaborate ,collaborate with
    laboratory 1
@@ -1226,7 +1241,7 @@ fragrant j fragrance n [ˈfreɪɡrəns] ,what good is it to have a flower that l
 rotten j rot 1vn ,rotten egg. 
 spice 2nv spicy j [spaɪs] 
 :pepper
-
+nostril n
 
 pepper 2	
  paper
@@ -1249,7 +1264,7 @@ court ni v1  courtyard 1
 convict ::n. criminal
           discrimination 1
 prosecute:sue-convict-penalty
- persecute v1 哥白尼 ,it was harm to persecute them. 
+ persecute v1 哥白尼 :oppress ,it was harm to persecute them. 
  parachute  [ˈpærəʃuːt]
 penalty [ˈpenəlti] ,death penalty
 :punish ,<<Crime and Punishment>>
@@ -1336,10 +1351,10 @@ spin n-v::textile 1  [spɪn]
            mature j
 rotate
 
-摇摇晃晃-倾斜-蹒跚
+摇摇晃晃-倾斜-蹒跚-头晕
 //reel
-reel 0 ::
- creep :crawl 
+reel 1n u
+ creep u=crawl nuv -i马屁精
         claw :scratch 1 :scar 1 dent 1
         crow 1
         clutch :grab scratch :car
@@ -1347,7 +1362,7 @@ reel 0 ::
 stumble
  tremble 1
 stagger  [ˈstæɡə(r)]
-:dizzy ,headaches and staggering fits of dizziness made me reel like a drunk.
+:dizzy jv ,headaches and staggering fits of dizziness made me reel like a drunk.
 
 lean
 oblique     [əˈbliːk]
@@ -1363,7 +1378,7 @@ shiver 1
 
  stuff
 staff
-clerk
+clerk 1
  clergy 1
  cleric 1
 personnel i
@@ -1399,7 +1414,7 @@ investment 1 , the asian infrastructure investment bank was proposed by China in
 cash rush crush:walnut 1
 change ::,it's a Polish custom to throw change at the bride.
 sponsor nv :patron 1
-allowance
+allowance n
 fortune :: 1
 deficit [ˈdefɪsɪt]
  definite j [ˈdefɪnət] ,and do you think this book has definite literary value?
@@ -1422,7 +1437,7 @@ finance nv financial adj
  stroke
 stock n v1 adj :bond
  stack
-  tackle v:deal ,what does matter is how we tackle this horrible incident.
+  tackle v:deal dispose 1un ,what does matter is how we tackle this horrible incident.
 stake 
 :bet nuv 打赌
 debt 1 loan 1
@@ -1431,8 +1446,14 @@ debt 1 loan 1
 shilling 1
 subsidy n
 recession 1 :stagnant j  [ˈstæɡnənt]
-effect 1 asset n property properties n::性质
-                 proper 1
+/资产
+effect 1 
+asset n  ,an asset. [ˈæset]
+ arrest 1
+ cassetle 1  
+property properties n::性质
+ proper 1
+/
 rent 1n vu ,the East End store is not just spacious and cheap to rent. 
                                 不仅宽敞而且租金便宜
 ,exchange rate
@@ -1500,7 +1521,7 @@ bid
 claw 1
 scratch
  scramble 1
-rake 0 comb 1
+rake vun  comb 1
 spade 0 :trump nv::1  ,trumped-up 1岳飞
              Trump 川普 impeach v impeachment n
          triumph nu [ˈtraɪʌmf]
@@ -1513,8 +1534,9 @@ missionary i mission 1
 virgin ji ,Virgin Mary
 ,Holy Ghost
 catholic   [ˈkæθlɪk]
-clergy
+clergy i
 cleric n 1 [ˈklerɪk]
+ clerk
 divine
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
  prey :hunter predator:fierce j :chase   
@@ -1597,7 +1619,7 @@ prosperity 1
 grease 1 :lubricate   [ˈluːbrɪkeɪt]
 oil ,oil giant BP has started paying medical claims to victims of the gulf of Mexico oil spill.
  ,natural gas.
-patriotic 0 | treason [ˌpætriˈɒtɪk]
+patriotic 0 | treason 1 [ˌpætriˈɒtɪk]
  patrician 1
 petrol	petrol 	 [ˈpetrəl]
 		patrol   [pəˈtrəʊl] :parade 1
@@ -1672,7 +1694,7 @@ bind vun
  :disabled handicap n v1 cripple nv  :mute 1 palsy 1
  bunch 1
 
-:p bound::leap 1
+:p bound;=leap 1 p.bind
     :bounce 1 
 bundle n ,a bundle of cable and pipes heading in the same direction.
 
@@ -1788,6 +1810,7 @@ specification 1 说明书
 保证-发誓-誓言
 
 //warrant n
+  warrior i 德玛
 warrant ::1 n licence Eng license Ame ,drive's licence.
 vow swear pledge 1nv [pledʒ] prep.sworn 1    
  sew 1 wear                  prep.worn
@@ -1816,7 +1839,7 @@ confirm :identify  [aɪˈdentɪfaɪ] ,the identity of the third victim has yet t
 affirm :assert v:claim vn::索赔1:announce 1 declare v announcement n 
  affair 1n   reclaim 1; 
              exclaim 1
-ascertain [ˌæsəˈteɪn]
+ascertain v [ˌæsəˈteɪn]
 
 //betray
 treachery
@@ -1946,14 +1969,16 @@ present 4 n ;gift ;now ,at present.
 tender 1
 
 
-
+传播-伸展-延伸-膨胀-扩大-扩展-拓宽
 spread 1 [spred]
 stretch trend :tendency
  treachery 1
 extend extended
-expansion   :inflation
-:expand     ,how his company will soon be expanding to fill the four-acre site.
-:swell 1
+expand ,how his company will soon be expanding to fill the four-acre site.
+expansion  ;inflation ;swell 1
+
+
+
 intent  
   tent 1
 intention
@@ -1992,8 +2017,10 @@ participant :candidate 1
  particle 1
  partition 1
  partial 1 preference ,out of preference
+           prefer vu
 
-assume
+//假定-猜
+assume v
 assumption ,the assumption was that flight 370 went down off the coast of Australia.
  resume 1
 presume
@@ -2048,6 +2075,7 @@ theory
 atom    ,neighbouring atom
  atomic j
 molecule	[ˈmɒlɪkjuːl] :particle n :minuscule j1
+ mole 1i
  module n
  mould ::霉菌 :cast tv 
  medal 1
@@ -2097,6 +2125,7 @@ liter 1
  litter
  literature 1
 /temperature
+ temperament 1
   literature
 heat nv
  cheat 1
@@ -2249,13 +2278,15 @@ extract
 extreme 1        [ɪkˈstriːm]
 ,extrovert personality
 
+tug 1
 tub 1
-rub ,rub salt in a wound. ,rubbing alcohol ,rub off on ::1
+rub p.rubbed ,rub salt in a wound. ,rubbing alcohol ,rub off on ::1
 ruby 1 
 rob v robber i:hostage i1 ,rescue robber
 robe nvu
  rope 1 cord nv ,some nurse tripped over the power cord.
- rode 1 prep. ride
+ rode 1 p.ride
+ rape 
 mud 1
 mad
 mob ivu ,angry mob  :rogue 1 :riot 1
@@ -2322,10 +2353,8 @@ image
 album
 gallery
 photo picture
-frame ::,hey, look, I got some frame grabs from the overpass. :by-pass:,step over
-                                                    ::footbridge :beyond
-                                                    :passage n:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1 shaft n
-clip ::回形针                                                                                          shift
+frame n v :springboot ,hey, look, I got some frame grabs from the overpass.
+clip ::回形针
 shoot ,shooting at the Hollywood Bowl was the biggest highlight ever.
      p.shot            Halloween
 graphic 图像,图表
@@ -2338,6 +2367,12 @@ projector n ,movie projector.
 
 
 ```
+overpass n footbridge v beyond
+:by-pass:,step over
+:passage n:: [ˈpæsɪdʒ] :corridor tunnel 1 access::1 shaft n
+                                                    shift
+
+
 autumn
 winter
 wind
@@ -2418,7 +2453,7 @@ soldier:
 自我-人格-品质-性格-为人-行为(评价)-表露-情感-感觉-感知-心情/情绪
 self-personality-character-trait-为人-deed-show-emotion-feel-mood
 //self
-individual
+individual jn
 soul
 being ,human beings
 
@@ -2503,7 +2538,7 @@ drill :plunge nuv
 see ::视为 ,see sth as...
 gaze    ,Dorothy leaned her chin upon her hand and gazed thoughtfully at the Scarecrow.
  graze ::grass wipe
-fly prep.flew 
+fly p.flew p.flown 
 /senior
 insult vn [ɪnˈsʌlt,ˈɪnsʌlt] ,insult one's intelligence
  :humiliation n [hjuːˌmɪliˈeɪʃn]
@@ -2577,7 +2612,8 @@ endeavor
 diligent
 exert v 1
 
-//show manifest::
+//show manifest; temperament 1
+gentle temperament
 desire ,I have no desire to punish the innocent.
  desirable ,now of course it isn't very desirable at this end.
  advise 1
@@ -2585,6 +2621,8 @@ desire ,I have no desire to punish the innocent.
 delight
 disgust 1
  disguise 1
+ 
+ 
  
 //emotion affection 1
 emotion 2 emotionally, her struggle with a brain tumour is book's most emotionally resonant subplot.
@@ -2693,7 +2731,7 @@ thirsty
 //pathetic j
 pathetic:poor:poverty
          pool                        passion 1 
-sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity, it was a pity it happened to her, the prettiest in the village.
+sympathy :sympathize [ˈsɪmpəθaɪz] compassion pity n, it was a pity it happened to her, the prettiest in the village.
                                   compass
                                   company ::fellow
           synthesize 1
@@ -2730,7 +2768,7 @@ efficient 有效率的
 effective	有用的
 effect n::1 v [ɪˈfekt] ,the effect on... 
 :affect      影响 :influence ,rub off on.1
- affection 1
+ affection 1 感情
 liberty
 liberal ij  宽宏大度的 心胸宽阔的 开明的
   verbal 1
@@ -2738,7 +2776,7 @@ libertarian i [ˌlɪbəˈteəriən]
 literacy	1
 literature	1
 
-raid	突袭 airstrike
+raid nv	突袭 airstrike
 maid 1
  mad
  rid	2	get rid of
@@ -2759,7 +2797,7 @@ university
 universe verse 1
 satellite    [ˈsætəlaɪt]
  versatile j ,versatile robot [ˈvɜːrsətl]
-cosmos n cosmic adj.
+cosmos n =cosmic j
 comet [ˈkɒmɪt]
  comedy 1
 star
@@ -2823,7 +2861,7 @@ error 1
 追求-探索-探寻-寻找-寻觅-需求-需要-渴望-渴求-获得-得到-抓到-要求-强求-迫使
 seek
 pursuit n pursue vu
-quest n v
+quest nv
 
 demand nvu :I demand you give me access to your laboratory.
  recommend 1
@@ -2845,6 +2883,7 @@ grasp vn ::,figure out
  grass 1
  graze 1
  grape 1
+  rape 1
 seize v ,if she hit me with a stick, I'd seize it and break it under her nose.
 snatch vun 
 
@@ -2951,9 +2990,26 @@ sprout nvu bud 1
 wood
 wreath n vu
  wealth 1
+rose 1 p.rise
+
+
+hound
+wound
+bound
+found
+pound
+round
+sound
+around
+=surround
+abound
+ground
+playground
+background
+compound
 
 //animal
-hound   :dog:bark           wolf:howl n.v    pl.wolves
+hound  4vn :dog:bark           wolf:howl n.v    pl.wolves
  wound :scar 1 injury n :bruise nvu ,punch me in the chest, leave a bruise.
 crow nv::cock   [krəʊ] :scarecrow
  crowd   crock 1
@@ -3011,9 +3067,9 @@ elephant ivory n ,ivory relief::1 relieve
                         brief concise 1
 squirrel 1                  
 fox fax vn [fæks] :sly j 人类错误的说法
-mole :: [məʊl]
+mole 1; [məʊl]
 slug 8
-cattle [ˈkætl] :cow :bull 1 :butcher 1
+cattle [ˈkætl] :cow :bull 1 :butcher 1i
  castle  
  scatter 1
  coastal [ˈkəʊstl] 1 coast
@@ -3022,6 +3078,9 @@ sheep 1 :shear v :lamb 1
 mouse pl. mice
 vegetarian 1
 crab
+frog
+ fog 1
+ flag 1
 //mammal [ˈmæml]
 /primate    [ˈpraɪmeɪt] ,primates evolve over millions of years. I evolve in seconds.
 bat ::1 ,hitting a round ball with a round bat squarely is difficult.
@@ -3055,16 +3114,17 @@ agent	,senior agent
 agency 1 [ˈeɪdʒənsi]
 agenda schedule [əˈdʒendə] 
 
-组织-机构-部门
+组织-机构-部门-局
 organization
 institution
 agency 1
 department
 ministry
-
+bureau
 
 跟死亡有关的
 corpse nv
+suicide ni
 ```
 
 
@@ -3088,11 +3148,19 @@ bloom
 flower
  flour paste:: 
 
-marry
+//婚姻
+marry v
 marital j,we lived in an echo chamber of marital discord.
+mariage n
+bride i
+bridegroom i
+/不和
 discord	[ˈdɪskɔːd]
  discard throw 1
  discharge ::leave
+mischief 1n;naughty trick
+,not get along well with sb.
+/
 divorce
  dive
 
@@ -3141,10 +3209,10 @@ fantastic j
 充足的-足够的-丰富的
 ample amply y  [ˈmeɪpl]
  maple
- amplify v
+ amplify vu
  amplifier n :loudspeaker
  sample 1
-adequate j | scarce::1 j v:hardly [skeəs]
+adequate j | scarce;1 j:rare 1 v:hardly [skeəs]
 plentiful 1
 广泛的
 extensive j ,but the damage to the country is extensive.
@@ -3163,8 +3231,9 @@ minimum
  minister 1
 miniature jn
 minuscule j1 [ˈmɪnəskjuːl]
-maximise
-utmost nj 
+maximize v
+utmost nj
+diminish vu
 ```
 
 
@@ -3196,8 +3265,7 @@ p a n o r a m a :summary nj summarize v
 remain
 widget
 permit ,residency permit
-background
-locality     [ləʊˈkæləti] ,we were discussing the role of locality in writing, when suddenly it hit me.
+locality n   [ləʊˈkæləti] ,we were discussing the role of locality in writing, when suddenly it hit me.
 rap
 handwriting ::笔迹, 书法
 stride  ,now we know I have a longer stride. :pace nvu ,the pace of reform.
@@ -3322,7 +3390,7 @@ exceed v beyond transcend v exceeding
 excess
 express 1 
 recess 1 
-recession 1
+recession 1 跟recess意思相去甚远
 creep
  reel
 exclusive
@@ -3360,7 +3428,7 @@ thorough j
 utter v1 j  [ˈθʌrə]
 absolutely 
 clean 1y jvn
-
+pure
 
 complete 
 whole
@@ -3472,6 +3540,7 @@ leak 1
 chasm n::分歧 [ˈkæzəm]
  chaos 1
  chase nv 1
+slit vu n
 
 //identity 
  identical 1
@@ -3480,7 +3549,7 @@ chasm n::分歧 [ˈkæzəm]
 bride 1
  bribe 1
 bridegroom :spouse [spaʊs] 1
-drunk
+drunk 1i
 whore   [hɔː(r)]
 artist
 
@@ -3490,7 +3559,7 @@ political  [pəˈlɪtɪkl] ,political heritage, political legacy    ,any politic
 politician i
 policy
  police
- polite :courtesy [ˈkɜːtəsi] ,it's only common courtesy for me to check up on him, right?
+ polite :courtesy n [ˈkɜːtəsi] ,it's only common courtesy for me to check up on him, right?
          court 1
          courtyard  court+yard
  :salute nv ,the little prince clapped his hands, then conceited man raised his hat in a modest salute.
@@ -3499,9 +3568,10 @@ policy
 premier n::首相
 ,prime minister总理 ,in 2014, he was named as a possible prime minister candidate.
  :prime:: prior j1 priority n
- premise ,the crucial premise for our purposes is premise number two.
- promise 1
+ premise nuv [ˈpremɪs],the crucial premise for our purposes is premise number two.
+ promise 1   [ˈprɒmɪs]
  primary 1
+ comprise 1  [kəmˈpraɪz] 
 deputy n ,a former deputy health minister.
 superior j有优越感的 n [suːˈpɪəriə(r)]
   period 1
@@ -3524,9 +3594,9 @@ embassy
 constituent
 autonomy    ,ethnic     [ɔːˈtɒnəmi] ,autonomy seems more distant than ever, and the road to it ever unclear.
  automatic  [ˌɔːtəˈmætɪk]  ,auxiliary [ɔːɡˈzɪliəri] but the auxiliary motor can also be used in other circumstances. 
-bureau  [ˈbjʊərəʊ]          :assistant
-statesman id.
- salesman id.
+bureau 1 [ˈbjʊərəʊ]         :assistant
+statesman i
+ salesman i
 bribe corrupt 1 appropriate 1
 senator
 leadership n
@@ -3588,7 +3658,7 @@ soldier
 chef	[ʃef]
  :butcher
 chief 1 [tʃiːf] ::primary 1
- mischief ::naughty trick discord:,not get along well
+ mischief 1
 thief	[θiːf] :surreptitious	[ˌsʌrəpˈtɪʃəs]
 :steal p.stole sneak vun 
 :burglar 1
@@ -3668,6 +3738,7 @@ visual
  usual j 
 vision nv imagination 1
  provision 1
+visionary ji ,visionary statesman.
 visible ,the Great Wall is not visible with the naked eye from space.
 invisible :transparent
 visit
@@ -3805,8 +3876,8 @@ outwit v
 advisable 1 ,at the moment your presence on the streets is not advisable.
 
 adorn   [əˈdɔːn]    ,childish drawings adorn the wall.
-                         dish
-:decorate 1
+=decorate 1              dish
+
 
 
 ```
@@ -3830,7 +3901,7 @@ shore coast 1
 port
  portfolio n::
      foliage:leaf
-harbor ; shelter 1n refuge cover screen v;1 n
+harbor n;shelter 1n refuge cover screen v;1 n -v -u
 gulf golf ,Persian Gulf
 bay 1
  pay
@@ -3840,7 +3911,7 @@ inlet v-n:: entrance 1
 trash ::throw :trim 1 
 rubbish
 junk ,junk mail
-:dispose deal
+:dispose 1
 litter nv
  little 1
  cattle 1
@@ -3961,7 +4032,7 @@ senior school
 university universe
 college colleague
  village 1:valley
-undergraduate
+undergraduate ij    
 postgraduate
 master i v掌握
 doctor
@@ -3970,7 +4041,20 @@ term Eng 1
 semester Ame [sɪˈmestə(r)]
 playground
 
-criticism  
+
+foster v
+adoptive j [əˈdɒptɪv]
+breed 4vu n:
+
+//种类-物种
+sort nv
+species 1
+breed 4
+kind
+variety n
+
+
+criticism n  
 critic i1 
 crisis 1 
 
@@ -3985,9 +4069,16 @@ planet :star satellite [ˈsætəlaɪt] moon
 plain 
 
 idea n ideal jn ,I know this situation is less than ideal.
-terminate 进程的七个status
+terminate v 进程的七个status
+=cease vun desist u
 disconnect
-
+ 
+desist 1
+insist
+resist
+transistor
+assistant 1
+sister
 
 verify
 :identify
@@ -4049,6 +4140,8 @@ oral j ,oral cancer
  moral 1
 echo nv 1 
 eloquent 1j,eloquent speech.
+suck vn
+
 
 gossip :recreation ,i've got the juiciest bit of gossip ever.
 scandal ,the LuxLeaks scandal involved the theft of thousands of confidential files.
@@ -4130,7 +4223,7 @@ exorbitant j 1
 ,a pinch of
 ,a piece of wood
 medium j:middle n:l.media ,we're going to have two New York steaks, medium rare.
-raw rare:: cooked
+raw rare;1 cooked
 sheer 1
 scrap n v1 ,a scrap of silk.
 ,a handful of
@@ -4238,9 +4331,9 @@ store n v 1 :commodity 1 [kəˈmɒdəti] n bargain n::1 inventory 1nv
 stock        commercial j n:advertisement 1
 save         :procurement n
 deposit ::1
-reserve   reservation 1
-conserve conservation 1
-preserve preservation 1
+reserve vn  reservation 1
+conserve v n conservation 1
+preserve v n preservation 1
  deserve 1
 
 attendant
@@ -4254,7 +4347,7 @@ trial [ˈtraɪəl]
 test
 tentative::1
 laboratory 1  Eng [ləˈbɒrətri] Ame [ˈlæbrətɔːri]
-
+=lab
 证明材料-文凭-资格-合格
 qualify v   [ˈkwɒlɪfaɪ]
 quality nj
@@ -4404,7 +4497,7 @@ tent; intent; extent; content;
 tend; intend; extend; contend; pretend;
 tension; intension; extension;
 contest;
-tend; tendency; trend; apt 1
+tend v tendency n trend nu apt 1
 connotation; intension;
  annotation 1n
 tender
@@ -4485,7 +4578,7 @@ dust 1nv
 dirty jv 1 
 | 
 clean j nv y1 n 
-pure j  
+pure j;  
 purity n
  
  
