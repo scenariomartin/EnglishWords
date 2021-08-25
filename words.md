@@ -3514,6 +3514,7 @@ myriad nj
 magnificent
 splendid    ,in every other way they'd make a splendid match. math
 spectacular jn [spekˈtækjələ(r)]
+:spectacle n 壮观的景象
 优雅-优美
 grace
  race 1
