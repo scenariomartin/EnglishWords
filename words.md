@@ -476,7 +476,8 @@ finger
  configure=con+figure v
  feature 1 
 fingertip
-thumb n [θʌm] ,you put your thumb on the scale.
+thumb n [θʌm] ,you put your thumb on the scale.  ,thumb up.
+ tomb 1
 elbow vn: ,elbow savers could be a thoughtful, inexpensive gift.
 wrist
 waist
@@ -733,6 +734,7 @@ dimension n
 axis     [ˈæksɪs] ,vertical axis
 vertical
  virtue 1
+ verdict 1
 fuzzy 1     ::panda
 sphere ,under no circumstances do they see this sphere. 绝不能让他们找到球体.
 diameter :radius =1/2diameter
@@ -1570,6 +1572,7 @@ euros
 effect 1 
 asset n  ,an asset. [ˈæset]
  arrest 1
+ assert 1 =affirm 1
  cassetle 1  
 property properties n::性质
  proper 1
@@ -1665,6 +1668,7 @@ divine j
  dive 1 p.diving
  divorce 1
 prayer :condolence 1 ,president Obama offered his prayers and condolences to Mr.lala's family.
+ pray
  prey :hunter predator:fierce j :chase :beast 1   
 choir [ˈkwaɪə(r)] :chorus  [ˈkɔːrəs]
  choice n-j
@@ -2621,7 +2625,7 @@ clip ::回形针
 shoot ,shooting at the Hollywood Bowl was the biggest highlight ever.
      p.shot            Halloween
 graphic 图像,图表
-camera
+camera  ,camera crew.
  camel 1
 cinema 1
 projector n ,movie projector.
@@ -3261,6 +3265,8 @@ feast 4nu
 
 
 /snack
+ sneak
+ snatch
 jelly
 cupcake ,homemade cupcake
 dessert 1 ,you have to stop rushing me, you know what? you don't get any dessert.
