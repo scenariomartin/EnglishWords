@@ -1121,7 +1121,8 @@ scent
 
 //魅力-迷人-诱惑-引诱---引起-引发-触发-激起-唤起-引导
 obsession   [əbˈseʃn] ,be obsessed with
-lure vn::诱饵 tempt 1  [lʊə(r)]
+lure vn::诱饵 
+tempt 1  [lʊə(r)]
 entice t
 entrance v n1
 induce 1
@@ -1866,6 +1867,7 @@ regulate v regular 1ji ,in a regular way
   snip vn :scissors [ˈsɪzəz] 
   snap 
   ship
+  snippet
 
 
 
@@ -2092,10 +2094,88 @@ betray
 
 
 
-ability n
+ability n capable competent j
  stability
  liability
 disable v disabled 1
+
+ 
+                 able        ability
+                cable
+                fable
+                sable
+                table
+  adore      adorable
+              amiable     amiability
+            advisable   advisability
+            available   availability
+              capable     capability
+  comfort comfortable  
+  compare  comparable  comparability
+   desire   desirable   desirability
+           despicable
+              disable     disability
+              durable     durability
+  favor     favorable
+           inevitable  inevitability
+   misery   miserable   
+  predict predictable predictability
+              potable     potability
+rely         reliable    reliability
+               stable      stability
+  respect respectable respectability
+               liable      liability
+         unbelievable
+          unstoppable
+  value      valuable
+  vary       variable    variability
+           vulnerable  vulnerability
+           
+           
+
+               edible      edibility
+             eligible    eligibility
+contempt contemptible
+             feasible    feasibility
+             horrible
+           incredible  incredibility
+            invisible   invisibility
+             possible    possibility
+          responsible responsibility
+              visible     visibility
+
+
+ anxiety      anxious    anxiously               
+            conscious  consciously  consciousness
+contatgion contagious 
+            delicious 
+          deleterious
+              dubious    dubiously               
+curiosity     curious    curiously               
+           fictitious 
+             gracious 
+            ingenious  ingeniously                 
+           infectious 
+mystery    mysterious mysteriously                   
+            notorious 
+              obvious    obviously                
+             previous   previously                 
+           prodigious 
+           pernicious 
+religion    religious  religiously                 
+             spacious 
+             specious 
+        surreptitious 
+              serious    seriously   seriousness
+           suspicious suspiciously                  
+              tedious 
+              vicious 
+
+
+
+
+
+
 
 ```
 
@@ -2137,7 +2217,7 @@ duly y
 //des
 despair 1 [dɪˈspeə(r)] :desperation
 despise 3v 
- despicable j1 [dɪˈspɪkəbl]  ,<<despicable me>>
+ despicable j1 =contemptible [dɪˈspɪkəbl]  ,<<despicable me>>
   :base nv j basest 1 base的最高级
 despite 1 p.尽管 n:despise 
 dispute 2 ,is there anyone here who would dispute my right?
@@ -2758,8 +2838,10 @@ wicked 1jn vicious [ˈvɪʃəs] ,vicious words.
   scissors [ˈsɪzəz] 1
  eerie j [ˈɪəri]
 responsible liable liability n ,he stated that he was not liable for his wife's debts.
- correspondence 1
-
+ correspondence 1 correspond u
+ response n respond v
+ 
+ 
 //character::role personality
 flake ::fish :juvenile ,teenage flake and college dropout
 odd 1j::
@@ -2878,7 +2960,7 @@ satire n [ˈsætaɪə(r)]
 /轻蔑-轻视-不屑-鄙视
 despise
 scorn nvu 
-contempt
+contempt 1
 slight v1 | flatter
 ,look down on.
 
@@ -2927,7 +3009,7 @@ spirit n v spiritual j [ˈspɪrɪt] ,spiritual but not religious.
  inspire 1
        indignation     
 hatred [ˈheɪtrɪd] :hate resent v,he'll resent me for putting pressure on him.
- haste 1
+ haste 1               present 1
 curious j curiosity n::
 lest conj.1 以免 :worry
 embarrassment n embarrass n1 [ɪmˈbærəs] awkward j1 [ˈɔːkwəd]
@@ -3760,7 +3842,7 @@ bodily 1jy
 
 
 incredible 
-:unblievable
+:unbelievable
 
 //过量-过度-多余
 excess j.n [ɪkˈses]
@@ -4388,6 +4470,7 @@ strategy  tactic  [ˈstrætədʒi]
 
 lapse
  collapse 1
+ eclipse v相形见绌 n日食 黯然失色
 shortage n
 flaw
 drawback n
@@ -4685,6 +4768,7 @@ suspicious  ,you noticed his resemblance to your father and you became suspiciou
 puzzle ::n.拼图
  fuzzy
 dubious
+ tedious
 /证实
 
 推断----检查-观察-审查-调查-----探索-探测
@@ -4865,7 +4949,7 @@ fraud n ,the men were detained at two meat plants on suspicion of fraud.
 
 ```
 乏味的
-tedious j 
+tedious 1j 
 boring bore 1
 drag n1 v ,the lecture dragged on and my mind wandered.
 
