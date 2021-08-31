@@ -1093,8 +1093,8 @@ audience
 director
 actor
  act vun ,I act like this whole wheelchair thing doesn't change anything.
-actress
-
+actress 3
+drama n
 
 执行-实施-完成
 perform v
@@ -1121,7 +1121,7 @@ scent
 
 //魅力-迷人-诱惑-引诱---引起-引发-触发-激起-唤起-引导
 obsession   [əbˈseʃn] ,be obsessed with
-lure vn::诱饵 
+lure vn::诱饵 :hook vun 
 tempt 1  [lʊə(r)]
 entice t
 entrance v n1
@@ -1204,7 +1204,7 @@ dissipate [ˈdɪsɪpeɪt] ,and surface area how much body heat you can dissipate
 release
  grease 1
  disease 1
-    ease vn relief n::1 relieve v alleviate 1 v [əˈliːvieɪt] detente 1
+    ease vn relief n;1 relieve v alleviate 1 v [əˈliːvieɪt] detente 1
     easy jy
 emission ,curb greenhouse gas emission.  
  mission
@@ -1303,7 +1303,7 @@ isolate v quarantine nv 关于医学的 [ˈkwɒrəntiːn]
 insulate 1v 物理上的隔绝 [ˈɪnsjuleɪt] ,they have a coat of fur two layers thick that insulates them from the cold.
 seclude v隐居 [sɪˈkluːd]
 slice 1vn
-
+shatter nvu
 
 鼻子
 //scent :sniff 1
@@ -1485,9 +1485,12 @@ stumble
 stagger  [ˈstæɡə(r)]
 :dizzy jv ,headaches and staggering fits of dizziness made me reel like a drunk.
 
+
+//倾斜
 lean
 oblique     [əˈbliːk]
  oblige  1  [əˈblaɪdʒ]
+incline nvu
 tilt | straight [streɪt] 1 ,in an instant, they can all but disappear when Saturn tilts toward the sun.
 	   strain 3
 	 restrain
@@ -1555,20 +1558,20 @@ wealthy adj  healthy 1
 affluence 1n
 fiscal 1
 finance nv financial adj
- strike 1 stri系的大哥
- stroke
-stock n v1 adj :bond
- stack
-  tackle v:deal dispose 1un process v1 ,what does matter is how we tackle this horrible incident.
-stake 
-:bet nuv 打赌
+bond v-n;
+stock 4n; v1 j 
+stake 4n; v
 debt 1 loan 1
        loaf n1 
        lawn 1
+:bet nuv 打赌
 shilling 1
 subsidy n
 recession 1 :stagnant j  [ˈstæɡnənt]
+/元
 euros
+buck
+dollar
 /资产
 effect 1 
 asset n  ,an asset. [ˈæset]
@@ -1582,6 +1585,22 @@ rent 1n vu ,the East End store is not just spacious and cheap to rent.
                                 不仅宽敞而且租金便宜
 ,exchange rate
 economy n economic j economist i [ɪˈkɒnəmɪst]  
+
+
+strike 1 stri系的大哥
+stroke
+stock
+stack
+stake
+steak
+tackle
+
+
+
+tackle v
+deal 
+dispose 1un 
+process v1 ,what does matter is how we tackle this horrible incident.
 ```
 
 
@@ -1684,7 +1703,7 @@ paradise heaven
  palsy vn1 [ˈpɔːlzi]
  paralysis n [pəˈræləsɪs]
  paralytic j [ˌpærəˈlɪtɪk]
-pilgrim i1
+pilgrim ui1
    grim 1
 priest iv
 infidel n
@@ -2306,6 +2325,9 @@ expand ,how his company will soon be expanding to fill the four-acre site.
 expansion  ;inflation ;swell 1
 
 
+趋势
+trend
+
 
 intent  
   tent 1
@@ -2372,7 +2394,7 @@ collective conscience   1
 conscious j consciousness ,be conscious of
  conscience n;良心 内疚:guilty j;1  ,clear conscience 问心无愧
 aware j awareness ,be aware of
-realize n; realization
+realize vn; realization
 
 
 realize
@@ -2565,6 +2587,8 @@ district 2	distribute 2
 street
  stress 1
  mistress 3
+ distress 1
+  actress 1
 avenue  [ˈævənjuː]  ,I have a client in the garment bussiness, on Seventh Avenue
 metropolitan
  cosmopolitan
@@ -2825,6 +2849,10 @@ dignity=dign+ity
  respective各自的 ,we split up and sell it in our respective towns.
 conscience
 
+//奇怪的-奇异的
+bizarre j ,bizarre appearance.
+
+
 //trait 1 feature 1nv
 charity n
  wick n
@@ -2900,6 +2928,7 @@ idiot n [ˈɪdiət]
 silly ji 
 sap 1n;
 nerdy j [ˈnɜːdi]
+donkey ;1
 ///
 //motion
 /primary
@@ -3033,7 +3062,8 @@ affliction 1 [əˈflɪkʃn] ,it's easy to see your multipotentiality as a limita
 suffering
 anguish 2
 sorrow
-miserable 
+miserable
+distress 1 
 /
 dejected
 dispirit
@@ -3069,8 +3099,8 @@ reluctant j ,I was reluctant to accept Kevin at first.
 担心-害怕-恐怕-恐怖-恐惧-可怕的-惊吓--震惊-惊讶
 fear fearful
 horror n horrible j ,she is clutching her face in horror
-terror
- error
+terror 3
+ terrorist i =militant ji
 alarm 1::
 startle [ˈstɑːtl] v
  start
@@ -3322,6 +3352,7 @@ liver 1
 衣食住行
 //edible food 1 [ˈedəbl]
   eligible 1
+  incredible 4
 dine uv diner i  [daɪn]
 dinner
 dish
@@ -3344,7 +3375,8 @@ sour jv 馊
 bitter jtv
 delicious
 feast 4nu
-
+rice
+wheat
 
 /snack
  sneak
@@ -3499,6 +3531,7 @@ bat ::1 ,hitting a round ball with a round bat squarely is difficult.
 zebra:stripe    [ˈzebrə]
 deer = stag nu
  dear
+donkey ;1
 //insect
 mosquito
 parasite :host [ˈpærəsaɪt] 
@@ -3715,7 +3748,7 @@ toll ;去看翻译 ,the U.S. has supported the strikes despite a heavy death tol
 sudden 
 worldwide
 workforce
-swing nvu
+swing nvu :slide vn
 holder n, the Guinness World Records announced the new record holders for 2016.
 bulk ,everything here is available in bulk.
 robust 鲁棒性 :durable
@@ -3767,6 +3800,10 @@ style n v
 feasible j6
   feeble 1
 authority n
+ordinary j
+question nv
+regarding p =about
+ regard ,regard as
 ```
 nation n民族 国家 ,Chinese Nation
 nationality n ,She has dual nationality
@@ -4276,6 +4313,14 @@ circumstance    cir cum stance :environment:plight:situation condition
 territory n  
 
 
+ error
+terror
+terrorist i
+territory
+horror
+
+ 
+
  
  
  
@@ -4486,7 +4531,7 @@ interfere v
 kingdom
 kindergarten=kid+garden
 primary school
-junior school   juvenile adolescent adolescence:青春期    
+junior school   junior ij juvenile adolescent adolescence:青春期    
 senior school   
 university universe
               verse 1
@@ -4812,7 +4857,7 @@ chronicle 1
 
 存储-存入-保存-保护
 store n v 1 :commodity 1 [kəˈmɒdəti] n bargain n::1 inventory 1nv
-stock        commercial j n:advertisement 1
+stock 4      commercial j n:advertisement 1
 save         :procurement n
 deposit ::1
 reserve vn  reservation 1
@@ -5090,6 +5135,13 @@ strain 34 ; v n press yield :物理上的紧 ,he felt no strain nor weight and h
 ```
 
 ```
+
+aotomat
+autoatic j
+automation 
+automatically 不经思索的
+
+
 
 ```
 
